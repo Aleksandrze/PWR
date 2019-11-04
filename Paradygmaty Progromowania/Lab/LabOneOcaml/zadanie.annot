@@ -1,0 +1,503 @@
+"LabOneOcaml\\zadanie.ml" 3 17 21 "LabOneOcaml\\zadanie.ml" 3 17 28
+type(
+  float -> float -> float -> float
+)
+ident(
+  def trojkat "LabOneOcaml\\zadanie.ml" 11 264 264 "LabOneOcaml\\zadanie.ml" 1 0 -1
+)
+"LabOneOcaml\\zadanie.ml" 3 17 29 "LabOneOcaml\\zadanie.ml" 3 17 30
+type(
+  float
+)
+ident(
+  def a "LabOneOcaml\\zadanie.ml" 3 17 31 "LabOneOcaml\\zadanie.ml" 10 257 260
+)
+"LabOneOcaml\\zadanie.ml" 3 17 31 "LabOneOcaml\\zadanie.ml" 3 17 32
+type(
+  float
+)
+ident(
+  def b "LabOneOcaml\\zadanie.ml" 3 17 33 "LabOneOcaml\\zadanie.ml" 10 257 260
+)
+"LabOneOcaml\\zadanie.ml" 3 17 33 "LabOneOcaml\\zadanie.ml" 3 17 34
+type(
+  float
+)
+ident(
+  def c "LabOneOcaml\\zadanie.ml" 3 17 37 "LabOneOcaml\\zadanie.ml" 10 257 260
+)
+"LabOneOcaml\\zadanie.ml" 4 40 44 "LabOneOcaml\\zadanie.ml" 4 40 45
+type(
+  float
+)
+ident(
+  int_ref a "LabOneOcaml\\zadanie.ml" 3 17 29 "LabOneOcaml\\zadanie.ml" 3 17 30
+)
+"LabOneOcaml\\zadanie.ml" 4 40 45 "LabOneOcaml\\zadanie.ml" 4 40 46
+type(
+  float -> float -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"LabOneOcaml\\zadanie.ml" 4 40 46 "LabOneOcaml\\zadanie.ml" 4 40 48
+type(
+  float
+)
+"LabOneOcaml\\zadanie.ml" 4 40 44 "LabOneOcaml\\zadanie.ml" 4 40 48
+type(
+  bool
+)
+"LabOneOcaml\\zadanie.ml" 4 40 49 "LabOneOcaml\\zadanie.ml" 4 40 51
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( || )
+)
+"LabOneOcaml\\zadanie.ml" 4 40 52 "LabOneOcaml\\zadanie.ml" 4 40 53
+type(
+  float
+)
+ident(
+  int_ref b "LabOneOcaml\\zadanie.ml" 3 17 31 "LabOneOcaml\\zadanie.ml" 3 17 32
+)
+"LabOneOcaml\\zadanie.ml" 4 40 53 "LabOneOcaml\\zadanie.ml" 4 40 54
+type(
+  float -> float -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"LabOneOcaml\\zadanie.ml" 4 40 54 "LabOneOcaml\\zadanie.ml" 4 40 56
+type(
+  float
+)
+"LabOneOcaml\\zadanie.ml" 4 40 52 "LabOneOcaml\\zadanie.ml" 4 40 56
+type(
+  bool
+)
+"LabOneOcaml\\zadanie.ml" 4 40 57 "LabOneOcaml\\zadanie.ml" 4 40 59
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( || )
+)
+"LabOneOcaml\\zadanie.ml" 4 40 60 "LabOneOcaml\\zadanie.ml" 4 40 61
+type(
+  float
+)
+ident(
+  int_ref c "LabOneOcaml\\zadanie.ml" 3 17 33 "LabOneOcaml\\zadanie.ml" 3 17 34
+)
+"LabOneOcaml\\zadanie.ml" 4 40 61 "LabOneOcaml\\zadanie.ml" 4 40 62
+type(
+  float -> float -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"LabOneOcaml\\zadanie.ml" 4 40 62 "LabOneOcaml\\zadanie.ml" 4 40 64
+type(
+  float
+)
+"LabOneOcaml\\zadanie.ml" 4 40 60 "LabOneOcaml\\zadanie.ml" 4 40 64
+type(
+  bool
+)
+"LabOneOcaml\\zadanie.ml" 4 40 52 "LabOneOcaml\\zadanie.ml" 4 40 64
+type(
+  bool
+)
+"LabOneOcaml\\zadanie.ml" 4 40 44 "LabOneOcaml\\zadanie.ml" 4 40 64
+type(
+  bool
+)
+"LabOneOcaml\\zadanie.ml" 4 40 70 "LabOneOcaml\\zadanie.ml" 4 40 78
+type(
+  string -> float
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"LabOneOcaml\\zadanie.ml" 4 40 79 "LabOneOcaml\\zadanie.ml" 4 40 91
+type(
+  string
+)
+"LabOneOcaml\\zadanie.ml" 4 40 70 "LabOneOcaml\\zadanie.ml" 4 40 91
+type(
+  float
+)
+"LabOneOcaml\\zadanie.ml" 5 93 102 "LabOneOcaml\\zadanie.ml" 5 93 111
+type(
+  float -> float
+)
+ident(
+  ext_ref Pervasives.abs_float
+)
+"LabOneOcaml\\zadanie.ml" 5 93 112 "LabOneOcaml\\zadanie.ml" 5 93 113
+type(
+  float
+)
+ident(
+  int_ref b "LabOneOcaml\\zadanie.ml" 3 17 31 "LabOneOcaml\\zadanie.ml" 3 17 32
+)
+"LabOneOcaml\\zadanie.ml" 5 93 113 "LabOneOcaml\\zadanie.ml" 5 93 115
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( -. )
+)
+"LabOneOcaml\\zadanie.ml" 5 93 115 "LabOneOcaml\\zadanie.ml" 5 93 116
+type(
+  float
+)
+ident(
+  int_ref c "LabOneOcaml\\zadanie.ml" 3 17 33 "LabOneOcaml\\zadanie.ml" 3 17 34
+)
+"LabOneOcaml\\zadanie.ml" 5 93 111 "LabOneOcaml\\zadanie.ml" 5 93 117
+type(
+  float
+)
+"LabOneOcaml\\zadanie.ml" 5 93 102 "LabOneOcaml\\zadanie.ml" 5 93 117
+type(
+  float
+)
+"LabOneOcaml\\zadanie.ml" 5 93 117 "LabOneOcaml\\zadanie.ml" 5 93 118
+type(
+  float -> float -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"LabOneOcaml\\zadanie.ml" 5 93 118 "LabOneOcaml\\zadanie.ml" 5 93 119
+type(
+  float
+)
+ident(
+  int_ref a "LabOneOcaml\\zadanie.ml" 3 17 29 "LabOneOcaml\\zadanie.ml" 3 17 30
+)
+"LabOneOcaml\\zadanie.ml" 5 93 102 "LabOneOcaml\\zadanie.ml" 5 93 119
+type(
+  bool
+)
+"LabOneOcaml\\zadanie.ml" 5 93 120 "LabOneOcaml\\zadanie.ml" 5 93 122
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( && )
+)
+"LabOneOcaml\\zadanie.ml" 5 93 123 "LabOneOcaml\\zadanie.ml" 5 93 124
+type(
+  float
+)
+ident(
+  int_ref a "LabOneOcaml\\zadanie.ml" 3 17 29 "LabOneOcaml\\zadanie.ml" 3 17 30
+)
+"LabOneOcaml\\zadanie.ml" 5 93 124 "LabOneOcaml\\zadanie.ml" 5 93 125
+type(
+  float -> float -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"LabOneOcaml\\zadanie.ml" 5 93 125 "LabOneOcaml\\zadanie.ml" 5 93 126
+type(
+  float
+)
+ident(
+  int_ref b "LabOneOcaml\\zadanie.ml" 3 17 31 "LabOneOcaml\\zadanie.ml" 3 17 32
+)
+"LabOneOcaml\\zadanie.ml" 5 93 126 "LabOneOcaml\\zadanie.ml" 5 93 128
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( +. )
+)
+"LabOneOcaml\\zadanie.ml" 5 93 128 "LabOneOcaml\\zadanie.ml" 5 93 129
+type(
+  float
+)
+ident(
+  int_ref c "LabOneOcaml\\zadanie.ml" 3 17 33 "LabOneOcaml\\zadanie.ml" 3 17 34
+)
+"LabOneOcaml\\zadanie.ml" 5 93 125 "LabOneOcaml\\zadanie.ml" 5 93 129
+type(
+  float
+)
+"LabOneOcaml\\zadanie.ml" 5 93 123 "LabOneOcaml\\zadanie.ml" 5 93 129
+type(
+  bool
+)
+"LabOneOcaml\\zadanie.ml" 5 93 102 "LabOneOcaml\\zadanie.ml" 5 93 129
+type(
+  bool
+)
+"LabOneOcaml\\zadanie.ml" 6 137 143 "LabOneOcaml\\zadanie.ml" 6 137 144
+type(
+  float
+)
+ident(
+  def p "LabOneOcaml\\zadanie.ml" 7 168 170 "LabOneOcaml\\zadanie.ml" 7 168 211
+)
+"LabOneOcaml\\zadanie.ml" 6 137 148 "LabOneOcaml\\zadanie.ml" 6 137 149
+type(
+  float
+)
+ident(
+  int_ref a "LabOneOcaml\\zadanie.ml" 3 17 29 "LabOneOcaml\\zadanie.ml" 3 17 30
+)
+"LabOneOcaml\\zadanie.ml" 6 137 150 "LabOneOcaml\\zadanie.ml" 6 137 152
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( +. )
+)
+"LabOneOcaml\\zadanie.ml" 6 137 152 "LabOneOcaml\\zadanie.ml" 6 137 153
+type(
+  float
+)
+ident(
+  int_ref b "LabOneOcaml\\zadanie.ml" 3 17 31 "LabOneOcaml\\zadanie.ml" 3 17 32
+)
+"LabOneOcaml\\zadanie.ml" 6 137 148 "LabOneOcaml\\zadanie.ml" 6 137 153
+type(
+  float
+)
+"LabOneOcaml\\zadanie.ml" 6 137 154 "LabOneOcaml\\zadanie.ml" 6 137 156
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( +. )
+)
+"LabOneOcaml\\zadanie.ml" 6 137 156 "LabOneOcaml\\zadanie.ml" 6 137 157
+type(
+  float
+)
+ident(
+  int_ref c "LabOneOcaml\\zadanie.ml" 3 17 33 "LabOneOcaml\\zadanie.ml" 3 17 34
+)
+"LabOneOcaml\\zadanie.ml" 6 137 147 "LabOneOcaml\\zadanie.ml" 6 137 158
+type(
+  float
+)
+"LabOneOcaml\\zadanie.ml" 6 137 158 "LabOneOcaml\\zadanie.ml" 6 137 160
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( /. )
+)
+"LabOneOcaml\\zadanie.ml" 6 137 160 "LabOneOcaml\\zadanie.ml" 6 137 162
+type(
+  float
+)
+"LabOneOcaml\\zadanie.ml" 6 137 147 "LabOneOcaml\\zadanie.ml" 6 137 162
+type(
+  float
+)
+"LabOneOcaml\\zadanie.ml" 7 168 170 "LabOneOcaml\\zadanie.ml" 7 168 174
+type(
+  float -> float
+)
+ident(
+  ext_ref Pervasives.sqrt
+)
+"LabOneOcaml\\zadanie.ml" 7 168 175 "LabOneOcaml\\zadanie.ml" 7 168 176
+type(
+  float
+)
+ident(
+  int_ref p "LabOneOcaml\\zadanie.ml" 6 137 143 "LabOneOcaml\\zadanie.ml" 6 137 144
+)
+"LabOneOcaml\\zadanie.ml" 7 168 177 "LabOneOcaml\\zadanie.ml" 7 168 179
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( *. )
+)
+"LabOneOcaml\\zadanie.ml" 7 168 181 "LabOneOcaml\\zadanie.ml" 7 168 182
+type(
+  float
+)
+ident(
+  int_ref p "LabOneOcaml\\zadanie.ml" 6 137 143 "LabOneOcaml\\zadanie.ml" 6 137 144
+)
+"LabOneOcaml\\zadanie.ml" 7 168 182 "LabOneOcaml\\zadanie.ml" 7 168 184
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( -. )
+)
+"LabOneOcaml\\zadanie.ml" 7 168 184 "LabOneOcaml\\zadanie.ml" 7 168 185
+type(
+  float
+)
+ident(
+  int_ref a "LabOneOcaml\\zadanie.ml" 3 17 29 "LabOneOcaml\\zadanie.ml" 3 17 30
+)
+"LabOneOcaml\\zadanie.ml" 7 168 180 "LabOneOcaml\\zadanie.ml" 7 168 186
+type(
+  float
+)
+"LabOneOcaml\\zadanie.ml" 7 168 175 "LabOneOcaml\\zadanie.ml" 7 168 186
+type(
+  float
+)
+"LabOneOcaml\\zadanie.ml" 7 168 187 "LabOneOcaml\\zadanie.ml" 7 168 189
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( *. )
+)
+"LabOneOcaml\\zadanie.ml" 7 168 191 "LabOneOcaml\\zadanie.ml" 7 168 192
+type(
+  float
+)
+ident(
+  int_ref p "LabOneOcaml\\zadanie.ml" 6 137 143 "LabOneOcaml\\zadanie.ml" 6 137 144
+)
+"LabOneOcaml\\zadanie.ml" 7 168 193 "LabOneOcaml\\zadanie.ml" 7 168 195
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( -. )
+)
+"LabOneOcaml\\zadanie.ml" 7 168 196 "LabOneOcaml\\zadanie.ml" 7 168 197
+type(
+  float
+)
+ident(
+  int_ref b "LabOneOcaml\\zadanie.ml" 3 17 31 "LabOneOcaml\\zadanie.ml" 3 17 32
+)
+"LabOneOcaml\\zadanie.ml" 7 168 190 "LabOneOcaml\\zadanie.ml" 7 168 198
+type(
+  float
+)
+"LabOneOcaml\\zadanie.ml" 7 168 175 "LabOneOcaml\\zadanie.ml" 7 168 198
+type(
+  float
+)
+"LabOneOcaml\\zadanie.ml" 7 168 199 "LabOneOcaml\\zadanie.ml" 7 168 201
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( *. )
+)
+"LabOneOcaml\\zadanie.ml" 7 168 203 "LabOneOcaml\\zadanie.ml" 7 168 204
+type(
+  float
+)
+ident(
+  int_ref p "LabOneOcaml\\zadanie.ml" 6 137 143 "LabOneOcaml\\zadanie.ml" 6 137 144
+)
+"LabOneOcaml\\zadanie.ml" 7 168 205 "LabOneOcaml\\zadanie.ml" 7 168 207
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( -. )
+)
+"LabOneOcaml\\zadanie.ml" 7 168 208 "LabOneOcaml\\zadanie.ml" 7 168 209
+type(
+  float
+)
+ident(
+  int_ref c "LabOneOcaml\\zadanie.ml" 3 17 33 "LabOneOcaml\\zadanie.ml" 3 17 34
+)
+"LabOneOcaml\\zadanie.ml" 7 168 202 "LabOneOcaml\\zadanie.ml" 7 168 210
+type(
+  float
+)
+"LabOneOcaml\\zadanie.ml" 7 168 174 "LabOneOcaml\\zadanie.ml" 7 168 211
+type(
+  float
+)
+"LabOneOcaml\\zadanie.ml" 7 168 170 "LabOneOcaml\\zadanie.ml" 7 168 211
+type(
+  float
+)
+"LabOneOcaml\\zadanie.ml" 5 93 134 "LabOneOcaml\\zadanie.ml" 8 213 216
+type(
+  float
+)
+"LabOneOcaml\\zadanie.ml" 9 218 225 "LabOneOcaml\\zadanie.ml" 9 218 233
+type(
+  string -> float
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"LabOneOcaml\\zadanie.ml" 9 218 234 "LabOneOcaml\\zadanie.ml" 9 218 255
+type(
+  string
+)
+"LabOneOcaml\\zadanie.ml" 9 218 225 "LabOneOcaml\\zadanie.ml" 9 218 255
+type(
+  float
+)
+"LabOneOcaml\\zadanie.ml" 5 93 99 "LabOneOcaml\\zadanie.ml" 9 218 255
+type(
+  float
+)
+"LabOneOcaml\\zadanie.ml" 3 17 37 "LabOneOcaml\\zadanie.ml" 10 257 260
+type(
+  float
+)
+"LabOneOcaml\\zadanie.ml" 11 264 264 "LabOneOcaml\\zadanie.ml" 11 264 271
+type(
+  float -> float -> float -> float
+)
+ident(
+  int_ref trojkat "LabOneOcaml\\zadanie.ml" 3 17 21 "LabOneOcaml\\zadanie.ml" 3 17 28
+)
+"LabOneOcaml\\zadanie.ml" 11 264 272 "LabOneOcaml\\zadanie.ml" 11 264 274
+type(
+  float
+)
+"LabOneOcaml\\zadanie.ml" 11 264 275 "LabOneOcaml\\zadanie.ml" 11 264 277
+type(
+  float
+)
+"LabOneOcaml\\zadanie.ml" 11 264 278 "LabOneOcaml\\zadanie.ml" 11 264 280
+type(
+  float
+)
+"LabOneOcaml\\zadanie.ml" 11 264 264 "LabOneOcaml\\zadanie.ml" 11 264 280
+type(
+  float
+)
+"LabOneOcaml\\zadanie.ml" 12 285 285 "LabOneOcaml\\zadanie.ml" 12 285 292
+type(
+  float -> float -> float -> float
+)
+ident(
+  int_ref trojkat "LabOneOcaml\\zadanie.ml" 3 17 21 "LabOneOcaml\\zadanie.ml" 3 17 28
+)
+"LabOneOcaml\\zadanie.ml" 12 285 293 "LabOneOcaml\\zadanie.ml" 12 285 295
+type(
+  float
+)
+"LabOneOcaml\\zadanie.ml" 12 285 296 "LabOneOcaml\\zadanie.ml" 12 285 298
+type(
+  float
+)
+"LabOneOcaml\\zadanie.ml" 12 285 299 "LabOneOcaml\\zadanie.ml" 12 285 301
+type(
+  float
+)
+"LabOneOcaml\\zadanie.ml" 12 285 285 "LabOneOcaml\\zadanie.ml" 12 285 301
+type(
+  float
+)

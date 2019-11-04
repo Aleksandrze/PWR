@@ -1,0 +1,44 @@
+"LabTwoOcaml\\two.ml" 1 0 8 "LabTwoOcaml\\two.ml" 1 0 11
+type(
+  '_a list -> '_b
+)
+ident(
+  def zip "LabTwoOcaml\\two.ml" 1 0 0 "LabTwoOcaml\\two.ml" 1 0 -1
+)
+"LabTwoOcaml\\two.ml" 1 0 12 "LabTwoOcaml\\two.ml" 1 0 14
+type(
+  '_a list
+)
+ident(
+  def ps "LabTwoOcaml\\two.ml" 2 18 19 "LabTwoOcaml\\two.ml" 4 51 65
+)
+"LabTwoOcaml\\two.ml" 2 18 25 "LabTwoOcaml\\two.ml" 2 18 27
+type(
+  '_a list
+)
+ident(
+  int_ref ps "LabTwoOcaml\\two.ml" 1 0 12 "LabTwoOcaml\\two.ml" 1 0 14
+)
+"LabTwoOcaml\\two.ml" 3 34 37 "LabTwoOcaml\\two.ml" 3 34 39
+type(
+  '_a list
+)
+"LabTwoOcaml\\two.ml" 3 34 43 "LabTwoOcaml\\two.ml" 3 34 45
+type(
+  '_c list
+)
+"LabTwoOcaml\\two.ml" 3 34 46 "LabTwoOcaml\\two.ml" 3 34 48
+type(
+  '_d list
+)
+"LabTwoOcaml\\two.ml" 3 34 42 "LabTwoOcaml\\two.ml" 3 34 49
+type(
+  '_c list * '_d list
+)
+"LabTwoOcaml\\two.ml" 4 51 56 "LabTwoOcaml\\two.ml" 4 51 57
+type(
+  '_e -> '_e -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)

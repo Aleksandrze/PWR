@@ -1,0 +1,343 @@
+"LabThreeOcaml\\zad.ml" 2 2 7 "LabThreeOcaml\\zad.ml" 2 2 11
+type(
+  'a * 'a list -> int list
+)
+ident(
+  def zad2 "LabThreeOcaml\\zad.ml" 10 191 191 "LabThreeOcaml\\zad.ml" 1 0 -1
+)
+"LabThreeOcaml\\zad.ml" 2 2 12 "LabThreeOcaml\\zad.ml" 2 2 18
+type(
+  'a
+)
+ident(
+  def elemnt "LabThreeOcaml\\zad.ml" 3 26 27 "LabThreeOcaml\\zad.ml" 8 156 185
+)
+"LabThreeOcaml\\zad.ml" 2 2 20 "LabThreeOcaml\\zad.ml" 2 2 22
+type(
+  'a list
+)
+ident(
+  def xs "LabThreeOcaml\\zad.ml" 3 26 27 "LabThreeOcaml\\zad.ml" 8 156 185
+)
+"LabThreeOcaml\\zad.ml" 2 2 11 "LabThreeOcaml\\zad.ml" 2 2 23
+type(
+  'a * 'a list
+)
+"LabThreeOcaml\\zad.ml" 3 26 35 "LabThreeOcaml\\zad.ml" 3 26 39
+type(
+  int * 'a list * int list -> int list
+)
+ident(
+  def help "LabThreeOcaml\\zad.ml" 3 26 27 "LabThreeOcaml\\zad.ml" 8 156 185
+)
+"LabThreeOcaml\\zad.ml" 3 26 41 "LabThreeOcaml\\zad.ml" 3 26 42
+type(
+  int
+)
+ident(
+  def i "LabThreeOcaml\\zad.ml" 4 52 54 "LabThreeOcaml\\zad.ml" 7 132 153
+)
+"LabThreeOcaml\\zad.ml" 3 26 43 "LabThreeOcaml\\zad.ml" 3 26 45
+type(
+  'a list
+)
+ident(
+  def xs "LabThreeOcaml\\zad.ml" 4 52 54 "LabThreeOcaml\\zad.ml" 7 132 153
+)
+"LabThreeOcaml\\zad.ml" 3 26 46 "LabThreeOcaml\\zad.ml" 3 26 48
+type(
+  int list
+)
+ident(
+  def ys "LabThreeOcaml\\zad.ml" 4 52 54 "LabThreeOcaml\\zad.ml" 7 132 153
+)
+"LabThreeOcaml\\zad.ml" 3 26 40 "LabThreeOcaml\\zad.ml" 3 26 49
+type(
+  int * 'a list * int list
+)
+"LabThreeOcaml\\zad.ml" 4 52 60 "LabThreeOcaml\\zad.ml" 4 52 62
+type(
+  'a list
+)
+ident(
+  int_ref xs "LabThreeOcaml\\zad.ml" 3 26 43 "LabThreeOcaml\\zad.ml" 3 26 45
+)
+"LabThreeOcaml\\zad.ml" 5 69 73 "LabThreeOcaml\\zad.ml" 5 69 75
+type(
+  'a list
+)
+"LabThreeOcaml\\zad.ml" 5 69 78 "LabThreeOcaml\\zad.ml" 5 69 80
+type(
+  int list
+)
+ident(
+  int_ref ys "LabThreeOcaml\\zad.ml" 3 26 46 "LabThreeOcaml\\zad.ml" 3 26 48
+)
+"LabThreeOcaml\\zad.ml" 6 82 86 "LabThreeOcaml\\zad.ml" 6 82 87
+type(
+  'a
+)
+ident(
+  def h "LabThreeOcaml\\zad.ml" 6 82 93 "LabThreeOcaml\\zad.ml" 7 132 153
+)
+"LabThreeOcaml\\zad.ml" 6 82 89 "LabThreeOcaml\\zad.ml" 6 82 90
+type(
+  'a list
+)
+ident(
+  def t "LabThreeOcaml\\zad.ml" 6 82 93 "LabThreeOcaml\\zad.ml" 7 132 153
+)
+"LabThreeOcaml\\zad.ml" 6 82 86 "LabThreeOcaml\\zad.ml" 6 82 90
+type(
+  'a list
+)
+"LabThreeOcaml\\zad.ml" 6 82 96 "LabThreeOcaml\\zad.ml" 6 82 97
+type(
+  'a
+)
+ident(
+  int_ref h "LabThreeOcaml\\zad.ml" 6 82 86 "LabThreeOcaml\\zad.ml" 6 82 87
+)
+"LabThreeOcaml\\zad.ml" 6 82 97 "LabThreeOcaml\\zad.ml" 6 82 98
+type(
+  'a -> 'a -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"LabThreeOcaml\\zad.ml" 6 82 98 "LabThreeOcaml\\zad.ml" 6 82 104
+type(
+  'a
+)
+ident(
+  int_ref elemnt "LabThreeOcaml\\zad.ml" 2 2 12 "LabThreeOcaml\\zad.ml" 2 2 18
+)
+"LabThreeOcaml\\zad.ml" 6 82 95 "LabThreeOcaml\\zad.ml" 6 82 105
+type(
+  bool
+)
+"LabThreeOcaml\\zad.ml" 6 82 111 "LabThreeOcaml\\zad.ml" 6 82 115
+type(
+  int * 'a list * int list -> int list
+)
+ident(
+  int_ref help "LabThreeOcaml\\zad.ml" 3 26 35 "LabThreeOcaml\\zad.ml" 3 26 39
+)
+"LabThreeOcaml\\zad.ml" 6 82 116 "LabThreeOcaml\\zad.ml" 6 82 117
+type(
+  int
+)
+ident(
+  int_ref i "LabThreeOcaml\\zad.ml" 3 26 41 "LabThreeOcaml\\zad.ml" 3 26 42
+)
+"LabThreeOcaml\\zad.ml" 6 82 117 "LabThreeOcaml\\zad.ml" 6 82 118
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"LabThreeOcaml\\zad.ml" 6 82 118 "LabThreeOcaml\\zad.ml" 6 82 119
+type(
+  int
+)
+"LabThreeOcaml\\zad.ml" 6 82 116 "LabThreeOcaml\\zad.ml" 6 82 119
+type(
+  int
+)
+"LabThreeOcaml\\zad.ml" 6 82 120 "LabThreeOcaml\\zad.ml" 6 82 121
+type(
+  'a list
+)
+ident(
+  int_ref t "LabThreeOcaml\\zad.ml" 6 82 89 "LabThreeOcaml\\zad.ml" 6 82 90
+)
+"LabThreeOcaml\\zad.ml" 6 82 123 "LabThreeOcaml\\zad.ml" 6 82 124
+type(
+  int
+)
+ident(
+  int_ref i "LabThreeOcaml\\zad.ml" 3 26 41 "LabThreeOcaml\\zad.ml" 3 26 42
+)
+"LabThreeOcaml\\zad.ml" 6 82 126 "LabThreeOcaml\\zad.ml" 6 82 128
+type(
+  int list
+)
+ident(
+  int_ref ys "LabThreeOcaml\\zad.ml" 3 26 46 "LabThreeOcaml\\zad.ml" 3 26 48
+)
+"LabThreeOcaml\\zad.ml" 6 82 123 "LabThreeOcaml\\zad.ml" 6 82 128
+type(
+  int list
+)
+"LabThreeOcaml\\zad.ml" 6 82 115 "LabThreeOcaml\\zad.ml" 6 82 129
+type(
+  int * 'a list * int list
+)
+"LabThreeOcaml\\zad.ml" 6 82 111 "LabThreeOcaml\\zad.ml" 6 82 129
+type(
+  int list
+)
+"LabThreeOcaml\\zad.ml" 7 132 139 "LabThreeOcaml\\zad.ml" 7 132 143
+type(
+  int * 'a list * int list -> int list
+)
+ident(
+  int_ref help "LabThreeOcaml\\zad.ml" 3 26 35 "LabThreeOcaml\\zad.ml" 3 26 39
+)
+"LabThreeOcaml\\zad.ml" 7 132 144 "LabThreeOcaml\\zad.ml" 7 132 145
+type(
+  int
+)
+ident(
+  int_ref i "LabThreeOcaml\\zad.ml" 3 26 41 "LabThreeOcaml\\zad.ml" 3 26 42
+)
+"LabThreeOcaml\\zad.ml" 7 132 145 "LabThreeOcaml\\zad.ml" 7 132 146
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"LabThreeOcaml\\zad.ml" 7 132 146 "LabThreeOcaml\\zad.ml" 7 132 147
+type(
+  int
+)
+"LabThreeOcaml\\zad.ml" 7 132 144 "LabThreeOcaml\\zad.ml" 7 132 147
+type(
+  int
+)
+"LabThreeOcaml\\zad.ml" 7 132 148 "LabThreeOcaml\\zad.ml" 7 132 149
+type(
+  'a list
+)
+ident(
+  int_ref t "LabThreeOcaml\\zad.ml" 6 82 89 "LabThreeOcaml\\zad.ml" 6 82 90
+)
+"LabThreeOcaml\\zad.ml" 7 132 150 "LabThreeOcaml\\zad.ml" 7 132 152
+type(
+  int list
+)
+ident(
+  int_ref ys "LabThreeOcaml\\zad.ml" 3 26 46 "LabThreeOcaml\\zad.ml" 3 26 48
+)
+"LabThreeOcaml\\zad.ml" 7 132 143 "LabThreeOcaml\\zad.ml" 7 132 153
+type(
+  int * 'a list * int list
+)
+"LabThreeOcaml\\zad.ml" 7 132 139 "LabThreeOcaml\\zad.ml" 7 132 153
+type(
+  int list
+)
+"LabThreeOcaml\\zad.ml" 6 82 93 "LabThreeOcaml\\zad.ml" 7 132 153
+type(
+  int list
+)
+"LabThreeOcaml\\zad.ml" 4 52 54 "LabThreeOcaml\\zad.ml" 7 132 153
+type(
+  int list
+)
+"LabThreeOcaml\\zad.ml" 8 156 161 "LabThreeOcaml\\zad.ml" 8 156 169
+type(
+  int list -> int list
+)
+ident(
+  ext_ref List.rev
+)
+"LabThreeOcaml\\zad.ml" 8 156 171 "LabThreeOcaml\\zad.ml" 8 156 175
+type(
+  int * 'a list * int list -> int list
+)
+ident(
+  int_ref help "LabThreeOcaml\\zad.ml" 3 26 35 "LabThreeOcaml\\zad.ml" 3 26 39
+)
+"LabThreeOcaml\\zad.ml" 8 156 176 "LabThreeOcaml\\zad.ml" 8 156 177
+type(
+  int
+)
+"LabThreeOcaml\\zad.ml" 8 156 178 "LabThreeOcaml\\zad.ml" 8 156 180
+type(
+  'a list
+)
+ident(
+  int_ref xs "LabThreeOcaml\\zad.ml" 2 2 20 "LabThreeOcaml\\zad.ml" 2 2 22
+)
+"LabThreeOcaml\\zad.ml" 8 156 181 "LabThreeOcaml\\zad.ml" 8 156 183
+type(
+  int list
+)
+"LabThreeOcaml\\zad.ml" 8 156 175 "LabThreeOcaml\\zad.ml" 8 156 184
+type(
+  int * 'a list * int list
+)
+"LabThreeOcaml\\zad.ml" 8 156 170 "LabThreeOcaml\\zad.ml" 8 156 185
+type(
+  int list
+)
+"LabThreeOcaml\\zad.ml" 8 156 161 "LabThreeOcaml\\zad.ml" 8 156 185
+type(
+  int list
+)
+"LabThreeOcaml\\zad.ml" 3 26 27 "LabThreeOcaml\\zad.ml" 8 156 185
+type(
+  int list
+)
+"LabThreeOcaml\\zad.ml" 10 191 191 "LabThreeOcaml\\zad.ml" 10 191 195
+type(
+  int * int list -> int list
+)
+ident(
+  int_ref zad2 "LabThreeOcaml\\zad.ml" 2 2 7 "LabThreeOcaml\\zad.ml" 2 2 11
+)
+"LabThreeOcaml\\zad.ml" 10 191 196 "LabThreeOcaml\\zad.ml" 10 191 197
+type(
+  int
+)
+"LabThreeOcaml\\zad.ml" 10 191 199 "LabThreeOcaml\\zad.ml" 10 191 200
+type(
+  int
+)
+"LabThreeOcaml\\zad.ml" 10 191 201 "LabThreeOcaml\\zad.ml" 10 191 202
+type(
+  int
+)
+"LabThreeOcaml\\zad.ml" 10 191 203 "LabThreeOcaml\\zad.ml" 10 191 204
+type(
+  int
+)
+"LabThreeOcaml\\zad.ml" 10 191 205 "LabThreeOcaml\\zad.ml" 10 191 206
+type(
+  int
+)
+"LabThreeOcaml\\zad.ml" 10 191 207 "LabThreeOcaml\\zad.ml" 10 191 208
+type(
+  int
+)
+"LabThreeOcaml\\zad.ml" 10 191 209 "LabThreeOcaml\\zad.ml" 10 191 210
+type(
+  int
+)
+"LabThreeOcaml\\zad.ml" 10 191 211 "LabThreeOcaml\\zad.ml" 10 191 212
+type(
+  int
+)
+"LabThreeOcaml\\zad.ml" 10 191 213 "LabThreeOcaml\\zad.ml" 10 191 214
+type(
+  int
+)
+"LabThreeOcaml\\zad.ml" 10 191 215 "LabThreeOcaml\\zad.ml" 10 191 216
+type(
+  int
+)
+"LabThreeOcaml\\zad.ml" 10 191 198 "LabThreeOcaml\\zad.ml" 10 191 217
+type(
+  int list
+)
+"LabThreeOcaml\\zad.ml" 10 191 195 "LabThreeOcaml\\zad.ml" 10 191 218
+type(
+  int * int list
+)
+"LabThreeOcaml\\zad.ml" 10 191 191 "LabThreeOcaml\\zad.ml" 10 191 218
+type(
+  int list
+)
