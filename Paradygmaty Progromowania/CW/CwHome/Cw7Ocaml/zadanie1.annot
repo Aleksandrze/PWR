@@ -1,0 +1,585 @@
+"Cw7Ocaml\\zadanie1.ml" 19 361 365 "Cw7Ocaml\\zadanie1.ml" 19 361 370
+type(
+  unit -> 'a list
+)
+ident(
+  def empty "Cw7Ocaml\\zadanie1.ml" 20 380 380 "Cw7Ocaml\\zadanie1.ml" 31 649 652
+)
+"Cw7Ocaml\\zadanie1.ml" 19 361 371 "Cw7Ocaml\\zadanie1.ml" 19 361 373
+type(
+  unit
+)
+"Cw7Ocaml\\zadanie1.ml" 19 361 376 "Cw7Ocaml\\zadanie1.ml" 19 361 378
+type(
+  'a list
+)
+"Cw7Ocaml\\zadanie1.ml" 20 380 384 "Cw7Ocaml\\zadanie1.ml" 20 380 391
+type(
+  'b * 'b list -> 'b list
+)
+ident(
+  def enqueue "Cw7Ocaml\\zadanie1.ml" 22 415 415 "Cw7Ocaml\\zadanie1.ml" 31 649 652
+)
+"Cw7Ocaml\\zadanie1.ml" 20 380 393 "Cw7Ocaml\\zadanie1.ml" 20 380 394
+type(
+  'b
+)
+ident(
+  def v "Cw7Ocaml\\zadanie1.ml" 20 380 403 "Cw7Ocaml\\zadanie1.ml" 20 380 410
+)
+"Cw7Ocaml\\zadanie1.ml" 20 380 396 "Cw7Ocaml\\zadanie1.ml" 20 380 399
+type(
+  'b list
+)
+ident(
+  def lst "Cw7Ocaml\\zadanie1.ml" 20 380 403 "Cw7Ocaml\\zadanie1.ml" 20 380 410
+)
+"Cw7Ocaml\\zadanie1.ml" 20 380 392 "Cw7Ocaml\\zadanie1.ml" 20 380 400
+type(
+  'b * 'b list
+)
+"Cw7Ocaml\\zadanie1.ml" 20 380 403 "Cw7Ocaml\\zadanie1.ml" 20 380 406
+type(
+  'b list
+)
+ident(
+  int_ref lst "Cw7Ocaml\\zadanie1.ml" 20 380 396 "Cw7Ocaml\\zadanie1.ml" 20 380 399
+)
+"Cw7Ocaml\\zadanie1.ml" 20 380 406 "Cw7Ocaml\\zadanie1.ml" 20 380 407
+type(
+  'b list -> 'b list -> 'b list
+)
+ident(
+  ext_ref Pervasives.( @ )
+)
+"Cw7Ocaml\\zadanie1.ml" 20 380 408 "Cw7Ocaml\\zadanie1.ml" 20 380 409
+type(
+  'b
+)
+ident(
+  int_ref v "Cw7Ocaml\\zadanie1.ml" 20 380 393 "Cw7Ocaml\\zadanie1.ml" 20 380 394
+)
+"Cw7Ocaml\\zadanie1.ml" 20 380 407 "Cw7Ocaml\\zadanie1.ml" 20 380 410
+type(
+  'b list
+)
+"Cw7Ocaml\\zadanie1.ml" 20 380 403 "Cw7Ocaml\\zadanie1.ml" 20 380 410
+type(
+  'b list
+)
+"Cw7Ocaml\\zadanie1.ml" 22 415 419 "Cw7Ocaml\\zadanie1.ml" 22 415 426
+type(
+  'c list -> 'c list
+)
+ident(
+  def dequeue "Cw7Ocaml\\zadanie1.ml" 26 509 509 "Cw7Ocaml\\zadanie1.ml" 31 649 652
+)
+"Cw7Ocaml\\zadanie1.ml" 23 439 439 "Cw7Ocaml\\zadanie1.ml" 23 439 441
+type(
+  'c list
+)
+"Cw7Ocaml\\zadanie1.ml" 23 439 445 "Cw7Ocaml\\zadanie1.ml" 23 439 450
+type(
+  exn -> 'c list
+)
+ident(
+  ext_ref Pervasives.raise
+)
+"Cw7Ocaml\\zadanie1.ml" 23 439 458 "Cw7Ocaml\\zadanie1.ml" 23 439 467
+type(
+  string
+)
+"Cw7Ocaml\\zadanie1.ml" 23 439 451 "Cw7Ocaml\\zadanie1.ml" 23 439 468
+type(
+  exn
+)
+"Cw7Ocaml\\zadanie1.ml" 23 439 445 "Cw7Ocaml\\zadanie1.ml" 23 439 468
+type(
+  'c list
+)
+"Cw7Ocaml\\zadanie1.ml" 24 483 485 "Cw7Ocaml\\zadanie1.ml" 24 483 489
+type(
+  'c
+)
+ident(
+  def head "Cw7Ocaml\\zadanie1.ml" 24 483 499 "Cw7Ocaml\\zadanie1.ml" 24 483 503
+)
+"Cw7Ocaml\\zadanie1.ml" 24 483 491 "Cw7Ocaml\\zadanie1.ml" 24 483 495
+type(
+  'c list
+)
+ident(
+  def tail "Cw7Ocaml\\zadanie1.ml" 24 483 499 "Cw7Ocaml\\zadanie1.ml" 24 483 503
+)
+"Cw7Ocaml\\zadanie1.ml" 24 483 485 "Cw7Ocaml\\zadanie1.ml" 24 483 495
+type(
+  'c list
+)
+"Cw7Ocaml\\zadanie1.ml" 24 483 499 "Cw7Ocaml\\zadanie1.ml" 24 483 503
+type(
+  'c list
+)
+ident(
+  int_ref tail "Cw7Ocaml\\zadanie1.ml" 24 483 491 "Cw7Ocaml\\zadanie1.ml" 24 483 495
+)
+"Cw7Ocaml\\zadanie1.ml" 22 415 429 "Cw7Ocaml\\zadanie1.ml" 24 483 503
+type(
+  'c list -> 'c list
+)
+"Cw7Ocaml\\zadanie1.ml" 26 509 513 "Cw7Ocaml\\zadanie1.ml" 26 509 518
+type(
+  'd list -> 'd
+)
+ident(
+  def first "Cw7Ocaml\\zadanie1.ml" 30 586 586 "Cw7Ocaml\\zadanie1.ml" 31 649 652
+)
+"Cw7Ocaml\\zadanie1.ml" 27 531 531 "Cw7Ocaml\\zadanie1.ml" 27 531 533
+type(
+  'd list
+)
+"Cw7Ocaml\\zadanie1.ml" 27 531 537 "Cw7Ocaml\\zadanie1.ml" 27 531 542
+type(
+  exn -> 'd
+)
+ident(
+  ext_ref Pervasives.raise
+)
+"Cw7Ocaml\\zadanie1.ml" 27 531 550 "Cw7Ocaml\\zadanie1.ml" 27 531 557
+type(
+  string
+)
+"Cw7Ocaml\\zadanie1.ml" 27 531 543 "Cw7Ocaml\\zadanie1.ml" 27 531 558
+type(
+  exn
+)
+"Cw7Ocaml\\zadanie1.ml" 27 531 537 "Cw7Ocaml\\zadanie1.ml" 27 531 558
+type(
+  'd
+)
+"Cw7Ocaml\\zadanie1.ml" 28 560 562 "Cw7Ocaml\\zadanie1.ml" 28 560 566
+type(
+  'd
+)
+ident(
+  def head "Cw7Ocaml\\zadanie1.ml" 28 560 576 "Cw7Ocaml\\zadanie1.ml" 28 560 580
+)
+"Cw7Ocaml\\zadanie1.ml" 28 560 568 "Cw7Ocaml\\zadanie1.ml" 28 560 572
+type(
+  'd list
+)
+ident(
+  def tail "Cw7Ocaml\\zadanie1.ml" 28 560 576 "Cw7Ocaml\\zadanie1.ml" 28 560 580
+)
+"Cw7Ocaml\\zadanie1.ml" 28 560 562 "Cw7Ocaml\\zadanie1.ml" 28 560 572
+type(
+  'd list
+)
+"Cw7Ocaml\\zadanie1.ml" 28 560 576 "Cw7Ocaml\\zadanie1.ml" 28 560 580
+type(
+  'd
+)
+ident(
+  int_ref head "Cw7Ocaml\\zadanie1.ml" 28 560 562 "Cw7Ocaml\\zadanie1.ml" 28 560 566
+)
+"Cw7Ocaml\\zadanie1.ml" 26 509 521 "Cw7Ocaml\\zadanie1.ml" 28 560 580
+type(
+  'd list -> 'd
+)
+"Cw7Ocaml\\zadanie1.ml" 30 586 590 "Cw7Ocaml\\zadanie1.ml" 30 586 597
+type(
+  'e list -> bool
+)
+ident(
+  def isEmpty "Cw7Ocaml\\zadanie1.ml" 30 586 610 "Cw7Ocaml\\zadanie1.ml" 31 649 652
+)
+"Cw7Ocaml\\zadanie1.ml" 30 586 598 "Cw7Ocaml\\zadanie1.ml" 30 586 601
+type(
+  'e list
+)
+ident(
+  def lst "Cw7Ocaml\\zadanie1.ml" 30 586 604 "Cw7Ocaml\\zadanie1.ml" 30 586 610
+)
+"Cw7Ocaml\\zadanie1.ml" 30 586 604 "Cw7Ocaml\\zadanie1.ml" 30 586 607
+type(
+  'e list
+)
+ident(
+  int_ref lst "Cw7Ocaml\\zadanie1.ml" 30 586 598 "Cw7Ocaml\\zadanie1.ml" 30 586 601
+)
+"Cw7Ocaml\\zadanie1.ml" 30 586 607 "Cw7Ocaml\\zadanie1.ml" 30 586 608
+type(
+  'e list -> 'e list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Cw7Ocaml\\zadanie1.ml" 30 586 608 "Cw7Ocaml\\zadanie1.ml" 30 586 610
+type(
+  'e list
+)
+"Cw7Ocaml\\zadanie1.ml" 30 586 604 "Cw7Ocaml\\zadanie1.ml" 30 586 610
+type(
+  bool
+)
+"Cw7Ocaml\\zadanie1.ml" 40 787 791 "Cw7Ocaml\\zadanie1.ml" 40 787 796
+type(
+  unit -> 'a list * 'b list
+)
+ident(
+  def empty "Cw7Ocaml\\zadanie1.ml" 42 814 814 "Cw7Ocaml\\zadanie1.ml" 62 1425 1428
+)
+"Cw7Ocaml\\zadanie1.ml" 40 787 797 "Cw7Ocaml\\zadanie1.ml" 40 787 799
+type(
+  unit
+)
+"Cw7Ocaml\\zadanie1.ml" 40 787 803 "Cw7Ocaml\\zadanie1.ml" 40 787 805
+type(
+  'a list
+)
+"Cw7Ocaml\\zadanie1.ml" 40 787 807 "Cw7Ocaml\\zadanie1.ml" 40 787 809
+type(
+  'b list
+)
+"Cw7Ocaml\\zadanie1.ml" 40 787 802 "Cw7Ocaml\\zadanie1.ml" 40 787 810
+type(
+  'a list * 'b list
+)
+"Cw7Ocaml\\zadanie1.ml" 42 814 818 "Cw7Ocaml\\zadanie1.ml" 42 814 827
+type(
+  'c list * 'c list -> 'c list * 'c list
+)
+ident(
+  def normalize "Cw7Ocaml\\zadanie1.ml" 46 938 938 "Cw7Ocaml\\zadanie1.ml" 62 1425 1428
+)
+"Cw7Ocaml\\zadanie1.ml" 43 840 841 "Cw7Ocaml\\zadanie1.ml" 43 840 843
+type(
+  'c list
+)
+"Cw7Ocaml\\zadanie1.ml" 43 840 845 "Cw7Ocaml\\zadanie1.ml" 43 840 846
+type(
+  'c list
+)
+ident(
+  def q "Cw7Ocaml\\zadanie1.ml" 43 840 851 "Cw7Ocaml\\zadanie1.ml" 43 840 867
+)
+"Cw7Ocaml\\zadanie1.ml" 43 840 840 "Cw7Ocaml\\zadanie1.ml" 43 840 847
+type(
+  'c list * 'c list
+)
+"Cw7Ocaml\\zadanie1.ml" 43 840 852 "Cw7Ocaml\\zadanie1.ml" 43 840 860
+type(
+  'c list -> 'c list
+)
+ident(
+  ext_ref List.rev
+)
+"Cw7Ocaml\\zadanie1.ml" 43 840 861 "Cw7Ocaml\\zadanie1.ml" 43 840 862
+type(
+  'c list
+)
+ident(
+  int_ref q "Cw7Ocaml\\zadanie1.ml" 43 840 845 "Cw7Ocaml\\zadanie1.ml" 43 840 846
+)
+"Cw7Ocaml\\zadanie1.ml" 43 840 852 "Cw7Ocaml\\zadanie1.ml" 43 840 862
+type(
+  'c list
+)
+"Cw7Ocaml\\zadanie1.ml" 43 840 864 "Cw7Ocaml\\zadanie1.ml" 43 840 866
+type(
+  'c list
+)
+"Cw7Ocaml\\zadanie1.ml" 43 840 851 "Cw7Ocaml\\zadanie1.ml" 43 840 867
+type(
+  'c list * 'c list
+)
+"Cw7Ocaml\\zadanie1.ml" 44 869 871 "Cw7Ocaml\\zadanie1.ml" 44 869 872
+type(
+  'c list * 'c list
+)
+ident(
+  def q "Cw7Ocaml\\zadanie1.ml" 44 869 876 "Cw7Ocaml\\zadanie1.ml" 44 869 877
+)
+"Cw7Ocaml\\zadanie1.ml" 44 869 876 "Cw7Ocaml\\zadanie1.ml" 44 869 877
+type(
+  'c list * 'c list
+)
+ident(
+  int_ref q "Cw7Ocaml\\zadanie1.ml" 44 869 871 "Cw7Ocaml\\zadanie1.ml" 44 869 872
+)
+"Cw7Ocaml\\zadanie1.ml" 42 814 830 "Cw7Ocaml\\zadanie1.ml" 44 869 877
+type(
+  'c list * 'c list -> 'c list * 'c list
+)
+"Cw7Ocaml\\zadanie1.ml" 46 938 942 "Cw7Ocaml\\zadanie1.ml" 46 938 949
+type(
+  'd * ('d list * 'd list) -> 'd list * 'd list
+)
+ident(
+  def enqueue "Cw7Ocaml\\zadanie1.ml" 50 1072 1072 "Cw7Ocaml\\zadanie1.ml" 62 1425 1428
+)
+"Cw7Ocaml\\zadanie1.ml" 46 938 951 "Cw7Ocaml\\zadanie1.ml" 46 938 952
+type(
+  'd
+)
+ident(
+  def v "Cw7Ocaml\\zadanie1.ml" 46 938 966 "Cw7Ocaml\\zadanie1.ml" 46 938 988
+)
+"Cw7Ocaml\\zadanie1.ml" 46 938 954 "Cw7Ocaml\\zadanie1.ml" 46 938 956
+type(
+  'd list
+)
+ident(
+  def x1 "Cw7Ocaml\\zadanie1.ml" 46 938 966 "Cw7Ocaml\\zadanie1.ml" 46 938 988
+)
+"Cw7Ocaml\\zadanie1.ml" 46 938 958 "Cw7Ocaml\\zadanie1.ml" 46 938 961
+type(
+  'd list
+)
+ident(
+  def lst "Cw7Ocaml\\zadanie1.ml" 46 938 966 "Cw7Ocaml\\zadanie1.ml" 46 938 988
+)
+"Cw7Ocaml\\zadanie1.ml" 46 938 953 "Cw7Ocaml\\zadanie1.ml" 46 938 962
+type(
+  'd list * 'd list
+)
+"Cw7Ocaml\\zadanie1.ml" 46 938 950 "Cw7Ocaml\\zadanie1.ml" 46 938 963
+type(
+  'd * ('d list * 'd list)
+)
+"Cw7Ocaml\\zadanie1.ml" 46 938 966 "Cw7Ocaml\\zadanie1.ml" 46 938 975
+type(
+  'd list * 'd list -> 'd list * 'd list
+)
+ident(
+  int_ref normalize "Cw7Ocaml\\zadanie1.ml" 42 814 818 "Cw7Ocaml\\zadanie1.ml" 42 814 827
+)
+"Cw7Ocaml\\zadanie1.ml" 46 938 977 "Cw7Ocaml\\zadanie1.ml" 46 938 979
+type(
+  'd list
+)
+ident(
+  int_ref x1 "Cw7Ocaml\\zadanie1.ml" 46 938 954 "Cw7Ocaml\\zadanie1.ml" 46 938 956
+)
+"Cw7Ocaml\\zadanie1.ml" 46 938 981 "Cw7Ocaml\\zadanie1.ml" 46 938 982
+type(
+  'd
+)
+ident(
+  int_ref v "Cw7Ocaml\\zadanie1.ml" 46 938 951 "Cw7Ocaml\\zadanie1.ml" 46 938 952
+)
+"Cw7Ocaml\\zadanie1.ml" 46 938 984 "Cw7Ocaml\\zadanie1.ml" 46 938 987
+type(
+  'd list
+)
+ident(
+  int_ref lst "Cw7Ocaml\\zadanie1.ml" 46 938 958 "Cw7Ocaml\\zadanie1.ml" 46 938 961
+)
+"Cw7Ocaml\\zadanie1.ml" 46 938 981 "Cw7Ocaml\\zadanie1.ml" 46 938 987
+type(
+  'd list
+)
+"Cw7Ocaml\\zadanie1.ml" 46 938 976 "Cw7Ocaml\\zadanie1.ml" 46 938 988
+type(
+  'd list * 'd list
+)
+"Cw7Ocaml\\zadanie1.ml" 46 938 966 "Cw7Ocaml\\zadanie1.ml" 46 938 988
+type(
+  'd list * 'd list
+)
+"Cw7Ocaml\\zadanie1.ml" 50 1072 1076 "Cw7Ocaml\\zadanie1.ml" 50 1072 1083
+type(
+  'e list * 'e list -> 'e list * 'e list
+)
+ident(
+  def dequeue "Cw7Ocaml\\zadanie1.ml" 57 1281 1281 "Cw7Ocaml\\zadanie1.ml" 62 1425 1428
+)
+"Cw7Ocaml\\zadanie1.ml" 51 1096 1097 "Cw7Ocaml\\zadanie1.ml" 51 1096 1098
+type(
+  'e
+)
+"Cw7Ocaml\\zadanie1.ml" 51 1096 1100 "Cw7Ocaml\\zadanie1.ml" 51 1096 1102
+type(
+  'e list
+)
+ident(
+  def xs "Cw7Ocaml\\zadanie1.ml" 51 1096 1110 "Cw7Ocaml\\zadanie1.ml" 51 1096 1127
+)
+"Cw7Ocaml\\zadanie1.ml" 51 1096 1097 "Cw7Ocaml\\zadanie1.ml" 51 1096 1102
+type(
+  'e list
+)
+"Cw7Ocaml\\zadanie1.ml" 51 1096 1104 "Cw7Ocaml\\zadanie1.ml" 51 1096 1105
+type(
+  'e list
+)
+ident(
+  def q "Cw7Ocaml\\zadanie1.ml" 51 1096 1110 "Cw7Ocaml\\zadanie1.ml" 51 1096 1127
+)
+"Cw7Ocaml\\zadanie1.ml" 51 1096 1096 "Cw7Ocaml\\zadanie1.ml" 51 1096 1106
+type(
+  'e list * 'e list
+)
+"Cw7Ocaml\\zadanie1.ml" 51 1096 1110 "Cw7Ocaml\\zadanie1.ml" 51 1096 1119
+type(
+  'e list * 'e list -> 'e list * 'e list
+)
+ident(
+  int_ref normalize "Cw7Ocaml\\zadanie1.ml" 42 814 818 "Cw7Ocaml\\zadanie1.ml" 42 814 827
+)
+"Cw7Ocaml\\zadanie1.ml" 51 1096 1121 "Cw7Ocaml\\zadanie1.ml" 51 1096 1123
+type(
+  'e list
+)
+ident(
+  int_ref xs "Cw7Ocaml\\zadanie1.ml" 51 1096 1100 "Cw7Ocaml\\zadanie1.ml" 51 1096 1102
+)
+"Cw7Ocaml\\zadanie1.ml" 51 1096 1125 "Cw7Ocaml\\zadanie1.ml" 51 1096 1126
+type(
+  'e list
+)
+ident(
+  int_ref q "Cw7Ocaml\\zadanie1.ml" 51 1096 1104 "Cw7Ocaml\\zadanie1.ml" 51 1096 1105
+)
+"Cw7Ocaml\\zadanie1.ml" 51 1096 1120 "Cw7Ocaml\\zadanie1.ml" 51 1096 1127
+type(
+  'e list * 'e list
+)
+"Cw7Ocaml\\zadanie1.ml" 51 1096 1110 "Cw7Ocaml\\zadanie1.ml" 51 1096 1127
+type(
+  'e list * 'e list
+)
+"Cw7Ocaml\\zadanie1.ml" 52 1129 1131 "Cw7Ocaml\\zadanie1.ml" 52 1129 1132
+type(
+  'e list * 'e list
+)
+"Cw7Ocaml\\zadanie1.ml" 52 1129 1136 "Cw7Ocaml\\zadanie1.ml" 52 1129 1141
+type(
+  exn -> 'e list * 'e list
+)
+ident(
+  ext_ref Pervasives.raise
+)
+"Cw7Ocaml\\zadanie1.ml" 52 1129 1149 "Cw7Ocaml\\zadanie1.ml" 52 1129 1158
+type(
+  string
+)
+"Cw7Ocaml\\zadanie1.ml" 52 1129 1142 "Cw7Ocaml\\zadanie1.ml" 52 1129 1159
+type(
+  exn
+)
+"Cw7Ocaml\\zadanie1.ml" 52 1129 1136 "Cw7Ocaml\\zadanie1.ml" 52 1129 1159
+type(
+  'e list * 'e list
+)
+"Cw7Ocaml\\zadanie1.ml" 50 1072 1086 "Cw7Ocaml\\zadanie1.ml" 52 1129 1159
+type(
+  'e list * 'e list -> 'e list * 'e list
+)
+"Cw7Ocaml\\zadanie1.ml" 57 1281 1285 "Cw7Ocaml\\zadanie1.ml" 57 1281 1290
+type(
+  'f list * 'g -> 'f
+)
+ident(
+  def first "Cw7Ocaml\\zadanie1.ml" 61 1351 1351 "Cw7Ocaml\\zadanie1.ml" 62 1425 1428
+)
+"Cw7Ocaml\\zadanie1.ml" 58 1303 1304 "Cw7Ocaml\\zadanie1.ml" 58 1303 1305
+type(
+  'f
+)
+ident(
+  def x "Cw7Ocaml\\zadanie1.ml" 58 1303 1316 "Cw7Ocaml\\zadanie1.ml" 58 1303 1317
+)
+"Cw7Ocaml\\zadanie1.ml" 58 1303 1307 "Cw7Ocaml\\zadanie1.ml" 58 1303 1308
+type(
+  'f list
+)
+"Cw7Ocaml\\zadanie1.ml" 58 1303 1304 "Cw7Ocaml\\zadanie1.ml" 58 1303 1308
+type(
+  'f list
+)
+"Cw7Ocaml\\zadanie1.ml" 58 1303 1310 "Cw7Ocaml\\zadanie1.ml" 58 1303 1311
+type(
+  'g
+)
+"Cw7Ocaml\\zadanie1.ml" 58 1303 1303 "Cw7Ocaml\\zadanie1.ml" 58 1303 1312
+type(
+  'f list * 'g
+)
+"Cw7Ocaml\\zadanie1.ml" 58 1303 1316 "Cw7Ocaml\\zadanie1.ml" 58 1303 1317
+type(
+  'f
+)
+ident(
+  int_ref x "Cw7Ocaml\\zadanie1.ml" 58 1303 1304 "Cw7Ocaml\\zadanie1.ml" 58 1303 1305
+)
+"Cw7Ocaml\\zadanie1.ml" 59 1319 1321 "Cw7Ocaml\\zadanie1.ml" 59 1319 1322
+type(
+  'f list * 'g
+)
+"Cw7Ocaml\\zadanie1.ml" 59 1319 1326 "Cw7Ocaml\\zadanie1.ml" 59 1319 1331
+type(
+  exn -> 'f
+)
+ident(
+  ext_ref Pervasives.raise
+)
+"Cw7Ocaml\\zadanie1.ml" 59 1319 1339 "Cw7Ocaml\\zadanie1.ml" 59 1319 1346
+type(
+  string
+)
+"Cw7Ocaml\\zadanie1.ml" 59 1319 1332 "Cw7Ocaml\\zadanie1.ml" 59 1319 1347
+type(
+  exn
+)
+"Cw7Ocaml\\zadanie1.ml" 59 1319 1326 "Cw7Ocaml\\zadanie1.ml" 59 1319 1347
+type(
+  'f
+)
+"Cw7Ocaml\\zadanie1.ml" 57 1281 1293 "Cw7Ocaml\\zadanie1.ml" 59 1319 1347
+type(
+  'f list * 'g -> 'f
+)
+"Cw7Ocaml\\zadanie1.ml" 61 1351 1355 "Cw7Ocaml\\zadanie1.ml" 61 1351 1362
+type(
+  'h list * 'i list -> bool
+)
+ident(
+  def isEmpty "Cw7Ocaml\\zadanie1.ml" 61 1351 1381 "Cw7Ocaml\\zadanie1.ml" 62 1425 1428
+)
+"Cw7Ocaml\\zadanie1.ml" 61 1351 1363 "Cw7Ocaml\\zadanie1.ml" 61 1351 1366
+type(
+  'h list * 'i list
+)
+ident(
+  def lst "Cw7Ocaml\\zadanie1.ml" 61 1351 1369 "Cw7Ocaml\\zadanie1.ml" 61 1351 1381
+)
+"Cw7Ocaml\\zadanie1.ml" 61 1351 1369 "Cw7Ocaml\\zadanie1.ml" 61 1351 1372
+type(
+  'h list * 'i list
+)
+ident(
+  int_ref lst "Cw7Ocaml\\zadanie1.ml" 61 1351 1363 "Cw7Ocaml\\zadanie1.ml" 61 1351 1366
+)
+"Cw7Ocaml\\zadanie1.ml" 61 1351 1372 "Cw7Ocaml\\zadanie1.ml" 61 1351 1373
+type(
+  'h list * 'i list -> 'h list * 'i list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Cw7Ocaml\\zadanie1.ml" 61 1351 1374 "Cw7Ocaml\\zadanie1.ml" 61 1351 1376
+type(
+  'h list
+)
+"Cw7Ocaml\\zadanie1.ml" 61 1351 1378 "Cw7Ocaml\\zadanie1.ml" 61 1351 1380
+type(
+  'i list
+)
+"Cw7Ocaml\\zadanie1.ml" 61 1351 1373 "Cw7Ocaml\\zadanie1.ml" 61 1351 1381
+type(
+  'h list * 'i list
+)
+"Cw7Ocaml\\zadanie1.ml" 61 1351 1369 "Cw7Ocaml\\zadanie1.ml" 61 1351 1381
+type(
+  bool
+)

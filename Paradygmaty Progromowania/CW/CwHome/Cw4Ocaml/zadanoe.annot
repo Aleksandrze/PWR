@@ -1,0 +1,135 @@
+"Cw4Ocaml\\zadanoe.ml" 5 39 43 "Cw4Ocaml\\zadanoe.ml" 5 39 45
+type(
+  ('a -> 'b -> 'c) -> 'a -> 'b -> 'c
+)
+ident(
+  def f1 "Cw4Ocaml\\zadanoe.ml" 13 231 231 "Cw4Ocaml\\zadanoe.ml" 1 0 -1
+)
+"Cw4Ocaml\\zadanoe.ml" 5 39 46 "Cw4Ocaml\\zadanoe.ml" 5 39 47
+type(
+  'a -> 'b -> 'c
+)
+ident(
+  def x "Cw4Ocaml\\zadanoe.ml" 5 39 48 "Cw4Ocaml\\zadanoe.ml" 5 39 59
+)
+"Cw4Ocaml\\zadanoe.ml" 5 39 48 "Cw4Ocaml\\zadanoe.ml" 5 39 49
+type(
+  'a
+)
+ident(
+  def y "Cw4Ocaml\\zadanoe.ml" 5 39 50 "Cw4Ocaml\\zadanoe.ml" 5 39 59
+)
+"Cw4Ocaml\\zadanoe.ml" 5 39 50 "Cw4Ocaml\\zadanoe.ml" 5 39 51
+type(
+  'b
+)
+ident(
+  def z "Cw4Ocaml\\zadanoe.ml" 5 39 54 "Cw4Ocaml\\zadanoe.ml" 5 39 59
+)
+"Cw4Ocaml\\zadanoe.ml" 5 39 54 "Cw4Ocaml\\zadanoe.ml" 5 39 55
+type(
+  'a -> 'b -> 'c
+)
+ident(
+  int_ref x "Cw4Ocaml\\zadanoe.ml" 5 39 46 "Cw4Ocaml\\zadanoe.ml" 5 39 47
+)
+"Cw4Ocaml\\zadanoe.ml" 5 39 56 "Cw4Ocaml\\zadanoe.ml" 5 39 57
+type(
+  'a
+)
+ident(
+  int_ref y "Cw4Ocaml\\zadanoe.ml" 5 39 48 "Cw4Ocaml\\zadanoe.ml" 5 39 49
+)
+"Cw4Ocaml\\zadanoe.ml" 5 39 58 "Cw4Ocaml\\zadanoe.ml" 5 39 59
+type(
+  'b
+)
+ident(
+  int_ref z "Cw4Ocaml\\zadanoe.ml" 5 39 50 "Cw4Ocaml\\zadanoe.ml" 5 39 51
+)
+"Cw4Ocaml\\zadanoe.ml" 5 39 54 "Cw4Ocaml\\zadanoe.ml" 5 39 59
+type(
+  'c
+)
+"Cw4Ocaml\\zadanoe.ml" 13 231 235 "Cw4Ocaml\\zadanoe.ml" 13 231 237
+type(
+  'a -> 'a list -> 'b -> 'a list
+)
+ident(
+  def f2 "Cw4Ocaml\\zadanoe.ml" 22 440 440 "Cw4Ocaml\\zadanoe.ml" 1 0 -1
+)
+"Cw4Ocaml\\zadanoe.ml" 13 231 238 "Cw4Ocaml\\zadanoe.ml" 13 231 239
+type(
+  'a
+)
+ident(
+  def x "Cw4Ocaml\\zadanoe.ml" 13 231 240 "Cw4Ocaml\\zadanoe.ml" 13 231 260
+)
+"Cw4Ocaml\\zadanoe.ml" 13 231 240 "Cw4Ocaml\\zadanoe.ml" 13 231 241
+type(
+  'a list
+)
+ident(
+  def y "Cw4Ocaml\\zadanoe.ml" 13 231 243 "Cw4Ocaml\\zadanoe.ml" 13 231 260
+)
+"Cw4Ocaml\\zadanoe.ml" 13 231 252 "Cw4Ocaml\\zadanoe.ml" 13 231 253
+type(
+  'b
+)
+ident(
+  def z "Cw4Ocaml\\zadanoe.ml" 13 231 256 "Cw4Ocaml\\zadanoe.ml" 13 231 260
+)
+"Cw4Ocaml\\zadanoe.ml" 13 231 256 "Cw4Ocaml\\zadanoe.ml" 13 231 257
+type(
+  'a
+)
+ident(
+  int_ref x "Cw4Ocaml\\zadanoe.ml" 13 231 238 "Cw4Ocaml\\zadanoe.ml" 13 231 239
+)
+"Cw4Ocaml\\zadanoe.ml" 13 231 259 "Cw4Ocaml\\zadanoe.ml" 13 231 260
+type(
+  'a list
+)
+ident(
+  int_ref y "Cw4Ocaml\\zadanoe.ml" 13 231 240 "Cw4Ocaml\\zadanoe.ml" 13 231 241
+)
+"Cw4Ocaml\\zadanoe.ml" 13 231 256 "Cw4Ocaml\\zadanoe.ml" 13 231 260
+type(
+  'a list
+)
+"Cw4Ocaml\\zadanoe.ml" 13 231 243 "Cw4Ocaml\\zadanoe.ml" 13 231 260
+type(
+  'b -> 'a list
+)
+"Cw4Ocaml\\zadanoe.ml" 22 440 448 "Cw4Ocaml\\zadanoe.ml" 22 440 449
+type(
+  'a -> 'b
+)
+ident(
+  def f "Cw4Ocaml\\zadanoe.ml" 22 440 440 "Cw4Ocaml\\zadanoe.ml" 1 0 -1
+)
+"Cw4Ocaml\\zadanoe.ml" 22 440 450 "Cw4Ocaml\\zadanoe.ml" 22 440 451
+type(
+  'a
+)
+ident(
+  def x "Cw4Ocaml\\zadanoe.ml" 22 440 454 "Cw4Ocaml\\zadanoe.ml" 22 440 457
+)
+"Cw4Ocaml\\zadanoe.ml" 22 440 454 "Cw4Ocaml\\zadanoe.ml" 22 440 455
+type(
+  'a -> 'b
+)
+ident(
+  int_ref f "Cw4Ocaml\\zadanoe.ml" 22 440 448 "Cw4Ocaml\\zadanoe.ml" 22 440 449
+)
+"Cw4Ocaml\\zadanoe.ml" 22 440 456 "Cw4Ocaml\\zadanoe.ml" 22 440 457
+type(
+  'a
+)
+ident(
+  int_ref x "Cw4Ocaml\\zadanoe.ml" 22 440 450 "Cw4Ocaml\\zadanoe.ml" 22 440 451
+)
+"Cw4Ocaml\\zadanoe.ml" 22 440 454 "Cw4Ocaml\\zadanoe.ml" 22 440 457
+type(
+  'b
+)

@@ -1,0 +1,1310 @@
+"Cw2Ocaml\\zadanie.ml" 3 33 41 "Cw2Ocaml\\zadanie.ml" 3 33 46
+type(
+  int -> bool
+)
+ident(
+  def evenR "Cw2Ocaml\\zadanie.ml" 3 33 33 "Cw2Ocaml\\zadanie.ml" 1 0 -1
+)
+"Cw2Ocaml\\zadanie.ml" 3 33 47 "Cw2Ocaml\\zadanie.ml" 3 33 48
+type(
+  int
+)
+ident(
+  def n "Cw2Ocaml\\zadanie.ml" 4 51 52 "Cw2Ocaml\\zadanie.ml" 5 70 85
+)
+"Cw2Ocaml\\zadanie.ml" 4 51 55 "Cw2Ocaml\\zadanie.ml" 4 51 56
+type(
+  int
+)
+ident(
+  int_ref n "Cw2Ocaml\\zadanie.ml" 3 33 47 "Cw2Ocaml\\zadanie.ml" 3 33 48
+)
+"Cw2Ocaml\\zadanie.ml" 4 51 56 "Cw2Ocaml\\zadanie.ml" 4 51 57
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Cw2Ocaml\\zadanie.ml" 4 51 57 "Cw2Ocaml\\zadanie.ml" 4 51 58
+type(
+  int
+)
+"Cw2Ocaml\\zadanie.ml" 4 51 55 "Cw2Ocaml\\zadanie.ml" 4 51 58
+type(
+  bool
+)
+"Cw2Ocaml\\zadanie.ml" 4 51 64 "Cw2Ocaml\\zadanie.ml" 4 51 68
+type(
+  bool
+)
+"Cw2Ocaml\\zadanie.ml" 5 70 76 "Cw2Ocaml\\zadanie.ml" 5 70 80
+type(
+  int -> bool
+)
+ident(
+  int_ref addR "Cw2Ocaml\\zadanie.ml" 6 87 92 "Cw2Ocaml\\zadanie.ml" 6 87 96
+)
+"Cw2Ocaml\\zadanie.ml" 5 70 81 "Cw2Ocaml\\zadanie.ml" 5 70 82
+type(
+  int
+)
+ident(
+  int_ref n "Cw2Ocaml\\zadanie.ml" 3 33 47 "Cw2Ocaml\\zadanie.ml" 3 33 48
+)
+"Cw2Ocaml\\zadanie.ml" 5 70 82 "Cw2Ocaml\\zadanie.ml" 5 70 83
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"Cw2Ocaml\\zadanie.ml" 5 70 83 "Cw2Ocaml\\zadanie.ml" 5 70 84
+type(
+  int
+)
+"Cw2Ocaml\\zadanie.ml" 5 70 80 "Cw2Ocaml\\zadanie.ml" 5 70 85
+type(
+  int
+)
+"Cw2Ocaml\\zadanie.ml" 5 70 76 "Cw2Ocaml\\zadanie.ml" 5 70 85
+type(
+  bool
+)
+"Cw2Ocaml\\zadanie.ml" 4 51 52 "Cw2Ocaml\\zadanie.ml" 5 70 85
+type(
+  bool
+)
+"Cw2Ocaml\\zadanie.ml" 6 87 92 "Cw2Ocaml\\zadanie.ml" 6 87 96
+type(
+  int -> bool
+)
+ident(
+  def addR "Cw2Ocaml\\zadanie.ml" 3 33 33 "Cw2Ocaml\\zadanie.ml" 1 0 -1
+)
+"Cw2Ocaml\\zadanie.ml" 6 87 97 "Cw2Ocaml\\zadanie.ml" 6 87 98
+type(
+  int
+)
+ident(
+  def n "Cw2Ocaml\\zadanie.ml" 7 101 103 "Cw2Ocaml\\zadanie.ml" 8 122 139
+)
+"Cw2Ocaml\\zadanie.ml" 7 101 106 "Cw2Ocaml\\zadanie.ml" 7 101 107
+type(
+  int
+)
+ident(
+  int_ref n "Cw2Ocaml\\zadanie.ml" 6 87 97 "Cw2Ocaml\\zadanie.ml" 6 87 98
+)
+"Cw2Ocaml\\zadanie.ml" 7 101 107 "Cw2Ocaml\\zadanie.ml" 7 101 108
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Cw2Ocaml\\zadanie.ml" 7 101 108 "Cw2Ocaml\\zadanie.ml" 7 101 109
+type(
+  int
+)
+"Cw2Ocaml\\zadanie.ml" 7 101 106 "Cw2Ocaml\\zadanie.ml" 7 101 109
+type(
+  bool
+)
+"Cw2Ocaml\\zadanie.ml" 7 101 115 "Cw2Ocaml\\zadanie.ml" 7 101 120
+type(
+  bool
+)
+"Cw2Ocaml\\zadanie.ml" 8 122 129 "Cw2Ocaml\\zadanie.ml" 8 122 134
+type(
+  int -> bool
+)
+ident(
+  int_ref evenR "Cw2Ocaml\\zadanie.ml" 3 33 41 "Cw2Ocaml\\zadanie.ml" 3 33 46
+)
+"Cw2Ocaml\\zadanie.ml" 8 122 135 "Cw2Ocaml\\zadanie.ml" 8 122 136
+type(
+  int
+)
+ident(
+  int_ref n "Cw2Ocaml\\zadanie.ml" 6 87 97 "Cw2Ocaml\\zadanie.ml" 6 87 98
+)
+"Cw2Ocaml\\zadanie.ml" 8 122 136 "Cw2Ocaml\\zadanie.ml" 8 122 137
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"Cw2Ocaml\\zadanie.ml" 8 122 137 "Cw2Ocaml\\zadanie.ml" 8 122 138
+type(
+  int
+)
+"Cw2Ocaml\\zadanie.ml" 8 122 134 "Cw2Ocaml\\zadanie.ml" 8 122 139
+type(
+  int
+)
+"Cw2Ocaml\\zadanie.ml" 8 122 129 "Cw2Ocaml\\zadanie.ml" 8 122 139
+type(
+  bool
+)
+"Cw2Ocaml\\zadanie.ml" 7 101 103 "Cw2Ocaml\\zadanie.ml" 8 122 139
+type(
+  bool
+)
+"Cw2Ocaml\\zadanie.ml" 10 145 145 "Cw2Ocaml\\zadanie.ml" 10 145 150
+type(
+  int -> bool
+)
+ident(
+  int_ref evenR "Cw2Ocaml\\zadanie.ml" 3 33 41 "Cw2Ocaml\\zadanie.ml" 3 33 46
+)
+"Cw2Ocaml\\zadanie.ml" 10 145 150 "Cw2Ocaml\\zadanie.ml" 10 145 153
+type(
+  int
+)
+"Cw2Ocaml\\zadanie.ml" 10 145 145 "Cw2Ocaml\\zadanie.ml" 10 145 153
+type(
+  bool
+)
+"Cw2Ocaml\\zadanie.ml" 13 167 175 "Cw2Ocaml\\zadanie.ml" 13 167 178
+type(
+  int -> int
+)
+ident(
+  def fib "Cw2Ocaml\\zadanie.ml" 13 167 167 "Cw2Ocaml\\zadanie.ml" 1 0 -1
+)
+"Cw2Ocaml\\zadanie.ml" 13 167 179 "Cw2Ocaml\\zadanie.ml" 13 167 180
+type(
+  int
+)
+ident(
+  def n "Cw2Ocaml\\zadanie.ml" 14 184 186 "Cw2Ocaml\\zadanie.ml" 16 259 285
+)
+"Cw2Ocaml\\zadanie.ml" 14 184 189 "Cw2Ocaml\\zadanie.ml" 14 184 190
+type(
+  int
+)
+ident(
+  int_ref n "Cw2Ocaml\\zadanie.ml" 13 167 179 "Cw2Ocaml\\zadanie.ml" 13 167 180
+)
+"Cw2Ocaml\\zadanie.ml" 14 184 191 "Cw2Ocaml\\zadanie.ml" 14 184 192
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"Cw2Ocaml\\zadanie.ml" 14 184 193 "Cw2Ocaml\\zadanie.ml" 14 184 194
+type(
+  int
+)
+"Cw2Ocaml\\zadanie.ml" 14 184 189 "Cw2Ocaml\\zadanie.ml" 14 184 194
+type(
+  bool
+)
+"Cw2Ocaml\\zadanie.ml" 14 184 200 "Cw2Ocaml\\zadanie.ml" 14 184 205
+type(
+  exn -> int
+)
+ident(
+  ext_ref Pervasives.raise
+)
+"Cw2Ocaml\\zadanie.ml" 14 184 215 "Cw2Ocaml\\zadanie.ml" 14 184 232
+type(
+  string
+)
+"Cw2Ocaml\\zadanie.ml" 14 184 206 "Cw2Ocaml\\zadanie.ml" 14 184 233
+type(
+  exn
+)
+"Cw2Ocaml\\zadanie.ml" 14 184 200 "Cw2Ocaml\\zadanie.ml" 14 184 233
+type(
+  int
+)
+"Cw2Ocaml\\zadanie.ml" 15 235 245 "Cw2Ocaml\\zadanie.ml" 15 235 246
+type(
+  int
+)
+ident(
+  int_ref n "Cw2Ocaml\\zadanie.ml" 13 167 179 "Cw2Ocaml\\zadanie.ml" 13 167 180
+)
+"Cw2Ocaml\\zadanie.ml" 15 235 247 "Cw2Ocaml\\zadanie.ml" 15 235 249
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( <= )
+)
+"Cw2Ocaml\\zadanie.ml" 15 235 249 "Cw2Ocaml\\zadanie.ml" 15 235 250
+type(
+  int
+)
+"Cw2Ocaml\\zadanie.ml" 15 235 245 "Cw2Ocaml\\zadanie.ml" 15 235 250
+type(
+  bool
+)
+"Cw2Ocaml\\zadanie.ml" 15 235 256 "Cw2Ocaml\\zadanie.ml" 15 235 257
+type(
+  int
+)
+"Cw2Ocaml\\zadanie.ml" 16 259 266 "Cw2Ocaml\\zadanie.ml" 16 259 269
+type(
+  int -> int
+)
+ident(
+  int_ref fib "Cw2Ocaml\\zadanie.ml" 13 167 175 "Cw2Ocaml\\zadanie.ml" 13 167 178
+)
+"Cw2Ocaml\\zadanie.ml" 16 259 270 "Cw2Ocaml\\zadanie.ml" 16 259 271
+type(
+  int
+)
+ident(
+  int_ref n "Cw2Ocaml\\zadanie.ml" 13 167 179 "Cw2Ocaml\\zadanie.ml" 13 167 180
+)
+"Cw2Ocaml\\zadanie.ml" 16 259 271 "Cw2Ocaml\\zadanie.ml" 16 259 272
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"Cw2Ocaml\\zadanie.ml" 16 259 272 "Cw2Ocaml\\zadanie.ml" 16 259 273
+type(
+  int
+)
+"Cw2Ocaml\\zadanie.ml" 16 259 269 "Cw2Ocaml\\zadanie.ml" 16 259 274
+type(
+  int
+)
+"Cw2Ocaml\\zadanie.ml" 16 259 266 "Cw2Ocaml\\zadanie.ml" 16 259 274
+type(
+  int
+)
+"Cw2Ocaml\\zadanie.ml" 16 259 275 "Cw2Ocaml\\zadanie.ml" 16 259 276
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"Cw2Ocaml\\zadanie.ml" 16 259 277 "Cw2Ocaml\\zadanie.ml" 16 259 280
+type(
+  int -> int
+)
+ident(
+  int_ref fib "Cw2Ocaml\\zadanie.ml" 13 167 175 "Cw2Ocaml\\zadanie.ml" 13 167 178
+)
+"Cw2Ocaml\\zadanie.ml" 16 259 281 "Cw2Ocaml\\zadanie.ml" 16 259 282
+type(
+  int
+)
+ident(
+  int_ref n "Cw2Ocaml\\zadanie.ml" 13 167 179 "Cw2Ocaml\\zadanie.ml" 13 167 180
+)
+"Cw2Ocaml\\zadanie.ml" 16 259 282 "Cw2Ocaml\\zadanie.ml" 16 259 283
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"Cw2Ocaml\\zadanie.ml" 16 259 283 "Cw2Ocaml\\zadanie.ml" 16 259 284
+type(
+  int
+)
+"Cw2Ocaml\\zadanie.ml" 16 259 280 "Cw2Ocaml\\zadanie.ml" 16 259 285
+type(
+  int
+)
+"Cw2Ocaml\\zadanie.ml" 16 259 277 "Cw2Ocaml\\zadanie.ml" 16 259 285
+type(
+  int
+)
+"Cw2Ocaml\\zadanie.ml" 16 259 266 "Cw2Ocaml\\zadanie.ml" 16 259 285
+type(
+  int
+)
+"Cw2Ocaml\\zadanie.ml" 15 235 242 "Cw2Ocaml\\zadanie.ml" 16 259 285
+type(
+  int
+)
+"Cw2Ocaml\\zadanie.ml" 14 184 186 "Cw2Ocaml\\zadanie.ml" 16 259 285
+type(
+  int
+)
+"Cw2Ocaml\\zadanie.ml" 19 301 309 "Cw2Ocaml\\zadanie.ml" 19 301 316
+type(
+  int -> int
+)
+ident(
+  def fibTail "Cw2Ocaml\\zadanie.ml" 19 301 301 "Cw2Ocaml\\zadanie.ml" 1 0 -1
+)
+"Cw2Ocaml\\zadanie.ml" 19 301 317 "Cw2Ocaml\\zadanie.ml" 19 301 318
+type(
+  int
+)
+ident(
+  def n "Cw2Ocaml\\zadanie.ml" 20 322 324 "Cw2Ocaml\\zadanie.ml" 25 488 508
+)
+"Cw2Ocaml\\zadanie.ml" 20 322 327 "Cw2Ocaml\\zadanie.ml" 20 322 328
+type(
+  int
+)
+ident(
+  int_ref n "Cw2Ocaml\\zadanie.ml" 19 301 317 "Cw2Ocaml\\zadanie.ml" 19 301 318
+)
+"Cw2Ocaml\\zadanie.ml" 20 322 329 "Cw2Ocaml\\zadanie.ml" 20 322 330
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"Cw2Ocaml\\zadanie.ml" 20 322 331 "Cw2Ocaml\\zadanie.ml" 20 322 332
+type(
+  int
+)
+"Cw2Ocaml\\zadanie.ml" 20 322 327 "Cw2Ocaml\\zadanie.ml" 20 322 332
+type(
+  bool
+)
+"Cw2Ocaml\\zadanie.ml" 20 322 338 "Cw2Ocaml\\zadanie.ml" 20 322 343
+type(
+  exn -> int
+)
+ident(
+  ext_ref Pervasives.raise
+)
+"Cw2Ocaml\\zadanie.ml" 20 322 353 "Cw2Ocaml\\zadanie.ml" 20 322 370
+type(
+  string
+)
+"Cw2Ocaml\\zadanie.ml" 20 322 344 "Cw2Ocaml\\zadanie.ml" 20 322 371
+type(
+  exn
+)
+"Cw2Ocaml\\zadanie.ml" 20 322 338 "Cw2Ocaml\\zadanie.ml" 20 322 371
+type(
+  int
+)
+"Cw2Ocaml\\zadanie.ml" 22 381 397 "Cw2Ocaml\\zadanie.ml" 22 381 408
+type(
+  int * int * int -> int
+)
+ident(
+  def fibTail_aux "Cw2Ocaml\\zadanie.ml" 22 381 389 "Cw2Ocaml\\zadanie.ml" 25 488 508
+)
+"Cw2Ocaml\\zadanie.ml" 22 381 409 "Cw2Ocaml\\zadanie.ml" 22 381 410
+type(
+  int
+)
+ident(
+  def i "Cw2Ocaml\\zadanie.ml" 23 421 429 "Cw2Ocaml\\zadanie.ml" 24 446 483
+)
+"Cw2Ocaml\\zadanie.ml" 22 381 412 "Cw2Ocaml\\zadanie.ml" 22 381 413
+type(
+  int
+)
+ident(
+  def a "Cw2Ocaml\\zadanie.ml" 23 421 429 "Cw2Ocaml\\zadanie.ml" 24 446 483
+)
+"Cw2Ocaml\\zadanie.ml" 22 381 415 "Cw2Ocaml\\zadanie.ml" 22 381 416
+type(
+  int
+)
+ident(
+  def b "Cw2Ocaml\\zadanie.ml" 23 421 429 "Cw2Ocaml\\zadanie.ml" 24 446 483
+)
+"Cw2Ocaml\\zadanie.ml" 22 381 408 "Cw2Ocaml\\zadanie.ml" 22 381 417
+type(
+  int * int * int
+)
+"Cw2Ocaml\\zadanie.ml" 23 421 432 "Cw2Ocaml\\zadanie.ml" 23 421 433
+type(
+  int
+)
+ident(
+  int_ref n "Cw2Ocaml\\zadanie.ml" 19 301 317 "Cw2Ocaml\\zadanie.ml" 19 301 318
+)
+"Cw2Ocaml\\zadanie.ml" 23 421 434 "Cw2Ocaml\\zadanie.ml" 23 421 435
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Cw2Ocaml\\zadanie.ml" 23 421 436 "Cw2Ocaml\\zadanie.ml" 23 421 437
+type(
+  int
+)
+ident(
+  int_ref i "Cw2Ocaml\\zadanie.ml" 22 381 409 "Cw2Ocaml\\zadanie.ml" 22 381 410
+)
+"Cw2Ocaml\\zadanie.ml" 23 421 432 "Cw2Ocaml\\zadanie.ml" 23 421 437
+type(
+  bool
+)
+"Cw2Ocaml\\zadanie.ml" 23 421 443 "Cw2Ocaml\\zadanie.ml" 23 421 444
+type(
+  int
+)
+ident(
+  int_ref b "Cw2Ocaml\\zadanie.ml" 22 381 415 "Cw2Ocaml\\zadanie.ml" 22 381 416
+)
+"Cw2Ocaml\\zadanie.ml" 24 446 459 "Cw2Ocaml\\zadanie.ml" 24 446 470
+type(
+  int * int * int -> int
+)
+ident(
+  int_ref fibTail_aux "Cw2Ocaml\\zadanie.ml" 22 381 397 "Cw2Ocaml\\zadanie.ml" 22 381 408
+)
+"Cw2Ocaml\\zadanie.ml" 24 446 471 "Cw2Ocaml\\zadanie.ml" 24 446 472
+type(
+  int
+)
+ident(
+  int_ref i "Cw2Ocaml\\zadanie.ml" 22 381 409 "Cw2Ocaml\\zadanie.ml" 22 381 410
+)
+"Cw2Ocaml\\zadanie.ml" 24 446 472 "Cw2Ocaml\\zadanie.ml" 24 446 473
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"Cw2Ocaml\\zadanie.ml" 24 446 473 "Cw2Ocaml\\zadanie.ml" 24 446 474
+type(
+  int
+)
+"Cw2Ocaml\\zadanie.ml" 24 446 471 "Cw2Ocaml\\zadanie.ml" 24 446 474
+type(
+  int
+)
+"Cw2Ocaml\\zadanie.ml" 24 446 476 "Cw2Ocaml\\zadanie.ml" 24 446 477
+type(
+  int
+)
+ident(
+  int_ref b "Cw2Ocaml\\zadanie.ml" 22 381 415 "Cw2Ocaml\\zadanie.ml" 22 381 416
+)
+"Cw2Ocaml\\zadanie.ml" 24 446 479 "Cw2Ocaml\\zadanie.ml" 24 446 480
+type(
+  int
+)
+ident(
+  int_ref a "Cw2Ocaml\\zadanie.ml" 22 381 412 "Cw2Ocaml\\zadanie.ml" 22 381 413
+)
+"Cw2Ocaml\\zadanie.ml" 24 446 480 "Cw2Ocaml\\zadanie.ml" 24 446 481
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"Cw2Ocaml\\zadanie.ml" 24 446 481 "Cw2Ocaml\\zadanie.ml" 24 446 482
+type(
+  int
+)
+ident(
+  int_ref b "Cw2Ocaml\\zadanie.ml" 22 381 415 "Cw2Ocaml\\zadanie.ml" 22 381 416
+)
+"Cw2Ocaml\\zadanie.ml" 24 446 479 "Cw2Ocaml\\zadanie.ml" 24 446 482
+type(
+  int
+)
+"Cw2Ocaml\\zadanie.ml" 24 446 470 "Cw2Ocaml\\zadanie.ml" 24 446 483
+type(
+  int * int * int
+)
+"Cw2Ocaml\\zadanie.ml" 24 446 459 "Cw2Ocaml\\zadanie.ml" 24 446 483
+type(
+  int
+)
+"Cw2Ocaml\\zadanie.ml" 23 421 429 "Cw2Ocaml\\zadanie.ml" 24 446 483
+type(
+  int
+)
+"Cw2Ocaml\\zadanie.ml" 25 488 490 "Cw2Ocaml\\zadanie.ml" 25 488 501
+type(
+  int * int * int -> int
+)
+ident(
+  int_ref fibTail_aux "Cw2Ocaml\\zadanie.ml" 22 381 397 "Cw2Ocaml\\zadanie.ml" 22 381 408
+)
+"Cw2Ocaml\\zadanie.ml" 25 488 502 "Cw2Ocaml\\zadanie.ml" 25 488 503
+type(
+  int
+)
+"Cw2Ocaml\\zadanie.ml" 25 488 504 "Cw2Ocaml\\zadanie.ml" 25 488 505
+type(
+  int
+)
+"Cw2Ocaml\\zadanie.ml" 25 488 506 "Cw2Ocaml\\zadanie.ml" 25 488 507
+type(
+  int
+)
+"Cw2Ocaml\\zadanie.ml" 25 488 501 "Cw2Ocaml\\zadanie.ml" 25 488 508
+type(
+  int * int * int
+)
+"Cw2Ocaml\\zadanie.ml" 25 488 490 "Cw2Ocaml\\zadanie.ml" 25 488 508
+type(
+  int
+)
+"Cw2Ocaml\\zadanie.ml" 22 381 389 "Cw2Ocaml\\zadanie.ml" 25 488 508
+type(
+  int
+)
+"Cw2Ocaml\\zadanie.ml" 20 322 324 "Cw2Ocaml\\zadanie.ml" 25 488 508
+type(
+  int
+)
+"Cw2Ocaml\\zadanie.ml" 28 523 527 "Cw2Ocaml\\zadanie.ml" 28 523 532
+type(
+  float -> float
+)
+ident(
+  def root3 "Cw2Ocaml\\zadanie.ml" 37 720 720 "Cw2Ocaml\\zadanie.ml" 1 0 -1
+)
+"Cw2Ocaml\\zadanie.ml" 28 523 533 "Cw2Ocaml\\zadanie.ml" 28 523 534
+type(
+  float
+)
+ident(
+  def a "Cw2Ocaml\\zadanie.ml" 29 538 540 "Cw2Ocaml\\zadanie.ml" 32 662 701
+)
+"Cw2Ocaml\\zadanie.ml" 29 538 548 "Cw2Ocaml\\zadanie.ml" 29 538 557
+type(
+  float -> float
+)
+ident(
+  def root3_aux "Cw2Ocaml\\zadanie.ml" 29 538 540 "Cw2Ocaml\\zadanie.ml" 32 662 701
+)
+"Cw2Ocaml\\zadanie.ml" 29 538 558 "Cw2Ocaml\\zadanie.ml" 29 538 559
+type(
+  float
+)
+ident(
+  def x "Cw2Ocaml\\zadanie.ml" 30 563 565 "Cw2Ocaml\\zadanie.ml" 31 619 657
+)
+"Cw2Ocaml\\zadanie.ml" 30 563 568 "Cw2Ocaml\\zadanie.ml" 30 563 577
+type(
+  float -> float
+)
+ident(
+  ext_ref Pervasives.abs_float
+)
+"Cw2Ocaml\\zadanie.ml" 30 563 578 "Cw2Ocaml\\zadanie.ml" 30 563 579
+type(
+  float
+)
+ident(
+  int_ref x "Cw2Ocaml\\zadanie.ml" 29 538 558 "Cw2Ocaml\\zadanie.ml" 29 538 559
+)
+"Cw2Ocaml\\zadanie.ml" 30 563 579 "Cw2Ocaml\\zadanie.ml" 30 563 581
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( ** )
+)
+"Cw2Ocaml\\zadanie.ml" 30 563 581 "Cw2Ocaml\\zadanie.ml" 30 563 583
+type(
+  float
+)
+"Cw2Ocaml\\zadanie.ml" 30 563 578 "Cw2Ocaml\\zadanie.ml" 30 563 583
+type(
+  float
+)
+"Cw2Ocaml\\zadanie.ml" 30 563 583 "Cw2Ocaml\\zadanie.ml" 30 563 585
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( -. )
+)
+"Cw2Ocaml\\zadanie.ml" 30 563 585 "Cw2Ocaml\\zadanie.ml" 30 563 586
+type(
+  float
+)
+ident(
+  int_ref a "Cw2Ocaml\\zadanie.ml" 28 523 533 "Cw2Ocaml\\zadanie.ml" 28 523 534
+)
+"Cw2Ocaml\\zadanie.ml" 30 563 577 "Cw2Ocaml\\zadanie.ml" 30 563 587
+type(
+  float
+)
+"Cw2Ocaml\\zadanie.ml" 30 563 568 "Cw2Ocaml\\zadanie.ml" 30 563 587
+type(
+  float
+)
+"Cw2Ocaml\\zadanie.ml" 30 563 588 "Cw2Ocaml\\zadanie.ml" 30 563 590
+type(
+  float -> float -> bool
+)
+ident(
+  ext_ref Pervasives.( <= )
+)
+"Cw2Ocaml\\zadanie.ml" 30 563 591 "Cw2Ocaml\\zadanie.ml" 30 563 596
+type(
+  float
+)
+"Cw2Ocaml\\zadanie.ml" 30 563 596 "Cw2Ocaml\\zadanie.ml" 30 563 598
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( *. )
+)
+"Cw2Ocaml\\zadanie.ml" 30 563 598 "Cw2Ocaml\\zadanie.ml" 30 563 607
+type(
+  float -> float
+)
+ident(
+  ext_ref Pervasives.abs_float
+)
+"Cw2Ocaml\\zadanie.ml" 30 563 607 "Cw2Ocaml\\zadanie.ml" 30 563 610
+type(
+  float
+)
+ident(
+  int_ref a "Cw2Ocaml\\zadanie.ml" 28 523 533 "Cw2Ocaml\\zadanie.ml" 28 523 534
+)
+"Cw2Ocaml\\zadanie.ml" 30 563 598 "Cw2Ocaml\\zadanie.ml" 30 563 610
+type(
+  float
+)
+"Cw2Ocaml\\zadanie.ml" 30 563 591 "Cw2Ocaml\\zadanie.ml" 30 563 610
+type(
+  float
+)
+"Cw2Ocaml\\zadanie.ml" 30 563 568 "Cw2Ocaml\\zadanie.ml" 30 563 610
+type(
+  bool
+)
+"Cw2Ocaml\\zadanie.ml" 30 563 616 "Cw2Ocaml\\zadanie.ml" 30 563 617
+type(
+  float
+)
+ident(
+  int_ref x "Cw2Ocaml\\zadanie.ml" 29 538 558 "Cw2Ocaml\\zadanie.ml" 29 538 559
+)
+"Cw2Ocaml\\zadanie.ml" 31 619 626 "Cw2Ocaml\\zadanie.ml" 31 619 635
+type(
+  float -> float
+)
+ident(
+  int_ref root3_aux "Cw2Ocaml\\zadanie.ml" 29 538 548 "Cw2Ocaml\\zadanie.ml" 29 538 557
+)
+"Cw2Ocaml\\zadanie.ml" 31 619 636 "Cw2Ocaml\\zadanie.ml" 31 619 637
+type(
+  float
+)
+ident(
+  int_ref x "Cw2Ocaml\\zadanie.ml" 29 538 558 "Cw2Ocaml\\zadanie.ml" 29 538 559
+)
+"Cw2Ocaml\\zadanie.ml" 31 619 637 "Cw2Ocaml\\zadanie.ml" 31 619 639
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( +. )
+)
+"Cw2Ocaml\\zadanie.ml" 31 619 640 "Cw2Ocaml\\zadanie.ml" 31 619 641
+type(
+  float
+)
+ident(
+  int_ref a "Cw2Ocaml\\zadanie.ml" 28 523 533 "Cw2Ocaml\\zadanie.ml" 28 523 534
+)
+"Cw2Ocaml\\zadanie.ml" 31 619 641 "Cw2Ocaml\\zadanie.ml" 31 619 643
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( /. )
+)
+"Cw2Ocaml\\zadanie.ml" 31 619 643 "Cw2Ocaml\\zadanie.ml" 31 619 644
+type(
+  float
+)
+ident(
+  int_ref x "Cw2Ocaml\\zadanie.ml" 29 538 558 "Cw2Ocaml\\zadanie.ml" 29 538 559
+)
+"Cw2Ocaml\\zadanie.ml" 31 619 644 "Cw2Ocaml\\zadanie.ml" 31 619 646
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( ** )
+)
+"Cw2Ocaml\\zadanie.ml" 31 619 646 "Cw2Ocaml\\zadanie.ml" 31 619 648
+type(
+  float
+)
+"Cw2Ocaml\\zadanie.ml" 31 619 643 "Cw2Ocaml\\zadanie.ml" 31 619 648
+type(
+  float
+)
+"Cw2Ocaml\\zadanie.ml" 31 619 640 "Cw2Ocaml\\zadanie.ml" 31 619 648
+type(
+  float
+)
+"Cw2Ocaml\\zadanie.ml" 31 619 648 "Cw2Ocaml\\zadanie.ml" 31 619 650
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( -. )
+)
+"Cw2Ocaml\\zadanie.ml" 31 619 650 "Cw2Ocaml\\zadanie.ml" 31 619 651
+type(
+  float
+)
+ident(
+  int_ref x "Cw2Ocaml\\zadanie.ml" 29 538 558 "Cw2Ocaml\\zadanie.ml" 29 538 559
+)
+"Cw2Ocaml\\zadanie.ml" 31 619 639 "Cw2Ocaml\\zadanie.ml" 31 619 652
+type(
+  float
+)
+"Cw2Ocaml\\zadanie.ml" 31 619 652 "Cw2Ocaml\\zadanie.ml" 31 619 654
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( /. )
+)
+"Cw2Ocaml\\zadanie.ml" 31 619 654 "Cw2Ocaml\\zadanie.ml" 31 619 656
+type(
+  float
+)
+"Cw2Ocaml\\zadanie.ml" 31 619 639 "Cw2Ocaml\\zadanie.ml" 31 619 656
+type(
+  float
+)
+"Cw2Ocaml\\zadanie.ml" 31 619 635 "Cw2Ocaml\\zadanie.ml" 31 619 657
+type(
+  float
+)
+"Cw2Ocaml\\zadanie.ml" 31 619 626 "Cw2Ocaml\\zadanie.ml" 31 619 657
+type(
+  float
+)
+"Cw2Ocaml\\zadanie.ml" 30 563 565 "Cw2Ocaml\\zadanie.ml" 31 619 657
+type(
+  float
+)
+"Cw2Ocaml\\zadanie.ml" 32 662 664 "Cw2Ocaml\\zadanie.ml" 32 662 673
+type(
+  float -> float
+)
+ident(
+  int_ref root3_aux "Cw2Ocaml\\zadanie.ml" 29 538 548 "Cw2Ocaml\\zadanie.ml" 29 538 557
+)
+"Cw2Ocaml\\zadanie.ml" 32 662 677 "Cw2Ocaml\\zadanie.ml" 32 662 678
+type(
+  float
+)
+ident(
+  int_ref a "Cw2Ocaml\\zadanie.ml" 28 523 533 "Cw2Ocaml\\zadanie.ml" 28 523 534
+)
+"Cw2Ocaml\\zadanie.ml" 32 662 678 "Cw2Ocaml\\zadanie.ml" 32 662 680
+type(
+  float -> float -> bool
+)
+ident(
+  ext_ref Pervasives.( <= )
+)
+"Cw2Ocaml\\zadanie.ml" 32 662 680 "Cw2Ocaml\\zadanie.ml" 32 662 682
+type(
+  float
+)
+"Cw2Ocaml\\zadanie.ml" 32 662 677 "Cw2Ocaml\\zadanie.ml" 32 662 682
+type(
+  bool
+)
+"Cw2Ocaml\\zadanie.ml" 32 662 688 "Cw2Ocaml\\zadanie.ml" 32 662 689
+type(
+  float
+)
+ident(
+  int_ref a "Cw2Ocaml\\zadanie.ml" 28 523 533 "Cw2Ocaml\\zadanie.ml" 28 523 534
+)
+"Cw2Ocaml\\zadanie.ml" 32 662 695 "Cw2Ocaml\\zadanie.ml" 32 662 696
+type(
+  float
+)
+ident(
+  int_ref a "Cw2Ocaml\\zadanie.ml" 28 523 533 "Cw2Ocaml\\zadanie.ml" 28 523 534
+)
+"Cw2Ocaml\\zadanie.ml" 32 662 696 "Cw2Ocaml\\zadanie.ml" 32 662 698
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( /. )
+)
+"Cw2Ocaml\\zadanie.ml" 32 662 698 "Cw2Ocaml\\zadanie.ml" 32 662 700
+type(
+  float
+)
+"Cw2Ocaml\\zadanie.ml" 32 662 695 "Cw2Ocaml\\zadanie.ml" 32 662 700
+type(
+  float
+)
+"Cw2Ocaml\\zadanie.ml" 32 662 673 "Cw2Ocaml\\zadanie.ml" 32 662 701
+type(
+  float
+)
+"Cw2Ocaml\\zadanie.ml" 32 662 664 "Cw2Ocaml\\zadanie.ml" 32 662 701
+type(
+  float
+)
+"Cw2Ocaml\\zadanie.ml" 29 538 540 "Cw2Ocaml\\zadanie.ml" 32 662 701
+type(
+  float
+)
+"Cw2Ocaml\\zadanie.ml" 37 720 725 "Cw2Ocaml\\zadanie.ml" 37 720 726
+type(
+  int
+)
+"Cw2Ocaml\\zadanie.ml" 37 720 727 "Cw2Ocaml\\zadanie.ml" 37 720 728
+type(
+  int
+)
+"Cw2Ocaml\\zadanie.ml" 37 720 729 "Cw2Ocaml\\zadanie.ml" 37 720 730
+type(
+  int
+)
+ident(
+  def x "Cw2Ocaml\\zadanie.ml" 41 766 766 "Cw2Ocaml\\zadanie.ml" 1 0 -1
+)
+"Cw2Ocaml\\zadanie.ml" 37 720 731 "Cw2Ocaml\\zadanie.ml" 37 720 732
+type(
+  int
+)
+"Cw2Ocaml\\zadanie.ml" 37 720 733 "Cw2Ocaml\\zadanie.ml" 37 720 734
+type(
+  int
+)
+"Cw2Ocaml\\zadanie.ml" 37 720 724 "Cw2Ocaml\\zadanie.ml" 37 720 735
+type(
+  int * int * int * int * int
+)
+"Cw2Ocaml\\zadanie.ml" 37 720 737 "Cw2Ocaml\\zadanie.ml" 37 720 739
+type(
+  int
+)
+"Cw2Ocaml\\zadanie.ml" 37 720 740 "Cw2Ocaml\\zadanie.ml" 37 720 742
+type(
+  int
+)
+"Cw2Ocaml\\zadanie.ml" 37 720 743 "Cw2Ocaml\\zadanie.ml" 37 720 744
+type(
+  int
+)
+"Cw2Ocaml\\zadanie.ml" 37 720 745 "Cw2Ocaml\\zadanie.ml" 37 720 746
+type(
+  int
+)
+"Cw2Ocaml\\zadanie.ml" 37 720 747 "Cw2Ocaml\\zadanie.ml" 37 720 748
+type(
+  int
+)
+"Cw2Ocaml\\zadanie.ml" 37 720 736 "Cw2Ocaml\\zadanie.ml" 37 720 749
+type(
+  int * int * int * int * int
+)
+"Cw2Ocaml\\zadanie.ml" 41 766 774 "Cw2Ocaml\\zadanie.ml" 41 766 785
+type(
+  'a list * 'a list -> bool
+)
+ident(
+  def initSegment "Cw2Ocaml\\zadanie.ml" 41 766 766 "Cw2Ocaml\\zadanie.ml" 1 0 -1
+)
+"Cw2Ocaml\\zadanie.ml" 41 766 786 "Cw2Ocaml\\zadanie.ml" 41 766 788
+type(
+  'a list
+)
+ident(
+  def xs "Cw2Ocaml\\zadanie.ml" 42 797 799 "Cw2Ocaml\\zadanie.ml" 45 859 946
+)
+"Cw2Ocaml\\zadanie.ml" 41 766 790 "Cw2Ocaml\\zadanie.ml" 41 766 792
+type(
+  'a list
+)
+ident(
+  def ys "Cw2Ocaml\\zadanie.ml" 42 797 799 "Cw2Ocaml\\zadanie.ml" 45 859 946
+)
+"Cw2Ocaml\\zadanie.ml" 41 766 785 "Cw2Ocaml\\zadanie.ml" 41 766 793
+type(
+  'a list * 'a list
+)
+"Cw2Ocaml\\zadanie.ml" 42 797 806 "Cw2Ocaml\\zadanie.ml" 42 797 808
+type(
+  'a list
+)
+ident(
+  int_ref xs "Cw2Ocaml\\zadanie.ml" 41 766 786 "Cw2Ocaml\\zadanie.ml" 41 766 788
+)
+"Cw2Ocaml\\zadanie.ml" 42 797 810 "Cw2Ocaml\\zadanie.ml" 42 797 812
+type(
+  'a list
+)
+ident(
+  int_ref ys "Cw2Ocaml\\zadanie.ml" 41 766 790 "Cw2Ocaml\\zadanie.ml" 41 766 792
+)
+"Cw2Ocaml\\zadanie.ml" 42 797 805 "Cw2Ocaml\\zadanie.ml" 42 797 813
+type(
+  'a list * 'a list
+)
+"Cw2Ocaml\\zadanie.ml" 43 820 823 "Cw2Ocaml\\zadanie.ml" 43 820 825
+type(
+  'a list
+)
+"Cw2Ocaml\\zadanie.ml" 43 820 826 "Cw2Ocaml\\zadanie.ml" 43 820 827
+type(
+  'a list
+)
+"Cw2Ocaml\\zadanie.ml" 43 820 822 "Cw2Ocaml\\zadanie.ml" 43 820 828
+type(
+  'a list * 'a list
+)
+"Cw2Ocaml\\zadanie.ml" 43 820 832 "Cw2Ocaml\\zadanie.ml" 43 820 836
+type(
+  bool
+)
+"Cw2Ocaml\\zadanie.ml" 44 838 843 "Cw2Ocaml\\zadanie.ml" 44 838 844
+type(
+  'a list
+)
+"Cw2Ocaml\\zadanie.ml" 44 838 845 "Cw2Ocaml\\zadanie.ml" 44 838 847
+type(
+  'a list
+)
+"Cw2Ocaml\\zadanie.ml" 44 838 842 "Cw2Ocaml\\zadanie.ml" 44 838 848
+type(
+  'a list * 'a list
+)
+"Cw2Ocaml\\zadanie.ml" 44 838 852 "Cw2Ocaml\\zadanie.ml" 44 838 857
+type(
+  bool
+)
+"Cw2Ocaml\\zadanie.ml" 45 859 863 "Cw2Ocaml\\zadanie.ml" 45 859 864
+type(
+  'a list * 'a list
+)
+"Cw2Ocaml\\zadanie.ml" 45 859 871 "Cw2Ocaml\\zadanie.ml" 45 859 878
+type(
+  'a list -> 'a
+)
+ident(
+  ext_ref List.hd
+)
+"Cw2Ocaml\\zadanie.ml" 45 859 879 "Cw2Ocaml\\zadanie.ml" 45 859 881
+type(
+  'a list
+)
+ident(
+  int_ref xs "Cw2Ocaml\\zadanie.ml" 41 766 786 "Cw2Ocaml\\zadanie.ml" 41 766 788
+)
+"Cw2Ocaml\\zadanie.ml" 45 859 871 "Cw2Ocaml\\zadanie.ml" 45 859 881
+type(
+  'a
+)
+"Cw2Ocaml\\zadanie.ml" 45 859 882 "Cw2Ocaml\\zadanie.ml" 45 859 883
+type(
+  'a -> 'a -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Cw2Ocaml\\zadanie.ml" 45 859 884 "Cw2Ocaml\\zadanie.ml" 45 859 891
+type(
+  'a list -> 'a
+)
+ident(
+  ext_ref List.hd
+)
+"Cw2Ocaml\\zadanie.ml" 45 859 892 "Cw2Ocaml\\zadanie.ml" 45 859 894
+type(
+  'a list
+)
+ident(
+  int_ref ys "Cw2Ocaml\\zadanie.ml" 41 766 790 "Cw2Ocaml\\zadanie.ml" 41 766 792
+)
+"Cw2Ocaml\\zadanie.ml" 45 859 884 "Cw2Ocaml\\zadanie.ml" 45 859 894
+type(
+  'a
+)
+"Cw2Ocaml\\zadanie.ml" 45 859 871 "Cw2Ocaml\\zadanie.ml" 45 859 894
+type(
+  bool
+)
+"Cw2Ocaml\\zadanie.ml" 45 859 900 "Cw2Ocaml\\zadanie.ml" 45 859 911
+type(
+  'a list * 'a list -> bool
+)
+ident(
+  int_ref initSegment "Cw2Ocaml\\zadanie.ml" 41 766 774 "Cw2Ocaml\\zadanie.ml" 41 766 785
+)
+"Cw2Ocaml\\zadanie.ml" 45 859 912 "Cw2Ocaml\\zadanie.ml" 45 859 919
+type(
+  'a list -> 'a list
+)
+ident(
+  ext_ref List.tl
+)
+"Cw2Ocaml\\zadanie.ml" 45 859 920 "Cw2Ocaml\\zadanie.ml" 45 859 922
+type(
+  'a list
+)
+ident(
+  int_ref xs "Cw2Ocaml\\zadanie.ml" 41 766 786 "Cw2Ocaml\\zadanie.ml" 41 766 788
+)
+"Cw2Ocaml\\zadanie.ml" 45 859 912 "Cw2Ocaml\\zadanie.ml" 45 859 922
+type(
+  'a list
+)
+"Cw2Ocaml\\zadanie.ml" 45 859 924 "Cw2Ocaml\\zadanie.ml" 45 859 931
+type(
+  'a list -> 'a list
+)
+ident(
+  ext_ref List.tl
+)
+"Cw2Ocaml\\zadanie.ml" 45 859 932 "Cw2Ocaml\\zadanie.ml" 45 859 934
+type(
+  'a list
+)
+ident(
+  int_ref ys "Cw2Ocaml\\zadanie.ml" 41 766 790 "Cw2Ocaml\\zadanie.ml" 41 766 792
+)
+"Cw2Ocaml\\zadanie.ml" 45 859 924 "Cw2Ocaml\\zadanie.ml" 45 859 934
+type(
+  'a list
+)
+"Cw2Ocaml\\zadanie.ml" 45 859 911 "Cw2Ocaml\\zadanie.ml" 45 859 935
+type(
+  'a list * 'a list
+)
+"Cw2Ocaml\\zadanie.ml" 45 859 900 "Cw2Ocaml\\zadanie.ml" 45 859 935
+type(
+  bool
+)
+"Cw2Ocaml\\zadanie.ml" 45 859 941 "Cw2Ocaml\\zadanie.ml" 45 859 946
+type(
+  bool
+)
+"Cw2Ocaml\\zadanie.ml" 45 859 868 "Cw2Ocaml\\zadanie.ml" 45 859 946
+type(
+  bool
+)
+"Cw2Ocaml\\zadanie.ml" 42 797 799 "Cw2Ocaml\\zadanie.ml" 45 859 946
+type(
+  bool
+)
+"Cw2Ocaml\\zadanie.ml" 48 961 969 "Cw2Ocaml\\zadanie.ml" 48 961 979
+type(
+  'a list * int * 'a -> 'a list
+)
+ident(
+  def replaceNth "Cw2Ocaml\\zadanie.ml" 48 961 961 "Cw2Ocaml\\zadanie.ml" 1 0 -1
+)
+"Cw2Ocaml\\zadanie.ml" 48 961 980 "Cw2Ocaml\\zadanie.ml" 48 961 982
+type(
+  'a list
+)
+ident(
+  def xs "Cw2Ocaml\\zadanie.ml" 49 993 995 "Cw2Ocaml\\zadanie.ml" 52 1054 1094
+)
+"Cw2Ocaml\\zadanie.ml" 48 961 984 "Cw2Ocaml\\zadanie.ml" 48 961 985
+type(
+  int
+)
+ident(
+  def n "Cw2Ocaml\\zadanie.ml" 49 993 995 "Cw2Ocaml\\zadanie.ml" 52 1054 1094
+)
+"Cw2Ocaml\\zadanie.ml" 48 961 987 "Cw2Ocaml\\zadanie.ml" 48 961 988
+type(
+  'a
+)
+ident(
+  def x "Cw2Ocaml\\zadanie.ml" 49 993 995 "Cw2Ocaml\\zadanie.ml" 52 1054 1094
+)
+"Cw2Ocaml\\zadanie.ml" 48 961 979 "Cw2Ocaml\\zadanie.ml" 48 961 989
+type(
+  'a list * int * 'a
+)
+"Cw2Ocaml\\zadanie.ml" 49 993 1002 "Cw2Ocaml\\zadanie.ml" 49 993 1004
+type(
+  'a list
+)
+ident(
+  int_ref xs "Cw2Ocaml\\zadanie.ml" 48 961 980 "Cw2Ocaml\\zadanie.ml" 48 961 982
+)
+"Cw2Ocaml\\zadanie.ml" 49 993 1006 "Cw2Ocaml\\zadanie.ml" 49 993 1007
+type(
+  int
+)
+ident(
+  int_ref n "Cw2Ocaml\\zadanie.ml" 48 961 984 "Cw2Ocaml\\zadanie.ml" 48 961 985
+)
+"Cw2Ocaml\\zadanie.ml" 49 993 1001 "Cw2Ocaml\\zadanie.ml" 49 993 1008
+type(
+  'a list * int
+)
+"Cw2Ocaml\\zadanie.ml" 50 1015 1018 "Cw2Ocaml\\zadanie.ml" 50 1015 1020
+type(
+  'a list
+)
+"Cw2Ocaml\\zadanie.ml" 50 1015 1021 "Cw2Ocaml\\zadanie.ml" 50 1015 1022
+type(
+  int
+)
+"Cw2Ocaml\\zadanie.ml" 50 1015 1017 "Cw2Ocaml\\zadanie.ml" 50 1015 1023
+type(
+  'a list * int
+)
+"Cw2Ocaml\\zadanie.ml" 50 1015 1027 "Cw2Ocaml\\zadanie.ml" 50 1015 1029
+type(
+  'a list
+)
+"Cw2Ocaml\\zadanie.ml" 51 1031 1036 "Cw2Ocaml\\zadanie.ml" 51 1031 1037
+type(
+  'a
+)
+ident(
+  def h "Cw2Ocaml\\zadanie.ml" 51 1031 1048 "Cw2Ocaml\\zadanie.ml" 51 1031 1052
+)
+"Cw2Ocaml\\zadanie.ml" 51 1031 1039 "Cw2Ocaml\\zadanie.ml" 51 1031 1040
+type(
+  'a list
+)
+ident(
+  def t "Cw2Ocaml\\zadanie.ml" 51 1031 1048 "Cw2Ocaml\\zadanie.ml" 51 1031 1052
+)
+"Cw2Ocaml\\zadanie.ml" 51 1031 1036 "Cw2Ocaml\\zadanie.ml" 51 1031 1040
+type(
+  'a list
+)
+"Cw2Ocaml\\zadanie.ml" 51 1031 1042 "Cw2Ocaml\\zadanie.ml" 51 1031 1043
+type(
+  int
+)
+"Cw2Ocaml\\zadanie.ml" 51 1031 1035 "Cw2Ocaml\\zadanie.ml" 51 1031 1044
+type(
+  'a list * int
+)
+"Cw2Ocaml\\zadanie.ml" 51 1031 1048 "Cw2Ocaml\\zadanie.ml" 51 1031 1049
+type(
+  'a
+)
+ident(
+  int_ref x "Cw2Ocaml\\zadanie.ml" 48 961 987 "Cw2Ocaml\\zadanie.ml" 48 961 988
+)
+"Cw2Ocaml\\zadanie.ml" 51 1031 1051 "Cw2Ocaml\\zadanie.ml" 51 1031 1052
+type(
+  'a list
+)
+ident(
+  int_ref t "Cw2Ocaml\\zadanie.ml" 51 1031 1039 "Cw2Ocaml\\zadanie.ml" 51 1031 1040
+)
+"Cw2Ocaml\\zadanie.ml" 51 1031 1048 "Cw2Ocaml\\zadanie.ml" 51 1031 1052
+type(
+  'a list
+)
+"Cw2Ocaml\\zadanie.ml" 52 1054 1059 "Cw2Ocaml\\zadanie.ml" 52 1054 1060
+type(
+  'a
+)
+ident(
+  def h "Cw2Ocaml\\zadanie.ml" 52 1054 1070 "Cw2Ocaml\\zadanie.ml" 52 1054 1094
+)
+"Cw2Ocaml\\zadanie.ml" 52 1054 1062 "Cw2Ocaml\\zadanie.ml" 52 1054 1063
+type(
+  'a list
+)
+ident(
+  def t "Cw2Ocaml\\zadanie.ml" 52 1054 1070 "Cw2Ocaml\\zadanie.ml" 52 1054 1094
+)
+"Cw2Ocaml\\zadanie.ml" 52 1054 1059 "Cw2Ocaml\\zadanie.ml" 52 1054 1063
+type(
+  'a list
+)
+"Cw2Ocaml\\zadanie.ml" 52 1054 1064 "Cw2Ocaml\\zadanie.ml" 52 1054 1065
+type(
+  int
+)
+"Cw2Ocaml\\zadanie.ml" 52 1054 1058 "Cw2Ocaml\\zadanie.ml" 52 1054 1066
+type(
+  'a list * int
+)
+"Cw2Ocaml\\zadanie.ml" 52 1054 1070 "Cw2Ocaml\\zadanie.ml" 52 1054 1071
+type(
+  'a
+)
+ident(
+  int_ref h "Cw2Ocaml\\zadanie.ml" 52 1054 1059 "Cw2Ocaml\\zadanie.ml" 52 1054 1060
+)
+"Cw2Ocaml\\zadanie.ml" 52 1054 1073 "Cw2Ocaml\\zadanie.ml" 52 1054 1083
+type(
+  'a list * int * 'a -> 'a list
+)
+ident(
+  int_ref replaceNth "Cw2Ocaml\\zadanie.ml" 48 961 969 "Cw2Ocaml\\zadanie.ml" 48 961 979
+)
+"Cw2Ocaml\\zadanie.ml" 52 1054 1084 "Cw2Ocaml\\zadanie.ml" 52 1054 1085
+type(
+  'a list
+)
+ident(
+  int_ref t "Cw2Ocaml\\zadanie.ml" 52 1054 1062 "Cw2Ocaml\\zadanie.ml" 52 1054 1063
+)
+"Cw2Ocaml\\zadanie.ml" 52 1054 1087 "Cw2Ocaml\\zadanie.ml" 52 1054 1088
+type(
+  int
+)
+ident(
+  int_ref n "Cw2Ocaml\\zadanie.ml" 48 961 984 "Cw2Ocaml\\zadanie.ml" 48 961 985
+)
+"Cw2Ocaml\\zadanie.ml" 52 1054 1088 "Cw2Ocaml\\zadanie.ml" 52 1054 1089
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"Cw2Ocaml\\zadanie.ml" 52 1054 1089 "Cw2Ocaml\\zadanie.ml" 52 1054 1090
+type(
+  int
+)
+"Cw2Ocaml\\zadanie.ml" 52 1054 1087 "Cw2Ocaml\\zadanie.ml" 52 1054 1090
+type(
+  int
+)
+"Cw2Ocaml\\zadanie.ml" 52 1054 1092 "Cw2Ocaml\\zadanie.ml" 52 1054 1093
+type(
+  'a
+)
+ident(
+  int_ref x "Cw2Ocaml\\zadanie.ml" 48 961 987 "Cw2Ocaml\\zadanie.ml" 48 961 988
+)
+"Cw2Ocaml\\zadanie.ml" 52 1054 1083 "Cw2Ocaml\\zadanie.ml" 52 1054 1094
+type(
+  'a list * int * 'a
+)
+"Cw2Ocaml\\zadanie.ml" 52 1054 1073 "Cw2Ocaml\\zadanie.ml" 52 1054 1094
+type(
+  'a list
+)
+"Cw2Ocaml\\zadanie.ml" 52 1054 1070 "Cw2Ocaml\\zadanie.ml" 52 1054 1094
+type(
+  'a list
+)
+"Cw2Ocaml\\zadanie.ml" 49 993 995 "Cw2Ocaml\\zadanie.ml" 52 1054 1094
+type(
+  'a list
+)

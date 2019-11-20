@@ -1,0 +1,68 @@
+"Cw5Ocaml\\zadanie.ml" 6 21 25 "Cw5Ocaml\\zadanie.ml" 6 21 32
+type(
+  '_a -> '_b -> '_c
+)
+ident(
+  def lrepeat "Cw5Ocaml\\zadanie.ml" 11 256 275 "Cw5Ocaml\\zadanie.ml" 1 0 -1
+)
+"Cw5Ocaml\\zadanie.ml" 6 21 33 "Cw5Ocaml\\zadanie.ml" 6 21 34
+type(
+  '_a
+)
+ident(
+  def k "Cw5Ocaml\\zadanie.ml" 6 21 35 "Cw5Ocaml\\zadanie.ml" 11 256 275
+)
+"Cw5Ocaml\\zadanie.ml" 6 21 35 "Cw5Ocaml\\zadanie.ml" 6 21 40
+type(
+  '_b
+)
+ident(
+  def llist "Cw5Ocaml\\zadanie.ml" 7 44 44 "Cw5Ocaml\\zadanie.ml" 11 256 275
+)
+"Cw5Ocaml\\zadanie.ml" 7 44 52 "Cw5Ocaml\\zadanie.ml" 7 44 58
+type(
+  '_d * '_e -> '_f
+)
+ident(
+  def helper "Cw5Ocaml\\zadanie.ml" 7 44 44 "Cw5Ocaml\\zadanie.ml" 11 256 275
+)
+"Cw5Ocaml\\zadanie.ml" 7 44 59 "Cw5Ocaml\\zadanie.ml" 7 44 63
+type(
+  '_d
+)
+ident(
+  def reps "Cw5Ocaml\\zadanie.ml" 7 44 73 "Cw5Ocaml\\zadanie.ml" 10 181 254
+)
+"Cw5Ocaml\\zadanie.ml" 7 44 65 "Cw5Ocaml\\zadanie.ml" 7 44 69
+type(
+  '_e
+)
+ident(
+  def rest "Cw5Ocaml\\zadanie.ml" 7 44 73 "Cw5Ocaml\\zadanie.ml" 10 181 254
+)
+"Cw5Ocaml\\zadanie.ml" 7 44 58 "Cw5Ocaml\\zadanie.ml" 7 44 70
+type(
+  '_d * '_e
+)
+"Cw5Ocaml\\zadanie.ml" 7 44 80 "Cw5Ocaml\\zadanie.ml" 7 44 84
+type(
+  '_d
+)
+ident(
+  int_ref reps "Cw5Ocaml\\zadanie.ml" 7 44 59 "Cw5Ocaml\\zadanie.ml" 7 44 63
+)
+"Cw5Ocaml\\zadanie.ml" 7 44 86 "Cw5Ocaml\\zadanie.ml" 7 44 90
+type(
+  '_e
+)
+ident(
+  int_ref rest "Cw5Ocaml\\zadanie.ml" 7 44 65 "Cw5Ocaml\\zadanie.ml" 7 44 69
+)
+"Cw5Ocaml\\zadanie.ml" 7 44 79 "Cw5Ocaml\\zadanie.ml" 7 44 91
+type(
+  '_d * '_e
+)
+"Cw5Ocaml\\zadanie.ml" 8 98 101 "Cw5Ocaml\\zadanie.ml" 8 98 102
+type(
+  '_d
+)
