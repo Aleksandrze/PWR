@@ -1,0 +1,35 @@
+﻿  CNodeDynamic.cpp
+e:\uczelni 2.0\pwr\my semestr's\2019-2020 semestr 3\tep c++\laborki\cnodetest\cnodetest\cnodedynamic.cpp(5): error C3867: 'std::vector<CNodeDynamic *,std::allocator<_Ty>>::size': non-standard syntax; use '&' to create a pointer to member
+          with
+          [
+              _Ty=CNodeDynamic *
+          ]
+e:\uczelni 2.0\pwr\my semestr's\2019-2020 semestr 3\tep c++\laborki\cnodetest\cnodetest\cnodedynamic.cpp(5): error C2446: '<': no conversion from 'unsigned int (__thiscall std::vector<CNodeDynamic *,std::allocator<_Ty>>::* )(void) noexcept const' to 'int'
+          with
+          [
+              _Ty=CNodeDynamic *
+          ]
+  e:\uczelni 2.0\pwr\my semestr's\2019-2020 semestr 3\tep c++\laborki\cnodetest\cnodetest\cnodedynamic.cpp(5): note: There is no context in which this conversion is possible
+  CNodeStatic.cpp
+e:\uczelni 2.0\pwr\my semestr's\2019-2020 semestr 3\tep c++\laborki\cnodetest\cnodetest\cnodestatic.h(21): error C2143: syntax error: missing ';' before '<'
+e:\uczelni 2.0\pwr\my semestr's\2019-2020 semestr 3\tep c++\laborki\cnodetest\cnodetest\cnodestatic.h(21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+e:\uczelni 2.0\pwr\my semestr's\2019-2020 semestr 3\tep c++\laborki\cnodetest\cnodetest\cnodestatic.h(21): error C2238: unexpected token(s) preceding ';'
+e:\uczelni 2.0\pwr\my semestr's\2019-2020 semestr 3\tep c++\laborki\cnodetest\cnodetest\cnodestatic.h(12): error C2065: 'v_children': undeclared identifier
+e:\uczelni 2.0\pwr\my semestr's\2019-2020 semestr 3\tep c++\laborki\cnodetest\cnodetest\cnodestatic.cpp(8): error C2065: 'v_children': undeclared identifier
+e:\uczelni 2.0\pwr\my semestr's\2019-2020 semestr 3\tep c++\laborki\cnodetest\cnodetest\cnodestatic.cpp(16): error C2065: 'v_children': undeclared identifier
+e:\uczelni 2.0\pwr\my semestr's\2019-2020 semestr 3\tep c++\laborki\cnodetest\cnodetest\cnodestatic.cpp(23): error C2065: 'v_children': undeclared identifier
+  CNodeTest.cpp
+e:\uczelni 2.0\pwr\my semestr's\2019-2020 semestr 3\tep c++\laborki\cnodetest\cnodetest\cnodestatic.h(21): error C2143: syntax error: missing ';' before '<'
+e:\uczelni 2.0\pwr\my semestr's\2019-2020 semestr 3\tep c++\laborki\cnodetest\cnodetest\cnodestatic.h(21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+e:\uczelni 2.0\pwr\my semestr's\2019-2020 semestr 3\tep c++\laborki\cnodetest\cnodetest\cnodestatic.h(21): error C2238: unexpected token(s) preceding ';'
+e:\uczelni 2.0\pwr\my semestr's\2019-2020 semestr 3\tep c++\laborki\cnodetest\cnodetest\cnodestatic.h(12): error C2065: 'v_children': undeclared identifier
+  CTreeStatic.cpp
+e:\uczelni 2.0\pwr\my semestr's\2019-2020 semestr 3\tep c++\laborki\cnodetest\cnodetest\ctreestatic.h(10): error C3646: 'c_root': unknown override specifier
+e:\uczelni 2.0\pwr\my semestr's\2019-2020 semestr 3\tep c++\laborki\cnodetest\cnodetest\ctreestatic.h(10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+e:\uczelni 2.0\pwr\my semestr's\2019-2020 semestr 3\tep c++\laborki\cnodetest\cnodetest\ctreestatic.h(15): error C2143: syntax error: missing ';' before '*'
+e:\uczelni 2.0\pwr\my semestr's\2019-2020 semestr 3\tep c++\laborki\cnodetest\cnodetest\ctreestatic.h(15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+e:\uczelni 2.0\pwr\my semestr's\2019-2020 semestr 3\tep c++\laborki\cnodetest\cnodetest\ctreestatic.h(15): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+e:\uczelni 2.0\pwr\my semestr's\2019-2020 semestr 3\tep c++\laborki\cnodetest\cnodetest\ctreestatic.h(17): error C2061: syntax error: identifier 'CNodeStatic'
+e:\uczelni 2.0\pwr\my semestr's\2019-2020 semestr 3\tep c++\laborki\cnodetest\cnodetest\ctreestatic.cpp(7): error C2065: 'c_root': undeclared identifier
+e:\uczelni 2.0\pwr\my semestr's\2019-2020 semestr 3\tep c++\laborki\cnodetest\cnodetest\ctreestatic.cpp(13): error C2065: 'c_root': undeclared identifier
+  Generating Code...
