@@ -1,0 +1,1072 @@
+"Lab_Six_Ocaml\\zadanie.ml" 7 214 218 "Lab_Six_Ocaml\\zadanie.ml" 7 214 219
+type(
+  osoba
+)
+ident(
+  def x "Lab_Six_Ocaml\\zadanie.ml" 9 307 307 "Lab_Six_Ocaml\\zadanie.ml" 1 0 -1
+)
+"Lab_Six_Ocaml\\zadanie.ml" 7 214 228 "Lab_Six_Ocaml\\zadanie.ml" 7 214 235
+type(
+  string
+)
+"Lab_Six_Ocaml\\zadanie.ml" 7 214 247 "Lab_Six_Ocaml\\zadanie.ml" 7 214 258
+type(
+  string
+)
+"Lab_Six_Ocaml\\zadanie.ml" 7 214 264 "Lab_Six_Ocaml\\zadanie.ml" 7 214 273
+type(
+  plec
+)
+"Lab_Six_Ocaml\\zadanie.ml" 7 214 283 "Lab_Six_Ocaml\\zadanie.ml" 7 214 290
+type(
+  status_osoby
+)
+"Lab_Six_Ocaml\\zadanie.ml" 7 214 298 "Lab_Six_Ocaml\\zadanie.ml" 7 214 300
+type(
+  int
+)
+"Lab_Six_Ocaml\\zadanie.ml" 7 214 221 "Lab_Six_Ocaml\\zadanie.ml" 7 214 301
+type(
+  osoba
+)
+"Lab_Six_Ocaml\\zadanie.ml" 9 307 311 "Lab_Six_Ocaml\\zadanie.ml" 9 307 319
+type(
+  osoba -> status_osoby
+)
+ident(
+  def z1Status "Lab_Six_Ocaml\\zadanie.ml" 18 608 608 "Lab_Six_Ocaml\\zadanie.ml" 1 0 -1
+)
+"Lab_Six_Ocaml\\zadanie.ml" 10 332 334 "Lab_Six_Ocaml\\zadanie.ml" 10 332 338
+type(
+  string
+)
+ident(
+  def imie "Lab_Six_Ocaml\\zadanie.ml" 11 371 373 "Lab_Six_Ocaml\\zadanie.ml" 16 589 602
+)
+"Lab_Six_Ocaml\\zadanie.ml" 10 332 340 "Lab_Six_Ocaml\\zadanie.ml" 10 332 348
+type(
+  string
+)
+ident(
+  def nazwisko "Lab_Six_Ocaml\\zadanie.ml" 11 371 373 "Lab_Six_Ocaml\\zadanie.ml" 16 589 602
+)
+"Lab_Six_Ocaml\\zadanie.ml" 10 332 350 "Lab_Six_Ocaml\\zadanie.ml" 10 332 352
+type(
+  plec
+)
+ident(
+  def pl "Lab_Six_Ocaml\\zadanie.ml" 11 371 373 "Lab_Six_Ocaml\\zadanie.ml" 16 589 602
+)
+"Lab_Six_Ocaml\\zadanie.ml" 10 332 354 "Lab_Six_Ocaml\\zadanie.ml" 10 332 360
+type(
+  status_osoby
+)
+ident(
+  def status "Lab_Six_Ocaml\\zadanie.ml" 11 371 373 "Lab_Six_Ocaml\\zadanie.ml" 16 589 602
+)
+"Lab_Six_Ocaml\\zadanie.ml" 10 332 362 "Lab_Six_Ocaml\\zadanie.ml" 10 332 366
+type(
+  int
+)
+ident(
+  def wiek "Lab_Six_Ocaml\\zadanie.ml" 11 371 373 "Lab_Six_Ocaml\\zadanie.ml" 16 589 602
+)
+"Lab_Six_Ocaml\\zadanie.ml" 10 332 333 "Lab_Six_Ocaml\\zadanie.ml" 10 332 367
+type(
+  osoba
+)
+"Lab_Six_Ocaml\\zadanie.ml" 11 371 376 "Lab_Six_Ocaml\\zadanie.ml" 11 371 380
+type(
+  int
+)
+ident(
+  int_ref wiek "Lab_Six_Ocaml\\zadanie.ml" 10 332 362 "Lab_Six_Ocaml\\zadanie.ml" 10 332 366
+)
+"Lab_Six_Ocaml\\zadanie.ml" 11 371 380 "Lab_Six_Ocaml\\zadanie.ml" 11 371 381
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"Lab_Six_Ocaml\\zadanie.ml" 11 371 382 "Lab_Six_Ocaml\\zadanie.ml" 11 371 383
+type(
+  int
+)
+"Lab_Six_Ocaml\\zadanie.ml" 11 371 375 "Lab_Six_Ocaml\\zadanie.ml" 11 371 384
+type(
+  bool
+)
+"Lab_Six_Ocaml\\zadanie.ml" 11 371 390 "Lab_Six_Ocaml\\zadanie.ml" 11 371 397
+type(
+  status_osoby
+)
+"Lab_Six_Ocaml\\zadanie.ml" 12 399 409 "Lab_Six_Ocaml\\zadanie.ml" 12 399 413
+type(
+  int
+)
+ident(
+  int_ref wiek "Lab_Six_Ocaml\\zadanie.ml" 10 332 362 "Lab_Six_Ocaml\\zadanie.ml" 10 332 366
+)
+"Lab_Six_Ocaml\\zadanie.ml" 12 399 414 "Lab_Six_Ocaml\\zadanie.ml" 12 399 415
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"Lab_Six_Ocaml\\zadanie.ml" 12 399 416 "Lab_Six_Ocaml\\zadanie.ml" 12 399 418
+type(
+  int
+)
+"Lab_Six_Ocaml\\zadanie.ml" 12 399 409 "Lab_Six_Ocaml\\zadanie.ml" 12 399 418
+type(
+  bool
+)
+"Lab_Six_Ocaml\\zadanie.ml" 12 399 424 "Lab_Six_Ocaml\\zadanie.ml" 12 399 429
+type(
+  status_osoby
+)
+"Lab_Six_Ocaml\\zadanie.ml" 13 431 441 "Lab_Six_Ocaml\\zadanie.ml" 13 431 445
+type(
+  int
+)
+ident(
+  int_ref wiek "Lab_Six_Ocaml\\zadanie.ml" 10 332 362 "Lab_Six_Ocaml\\zadanie.ml" 10 332 366
+)
+"Lab_Six_Ocaml\\zadanie.ml" 13 431 446 "Lab_Six_Ocaml\\zadanie.ml" 13 431 447
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"Lab_Six_Ocaml\\zadanie.ml" 13 431 448 "Lab_Six_Ocaml\\zadanie.ml" 13 431 450
+type(
+  int
+)
+"Lab_Six_Ocaml\\zadanie.ml" 13 431 441 "Lab_Six_Ocaml\\zadanie.ml" 13 431 450
+type(
+  bool
+)
+"Lab_Six_Ocaml\\zadanie.ml" 13 431 451 "Lab_Six_Ocaml\\zadanie.ml" 13 431 453
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( && )
+)
+"Lab_Six_Ocaml\\zadanie.ml" 13 431 454 "Lab_Six_Ocaml\\zadanie.ml" 13 431 460
+type(
+  status_osoby
+)
+ident(
+  int_ref status "Lab_Six_Ocaml\\zadanie.ml" 10 332 354 "Lab_Six_Ocaml\\zadanie.ml" 10 332 360
+)
+"Lab_Six_Ocaml\\zadanie.ml" 13 431 461 "Lab_Six_Ocaml\\zadanie.ml" 13 431 463
+type(
+  status_osoby -> status_osoby -> bool
+)
+ident(
+  ext_ref Pervasives.( != )
+)
+"Lab_Six_Ocaml\\zadanie.ml" 13 431 464 "Lab_Six_Ocaml\\zadanie.ml" 13 431 473
+type(
+  status_osoby
+)
+"Lab_Six_Ocaml\\zadanie.ml" 13 431 454 "Lab_Six_Ocaml\\zadanie.ml" 13 431 473
+type(
+  bool
+)
+"Lab_Six_Ocaml\\zadanie.ml" 13 431 441 "Lab_Six_Ocaml\\zadanie.ml" 13 431 473
+type(
+  bool
+)
+"Lab_Six_Ocaml\\zadanie.ml" 13 431 479 "Lab_Six_Ocaml\\zadanie.ml" 13 431 486
+type(
+  status_osoby
+)
+"Lab_Six_Ocaml\\zadanie.ml" 14 488 499 "Lab_Six_Ocaml\\zadanie.ml" 14 488 503
+type(
+  int
+)
+ident(
+  int_ref wiek "Lab_Six_Ocaml\\zadanie.ml" 10 332 362 "Lab_Six_Ocaml\\zadanie.ml" 10 332 366
+)
+"Lab_Six_Ocaml\\zadanie.ml" 14 488 504 "Lab_Six_Ocaml\\zadanie.ml" 14 488 505
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"Lab_Six_Ocaml\\zadanie.ml" 14 488 506 "Lab_Six_Ocaml\\zadanie.ml" 14 488 508
+type(
+  int
+)
+"Lab_Six_Ocaml\\zadanie.ml" 14 488 499 "Lab_Six_Ocaml\\zadanie.ml" 14 488 508
+type(
+  bool
+)
+"Lab_Six_Ocaml\\zadanie.ml" 14 488 509 "Lab_Six_Ocaml\\zadanie.ml" 14 488 511
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( && )
+)
+"Lab_Six_Ocaml\\zadanie.ml" 14 488 512 "Lab_Six_Ocaml\\zadanie.ml" 14 488 514
+type(
+  plec
+)
+ident(
+  int_ref pl "Lab_Six_Ocaml\\zadanie.ml" 10 332 350 "Lab_Six_Ocaml\\zadanie.ml" 10 332 352
+)
+"Lab_Six_Ocaml\\zadanie.ml" 14 488 515 "Lab_Six_Ocaml\\zadanie.ml" 14 488 516
+type(
+  plec -> plec -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Lab_Six_Ocaml\\zadanie.ml" 14 488 517 "Lab_Six_Ocaml\\zadanie.ml" 14 488 524
+type(
+  plec
+)
+"Lab_Six_Ocaml\\zadanie.ml" 14 488 512 "Lab_Six_Ocaml\\zadanie.ml" 14 488 524
+type(
+  bool
+)
+"Lab_Six_Ocaml\\zadanie.ml" 14 488 499 "Lab_Six_Ocaml\\zadanie.ml" 14 488 524
+type(
+  bool
+)
+"Lab_Six_Ocaml\\zadanie.ml" 14 488 530 "Lab_Six_Ocaml\\zadanie.ml" 14 488 536
+type(
+  status_osoby
+)
+ident(
+  int_ref status "Lab_Six_Ocaml\\zadanie.ml" 10 332 354 "Lab_Six_Ocaml\\zadanie.ml" 10 332 360
+)
+"Lab_Six_Ocaml\\zadanie.ml" 15 538 548 "Lab_Six_Ocaml\\zadanie.ml" 15 538 552
+type(
+  int
+)
+ident(
+  int_ref wiek "Lab_Six_Ocaml\\zadanie.ml" 10 332 362 "Lab_Six_Ocaml\\zadanie.ml" 10 332 366
+)
+"Lab_Six_Ocaml\\zadanie.ml" 15 538 553 "Lab_Six_Ocaml\\zadanie.ml" 15 538 554
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"Lab_Six_Ocaml\\zadanie.ml" 15 538 555 "Lab_Six_Ocaml\\zadanie.ml" 15 538 557
+type(
+  int
+)
+"Lab_Six_Ocaml\\zadanie.ml" 15 538 548 "Lab_Six_Ocaml\\zadanie.ml" 15 538 557
+type(
+  bool
+)
+"Lab_Six_Ocaml\\zadanie.ml" 15 538 558 "Lab_Six_Ocaml\\zadanie.ml" 15 538 560
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( && )
+)
+"Lab_Six_Ocaml\\zadanie.ml" 15 538 561 "Lab_Six_Ocaml\\zadanie.ml" 15 538 563
+type(
+  plec
+)
+ident(
+  int_ref pl "Lab_Six_Ocaml\\zadanie.ml" 10 332 350 "Lab_Six_Ocaml\\zadanie.ml" 10 332 352
+)
+"Lab_Six_Ocaml\\zadanie.ml" 15 538 564 "Lab_Six_Ocaml\\zadanie.ml" 15 538 565
+type(
+  plec -> plec -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Lab_Six_Ocaml\\zadanie.ml" 15 538 566 "Lab_Six_Ocaml\\zadanie.ml" 15 538 575
+type(
+  plec
+)
+"Lab_Six_Ocaml\\zadanie.ml" 15 538 561 "Lab_Six_Ocaml\\zadanie.ml" 15 538 575
+type(
+  bool
+)
+"Lab_Six_Ocaml\\zadanie.ml" 15 538 548 "Lab_Six_Ocaml\\zadanie.ml" 15 538 575
+type(
+  bool
+)
+"Lab_Six_Ocaml\\zadanie.ml" 15 538 581 "Lab_Six_Ocaml\\zadanie.ml" 15 538 587
+type(
+  status_osoby
+)
+ident(
+  int_ref status "Lab_Six_Ocaml\\zadanie.ml" 10 332 354 "Lab_Six_Ocaml\\zadanie.ml" 10 332 360
+)
+"Lab_Six_Ocaml\\zadanie.ml" 16 589 596 "Lab_Six_Ocaml\\zadanie.ml" 16 589 602
+type(
+  status_osoby
+)
+"Lab_Six_Ocaml\\zadanie.ml" 15 538 545 "Lab_Six_Ocaml\\zadanie.ml" 16 589 602
+type(
+  status_osoby
+)
+"Lab_Six_Ocaml\\zadanie.ml" 14 488 495 "Lab_Six_Ocaml\\zadanie.ml" 16 589 602
+type(
+  status_osoby
+)
+"Lab_Six_Ocaml\\zadanie.ml" 13 431 438 "Lab_Six_Ocaml\\zadanie.ml" 16 589 602
+type(
+  status_osoby
+)
+"Lab_Six_Ocaml\\zadanie.ml" 12 399 406 "Lab_Six_Ocaml\\zadanie.ml" 16 589 602
+type(
+  status_osoby
+)
+"Lab_Six_Ocaml\\zadanie.ml" 11 371 373 "Lab_Six_Ocaml\\zadanie.ml" 16 589 602
+type(
+  status_osoby
+)
+"Lab_Six_Ocaml\\zadanie.ml" 9 307 322 "Lab_Six_Ocaml\\zadanie.ml" 16 589 602
+type(
+  osoba -> status_osoby
+)
+"Lab_Six_Ocaml\\zadanie.ml" 18 608 608 "Lab_Six_Ocaml\\zadanie.ml" 18 608 616
+type(
+  osoba -> status_osoby
+)
+ident(
+  int_ref z1Status "Lab_Six_Ocaml\\zadanie.ml" 9 307 311 "Lab_Six_Ocaml\\zadanie.ml" 9 307 319
+)
+"Lab_Six_Ocaml\\zadanie.ml" 18 608 617 "Lab_Six_Ocaml\\zadanie.ml" 18 608 618
+type(
+  osoba
+)
+ident(
+  int_ref x "Lab_Six_Ocaml\\zadanie.ml" 7 214 218 "Lab_Six_Ocaml\\zadanie.ml" 7 214 219
+)
+"Lab_Six_Ocaml\\zadanie.ml" 18 608 608 "Lab_Six_Ocaml\\zadanie.ml" 18 608 618
+call(
+  stack
+)
+type(
+  status_osoby
+)
+"Lab_Six_Ocaml\\zadanie.ml" 28 785 789 "Lab_Six_Ocaml\\zadanie.ml" 28 785 790
+type(
+  'a bt
+)
+ident(
+  def y "Lab_Six_Ocaml\\zadanie.ml" 31 852 852 "Lab_Six_Ocaml\\zadanie.ml" 1 0 -1
+)
+"Lab_Six_Ocaml\\zadanie.ml" 28 785 802 "Lab_Six_Ocaml\\zadanie.ml" 28 785 805
+type(
+  int
+)
+"Lab_Six_Ocaml\\zadanie.ml" 28 785 798 "Lab_Six_Ocaml\\zadanie.ml" 28 785 805
+type(
+  'a bt
+)
+"Lab_Six_Ocaml\\zadanie.ml" 28 785 816 "Lab_Six_Ocaml\\zadanie.ml" 28 785 819
+type(
+  int
+)
+"Lab_Six_Ocaml\\zadanie.ml" 28 785 812 "Lab_Six_Ocaml\\zadanie.ml" 28 785 819
+type(
+  'a bt
+)
+"Lab_Six_Ocaml\\zadanie.ml" 28 785 830 "Lab_Six_Ocaml\\zadanie.ml" 28 785 833
+type(
+  int
+)
+"Lab_Six_Ocaml\\zadanie.ml" 28 785 826 "Lab_Six_Ocaml\\zadanie.ml" 28 785 833
+type(
+  'a bt
+)
+"Lab_Six_Ocaml\\zadanie.ml" 28 785 838 "Lab_Six_Ocaml\\zadanie.ml" 28 785 841
+type(
+  int
+)
+"Lab_Six_Ocaml\\zadanie.ml" 28 785 834 "Lab_Six_Ocaml\\zadanie.ml" 28 785 841
+type(
+  'a bt
+)
+"Lab_Six_Ocaml\\zadanie.ml" 28 785 821 "Lab_Six_Ocaml\\zadanie.ml" 28 785 842
+type(
+  'a bt
+)
+"Lab_Six_Ocaml\\zadanie.ml" 28 785 807 "Lab_Six_Ocaml\\zadanie.ml" 28 785 843
+type(
+  'a bt
+)
+"Lab_Six_Ocaml\\zadanie.ml" 28 785 793 "Lab_Six_Ocaml\\zadanie.ml" 28 785 844
+type(
+  'a bt
+)
+"Lab_Six_Ocaml\\zadanie.ml" 31 852 856 "Lab_Six_Ocaml\\zadanie.ml" 31 852 863
+type(
+  'a bt list -> (int -> string) list
+)
+ident(
+  def element "Lab_Six_Ocaml\\zadanie.ml" 46 1198 1198 "Lab_Six_Ocaml\\zadanie.ml" 1 0 -1
+)
+"Lab_Six_Ocaml\\zadanie.ml" 31 852 864 "Lab_Six_Ocaml\\zadanie.ml" 31 852 866
+type(
+  'a bt list
+)
+ident(
+  def bt "Lab_Six_Ocaml\\zadanie.ml" 32 869 870 "Lab_Six_Ocaml\\zadanie.ml" 43 1172 1190
+)
+"Lab_Six_Ocaml\\zadanie.ml" 32 869 878 "Lab_Six_Ocaml\\zadanie.ml" 32 869 882
+type(
+  'b bt list * (int -> string) list * (int -> string) list ->
+  (int -> string) list
+)
+ident(
+  def temp "Lab_Six_Ocaml\\zadanie.ml" 32 869 870 "Lab_Six_Ocaml\\zadanie.ml" 43 1172 1190
+)
+"Lab_Six_Ocaml\\zadanie.ml" 32 869 884 "Lab_Six_Ocaml\\zadanie.ml" 32 869 885
+type(
+  'b bt list
+)
+ident(
+  def q "Lab_Six_Ocaml\\zadanie.ml" 33 902 904 "Lab_Six_Ocaml\\zadanie.ml" 41 1130 1162
+)
+"Lab_Six_Ocaml\\zadanie.ml" 32 869 886 "Lab_Six_Ocaml\\zadanie.ml" 32 869 891
+type(
+  (int -> string) list
+)
+ident(
+  def konec "Lab_Six_Ocaml\\zadanie.ml" 33 902 904 "Lab_Six_Ocaml\\zadanie.ml" 41 1130 1162
+)
+"Lab_Six_Ocaml\\zadanie.ml" 32 869 892 "Lab_Six_Ocaml\\zadanie.ml" 32 869 897
+type(
+  (int -> string) list
+)
+ident(
+  def wynik "Lab_Six_Ocaml\\zadanie.ml" 33 902 904 "Lab_Six_Ocaml\\zadanie.ml" 41 1130 1162
+)
+"Lab_Six_Ocaml\\zadanie.ml" 32 869 883 "Lab_Six_Ocaml\\zadanie.ml" 32 869 898
+type(
+  'b bt list * (int -> string) list * (int -> string) list
+)
+"Lab_Six_Ocaml\\zadanie.ml" 33 902 910 "Lab_Six_Ocaml\\zadanie.ml" 33 902 911
+type(
+  'b bt list
+)
+ident(
+  int_ref q "Lab_Six_Ocaml\\zadanie.ml" 32 869 884 "Lab_Six_Ocaml\\zadanie.ml" 32 869 885
+)
+"Lab_Six_Ocaml\\zadanie.ml" 34 918 922 "Lab_Six_Ocaml\\zadanie.ml" 34 918 924
+type(
+  'b bt list
+)
+"Lab_Six_Ocaml\\zadanie.ml" 34 918 927 "Lab_Six_Ocaml\\zadanie.ml" 34 918 932
+type(
+  (int -> string) list
+)
+ident(
+  int_ref wynik "Lab_Six_Ocaml\\zadanie.ml" 32 869 892 "Lab_Six_Ocaml\\zadanie.ml" 32 869 897
+)
+"Lab_Six_Ocaml\\zadanie.ml" 34 918 932 "Lab_Six_Ocaml\\zadanie.ml" 34 918 933
+type(
+  (int -> string) list -> (int -> string) list -> (int -> string) list
+)
+ident(
+  ext_ref Pervasives.( @ )
+)
+"Lab_Six_Ocaml\\zadanie.ml" 34 918 933 "Lab_Six_Ocaml\\zadanie.ml" 34 918 938
+type(
+  (int -> string) list
+)
+ident(
+  int_ref konec "Lab_Six_Ocaml\\zadanie.ml" 32 869 886 "Lab_Six_Ocaml\\zadanie.ml" 32 869 891
+)
+"Lab_Six_Ocaml\\zadanie.ml" 34 918 927 "Lab_Six_Ocaml\\zadanie.ml" 34 918 938
+call(
+  tail
+)
+type(
+  (int -> string) list
+)
+"Lab_Six_Ocaml\\zadanie.ml" 35 940 944 "Lab_Six_Ocaml\\zadanie.ml" 35 940 945
+type(
+  'b bt
+)
+ident(
+  def h "Lab_Six_Ocaml\\zadanie.ml" 36 953 956 "Lab_Six_Ocaml\\zadanie.ml" 41 1130 1162
+)
+"Lab_Six_Ocaml\\zadanie.ml" 35 940 947 "Lab_Six_Ocaml\\zadanie.ml" 35 940 948
+type(
+  'b bt list
+)
+ident(
+  def t "Lab_Six_Ocaml\\zadanie.ml" 36 953 956 "Lab_Six_Ocaml\\zadanie.ml" 41 1130 1162
+)
+"Lab_Six_Ocaml\\zadanie.ml" 35 940 944 "Lab_Six_Ocaml\\zadanie.ml" 35 940 948
+type(
+  'b bt list
+)
+"Lab_Six_Ocaml\\zadanie.ml" 36 953 960 "Lab_Six_Ocaml\\zadanie.ml" 36 953 961
+type(
+  'b bt
+)
+ident(
+  int_ref h "Lab_Six_Ocaml\\zadanie.ml" 35 940 944 "Lab_Six_Ocaml\\zadanie.ml" 35 940 945
+)
+"Lab_Six_Ocaml\\zadanie.ml" 36 953 961 "Lab_Six_Ocaml\\zadanie.ml" 36 953 962
+type(
+  'b bt -> 'b bt -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Lab_Six_Ocaml\\zadanie.ml" 36 953 962 "Lab_Six_Ocaml\\zadanie.ml" 36 953 967
+type(
+  'b bt
+)
+"Lab_Six_Ocaml\\zadanie.ml" 36 953 959 "Lab_Six_Ocaml\\zadanie.ml" 36 953 968
+type(
+  bool
+)
+"Lab_Six_Ocaml\\zadanie.ml" 36 953 974 "Lab_Six_Ocaml\\zadanie.ml" 36 953 978
+type(
+  'b bt list * (int -> string) list * (int -> string) list ->
+  (int -> string) list
+)
+ident(
+  int_ref temp "Lab_Six_Ocaml\\zadanie.ml" 32 869 878 "Lab_Six_Ocaml\\zadanie.ml" 32 869 882
+)
+"Lab_Six_Ocaml\\zadanie.ml" 36 953 980 "Lab_Six_Ocaml\\zadanie.ml" 36 953 981
+type(
+  'b bt list
+)
+ident(
+  int_ref t "Lab_Six_Ocaml\\zadanie.ml" 35 940 947 "Lab_Six_Ocaml\\zadanie.ml" 35 940 948
+)
+"Lab_Six_Ocaml\\zadanie.ml" 36 953 982 "Lab_Six_Ocaml\\zadanie.ml" 36 953 987
+type(
+  (int -> string) list
+)
+ident(
+  int_ref konec "Lab_Six_Ocaml\\zadanie.ml" 32 869 886 "Lab_Six_Ocaml\\zadanie.ml" 32 869 891
+)
+"Lab_Six_Ocaml\\zadanie.ml" 36 953 989 "Lab_Six_Ocaml\\zadanie.ml" 36 953 994
+type(
+  (int -> string) list
+)
+ident(
+  int_ref wynik "Lab_Six_Ocaml\\zadanie.ml" 32 869 892 "Lab_Six_Ocaml\\zadanie.ml" 32 869 897
+)
+"Lab_Six_Ocaml\\zadanie.ml" 36 953 979 "Lab_Six_Ocaml\\zadanie.ml" 36 953 995
+type(
+  'b bt list * (int -> string) list * (int -> string) list
+)
+"Lab_Six_Ocaml\\zadanie.ml" 36 953 974 "Lab_Six_Ocaml\\zadanie.ml" 36 953 995
+call(
+  tail
+)
+type(
+  (int -> string) list
+)
+"Lab_Six_Ocaml\\zadanie.ml" 37 997 1011 "Lab_Six_Ocaml\\zadanie.ml" 37 997 1012
+type(
+  'b bt
+)
+ident(
+  int_ref h "Lab_Six_Ocaml\\zadanie.ml" 35 940 944 "Lab_Six_Ocaml\\zadanie.ml" 35 940 945
+)
+"Lab_Six_Ocaml\\zadanie.ml" 38 1019 1027 "Lab_Six_Ocaml\\zadanie.ml" 38 1019 1028
+type(
+  'b bt
+)
+ident(
+  def l "Lab_Six_Ocaml\\zadanie.ml" 39 1035 1040 "Lab_Six_Ocaml\\zadanie.ml" 39 1035 1069
+)
+"Lab_Six_Ocaml\\zadanie.ml" 38 1019 1029 "Lab_Six_Ocaml\\zadanie.ml" 38 1019 1030
+type(
+  'b bt
+)
+ident(
+  def r "Lab_Six_Ocaml\\zadanie.ml" 39 1035 1040 "Lab_Six_Ocaml\\zadanie.ml" 39 1035 1069
+)
+"Lab_Six_Ocaml\\zadanie.ml" 38 1019 1022 "Lab_Six_Ocaml\\zadanie.ml" 38 1019 1031
+type(
+  'b bt
+)
+"Lab_Six_Ocaml\\zadanie.ml" 39 1035 1040 "Lab_Six_Ocaml\\zadanie.ml" 39 1035 1044
+type(
+  'b bt list * (int -> string) list * (int -> string) list ->
+  (int -> string) list
+)
+ident(
+  int_ref temp "Lab_Six_Ocaml\\zadanie.ml" 32 869 878 "Lab_Six_Ocaml\\zadanie.ml" 32 869 882
+)
+"Lab_Six_Ocaml\\zadanie.ml" 39 1035 1046 "Lab_Six_Ocaml\\zadanie.ml" 39 1035 1047
+type(
+  'b bt list
+)
+ident(
+  int_ref t "Lab_Six_Ocaml\\zadanie.ml" 35 940 947 "Lab_Six_Ocaml\\zadanie.ml" 35 940 948
+)
+"Lab_Six_Ocaml\\zadanie.ml" 39 1035 1047 "Lab_Six_Ocaml\\zadanie.ml" 39 1035 1048
+type(
+  'b bt list -> 'b bt list -> 'b bt list
+)
+ident(
+  ext_ref Pervasives.( @ )
+)
+"Lab_Six_Ocaml\\zadanie.ml" 39 1035 1049 "Lab_Six_Ocaml\\zadanie.ml" 39 1035 1050
+type(
+  'b bt
+)
+ident(
+  int_ref l "Lab_Six_Ocaml\\zadanie.ml" 38 1019 1027 "Lab_Six_Ocaml\\zadanie.ml" 38 1019 1028
+)
+"Lab_Six_Ocaml\\zadanie.ml" 39 1035 1048 "Lab_Six_Ocaml\\zadanie.ml" 39 1035 1051
+type(
+  'b bt list
+)
+"Lab_Six_Ocaml\\zadanie.ml" 39 1035 1051 "Lab_Six_Ocaml\\zadanie.ml" 39 1035 1052
+type(
+  'b bt list -> 'b bt list -> 'b bt list
+)
+ident(
+  ext_ref Pervasives.( @ )
+)
+"Lab_Six_Ocaml\\zadanie.ml" 39 1035 1053 "Lab_Six_Ocaml\\zadanie.ml" 39 1035 1054
+type(
+  'b bt
+)
+ident(
+  int_ref r "Lab_Six_Ocaml\\zadanie.ml" 38 1019 1029 "Lab_Six_Ocaml\\zadanie.ml" 38 1019 1030
+)
+"Lab_Six_Ocaml\\zadanie.ml" 39 1035 1052 "Lab_Six_Ocaml\\zadanie.ml" 39 1035 1055
+type(
+  'b bt list
+)
+"Lab_Six_Ocaml\\zadanie.ml" 39 1035 1048 "Lab_Six_Ocaml\\zadanie.ml" 39 1035 1055
+call(
+  stack
+)
+type(
+  'b bt list
+)
+"Lab_Six_Ocaml\\zadanie.ml" 39 1035 1046 "Lab_Six_Ocaml\\zadanie.ml" 39 1035 1055
+call(
+  stack
+)
+type(
+  'b bt list
+)
+"Lab_Six_Ocaml\\zadanie.ml" 39 1035 1056 "Lab_Six_Ocaml\\zadanie.ml" 39 1035 1061
+type(
+  (int -> string) list
+)
+ident(
+  int_ref konec "Lab_Six_Ocaml\\zadanie.ml" 32 869 886 "Lab_Six_Ocaml\\zadanie.ml" 32 869 891
+)
+"Lab_Six_Ocaml\\zadanie.ml" 39 1035 1063 "Lab_Six_Ocaml\\zadanie.ml" 39 1035 1068
+type(
+  (int -> string) list
+)
+ident(
+  int_ref wynik "Lab_Six_Ocaml\\zadanie.ml" 32 869 892 "Lab_Six_Ocaml\\zadanie.ml" 32 869 897
+)
+"Lab_Six_Ocaml\\zadanie.ml" 39 1035 1045 "Lab_Six_Ocaml\\zadanie.ml" 39 1035 1069
+type(
+  'b bt list * (int -> string) list * (int -> string) list
+)
+"Lab_Six_Ocaml\\zadanie.ml" 39 1035 1040 "Lab_Six_Ocaml\\zadanie.ml" 39 1035 1069
+call(
+  tail
+)
+type(
+  (int -> string) list
+)
+"Lab_Six_Ocaml\\zadanie.ml" 40 1071 1081 "Lab_Six_Ocaml\\zadanie.ml" 40 1071 1087
+ident(
+  def liczba "Lab_Six_Ocaml\\zadanie.ml" 40 1071 1092 "Lab_Six_Ocaml\\zadanie.ml" 40 1071 1128
+)
+"Lab_Six_Ocaml\\zadanie.ml" 40 1071 1080 "Lab_Six_Ocaml\\zadanie.ml" 40 1071 1088
+type(
+  int
+)
+"Lab_Six_Ocaml\\zadanie.ml" 40 1071 1076 "Lab_Six_Ocaml\\zadanie.ml" 40 1071 1088
+type(
+  'b bt
+)
+"Lab_Six_Ocaml\\zadanie.ml" 40 1071 1092 "Lab_Six_Ocaml\\zadanie.ml" 40 1071 1096
+type(
+  'b bt list * (int -> string) list * (int -> string) list ->
+  (int -> string) list
+)
+ident(
+  int_ref temp "Lab_Six_Ocaml\\zadanie.ml" 32 869 878 "Lab_Six_Ocaml\\zadanie.ml" 32 869 882
+)
+"Lab_Six_Ocaml\\zadanie.ml" 40 1071 1097 "Lab_Six_Ocaml\\zadanie.ml" 40 1071 1098
+type(
+  'b bt list
+)
+ident(
+  int_ref t "Lab_Six_Ocaml\\zadanie.ml" 35 940 947 "Lab_Six_Ocaml\\zadanie.ml" 35 940 948
+)
+"Lab_Six_Ocaml\\zadanie.ml" 40 1071 1099 "Lab_Six_Ocaml\\zadanie.ml" 40 1071 1104
+type(
+  (int -> string) list
+)
+ident(
+  int_ref konec "Lab_Six_Ocaml\\zadanie.ml" 32 869 886 "Lab_Six_Ocaml\\zadanie.ml" 32 869 891
+)
+"Lab_Six_Ocaml\\zadanie.ml" 40 1071 1106 "Lab_Six_Ocaml\\zadanie.ml" 40 1071 1111
+type(
+  (int -> string) list
+)
+ident(
+  int_ref wynik "Lab_Six_Ocaml\\zadanie.ml" 32 869 892 "Lab_Six_Ocaml\\zadanie.ml" 32 869 897
+)
+"Lab_Six_Ocaml\\zadanie.ml" 40 1071 1111 "Lab_Six_Ocaml\\zadanie.ml" 40 1071 1112
+type(
+  (int -> string) list -> (int -> string) list -> (int -> string) list
+)
+ident(
+  ext_ref Pervasives.( @ )
+)
+"Lab_Six_Ocaml\\zadanie.ml" 40 1071 1113 "Lab_Six_Ocaml\\zadanie.ml" 40 1071 1126
+type(
+  int -> string
+)
+ident(
+  ext_ref Pervasives.string_of_int
+)
+"Lab_Six_Ocaml\\zadanie.ml" 40 1071 1112 "Lab_Six_Ocaml\\zadanie.ml" 40 1071 1127
+type(
+  (int -> string) list
+)
+"Lab_Six_Ocaml\\zadanie.ml" 40 1071 1106 "Lab_Six_Ocaml\\zadanie.ml" 40 1071 1127
+call(
+  stack
+)
+type(
+  (int -> string) list
+)
+"Lab_Six_Ocaml\\zadanie.ml" 40 1071 1096 "Lab_Six_Ocaml\\zadanie.ml" 40 1071 1128
+type(
+  'b bt list * (int -> string) list * (int -> string) list
+)
+"Lab_Six_Ocaml\\zadanie.ml" 40 1071 1092 "Lab_Six_Ocaml\\zadanie.ml" 40 1071 1128
+call(
+  tail
+)
+type(
+  (int -> string) list
+)
+"Lab_Six_Ocaml\\zadanie.ml" 41 1130 1135 "Lab_Six_Ocaml\\zadanie.ml" 41 1130 1136
+type(
+  'b bt
+)
+"Lab_Six_Ocaml\\zadanie.ml" 41 1130 1140 "Lab_Six_Ocaml\\zadanie.ml" 41 1130 1145
+type(
+  exn -> (int -> string) list
+)
+ident(
+  ext_ref Pervasives.raise
+)
+"Lab_Six_Ocaml\\zadanie.ml" 41 1130 1154 "Lab_Six_Ocaml\\zadanie.ml" 41 1130 1161
+type(
+  string
+)
+"Lab_Six_Ocaml\\zadanie.ml" 41 1130 1145 "Lab_Six_Ocaml\\zadanie.ml" 41 1130 1162
+type(
+  exn
+)
+"Lab_Six_Ocaml\\zadanie.ml" 41 1130 1140 "Lab_Six_Ocaml\\zadanie.ml" 41 1130 1162
+type(
+  (int -> string) list
+)
+"Lab_Six_Ocaml\\zadanie.ml" 37 997 1005 "Lab_Six_Ocaml\\zadanie.ml" 41 1130 1162
+type(
+  (int -> string) list
+)
+"Lab_Six_Ocaml\\zadanie.ml" 36 953 956 "Lab_Six_Ocaml\\zadanie.ml" 41 1130 1162
+type(
+  (int -> string) list
+)
+"Lab_Six_Ocaml\\zadanie.ml" 33 902 904 "Lab_Six_Ocaml\\zadanie.ml" 41 1130 1162
+type(
+  (int -> string) list
+)
+"Lab_Six_Ocaml\\zadanie.ml" 43 1172 1176 "Lab_Six_Ocaml\\zadanie.ml" 43 1172 1180
+type(
+  'a bt list * (int -> string) list * (int -> string) list ->
+  (int -> string) list
+)
+ident(
+  int_ref temp "Lab_Six_Ocaml\\zadanie.ml" 32 869 878 "Lab_Six_Ocaml\\zadanie.ml" 32 869 882
+)
+"Lab_Six_Ocaml\\zadanie.ml" 43 1172 1181 "Lab_Six_Ocaml\\zadanie.ml" 43 1172 1183
+type(
+  'a bt list
+)
+ident(
+  int_ref bt "Lab_Six_Ocaml\\zadanie.ml" 31 852 864 "Lab_Six_Ocaml\\zadanie.ml" 31 852 866
+)
+"Lab_Six_Ocaml\\zadanie.ml" 43 1172 1184 "Lab_Six_Ocaml\\zadanie.ml" 43 1172 1186
+type(
+  (int -> string) list
+)
+"Lab_Six_Ocaml\\zadanie.ml" 43 1172 1187 "Lab_Six_Ocaml\\zadanie.ml" 43 1172 1189
+type(
+  (int -> string) list
+)
+"Lab_Six_Ocaml\\zadanie.ml" 43 1172 1180 "Lab_Six_Ocaml\\zadanie.ml" 43 1172 1190
+type(
+  'a bt list * (int -> string) list * (int -> string) list
+)
+"Lab_Six_Ocaml\\zadanie.ml" 43 1172 1176 "Lab_Six_Ocaml\\zadanie.ml" 43 1172 1190
+call(
+  tail
+)
+type(
+  (int -> string) list
+)
+"Lab_Six_Ocaml\\zadanie.ml" 32 869 870 "Lab_Six_Ocaml\\zadanie.ml" 43 1172 1190
+type(
+  (int -> string) list
+)
+"Lab_Six_Ocaml\\zadanie.ml" 49 1327 1331 "Lab_Six_Ocaml\\zadanie.ml" 49 1327 1335
+type(
+  int drzewo
+)
+ident(
+  def tree "Lab_Six_Ocaml\\zadanie.ml" 51 1396 1396 "Lab_Six_Ocaml\\zadanie.ml" 1 0 -1
+)
+"Lab_Six_Ocaml\\zadanie.ml" 49 1327 1349 "Lab_Six_Ocaml\\zadanie.ml" 49 1327 1352
+type(
+  int
+)
+"Lab_Six_Ocaml\\zadanie.ml" 49 1327 1345 "Lab_Six_Ocaml\\zadanie.ml" 49 1327 1352
+type(
+  int drzewo
+)
+"Lab_Six_Ocaml\\zadanie.ml" 49 1327 1363 "Lab_Six_Ocaml\\zadanie.ml" 49 1327 1366
+type(
+  int
+)
+"Lab_Six_Ocaml\\zadanie.ml" 49 1327 1359 "Lab_Six_Ocaml\\zadanie.ml" 49 1327 1366
+type(
+  int drzewo
+)
+"Lab_Six_Ocaml\\zadanie.ml" 49 1327 1377 "Lab_Six_Ocaml\\zadanie.ml" 49 1327 1380
+type(
+  int
+)
+"Lab_Six_Ocaml\\zadanie.ml" 49 1327 1373 "Lab_Six_Ocaml\\zadanie.ml" 49 1327 1380
+type(
+  int drzewo
+)
+"Lab_Six_Ocaml\\zadanie.ml" 49 1327 1385 "Lab_Six_Ocaml\\zadanie.ml" 49 1327 1388
+type(
+  int
+)
+"Lab_Six_Ocaml\\zadanie.ml" 49 1327 1381 "Lab_Six_Ocaml\\zadanie.ml" 49 1327 1388
+type(
+  int drzewo
+)
+"Lab_Six_Ocaml\\zadanie.ml" 49 1327 1367 "Lab_Six_Ocaml\\zadanie.ml" 49 1327 1389
+type(
+  int drzewo
+)
+"Lab_Six_Ocaml\\zadanie.ml" 49 1327 1353 "Lab_Six_Ocaml\\zadanie.ml" 49 1327 1390
+type(
+  int drzewo
+)
+"Lab_Six_Ocaml\\zadanie.ml" 49 1327 1338 "Lab_Six_Ocaml\\zadanie.ml" 49 1327 1392
+type(
+  int drzewo
+)
+"Lab_Six_Ocaml\\zadanie.ml" 51 1396 1404 "Lab_Six_Ocaml\\zadanie.ml" 51 1396 1408
+type(
+  'a drzewo -> 'a wybor list
+)
+ident(
+  def zad3 "Lab_Six_Ocaml\\zadanie.ml" 51 1396 1396 "Lab_Six_Ocaml\\zadanie.ml" 1 0 -1
+)
+"Lab_Six_Ocaml\\zadanie.ml" 52 1421 1432 "Lab_Six_Ocaml\\zadanie.ml" 52 1421 1434
+type(
+  'a drzewo
+)
+ident(
+  def w1 "Lab_Six_Ocaml\\zadanie.ml" 52 1421 1441 "Lab_Six_Ocaml\\zadanie.ml" 52 1421 1467
+)
+"Lab_Six_Ocaml\\zadanie.ml" 52 1421 1435 "Lab_Six_Ocaml\\zadanie.ml" 52 1421 1437
+type(
+  'a drzewo
+)
+ident(
+  def w2 "Lab_Six_Ocaml\\zadanie.ml" 52 1421 1441 "Lab_Six_Ocaml\\zadanie.ml" 52 1421 1467
+)
+"Lab_Six_Ocaml\\zadanie.ml" 52 1421 1425 "Lab_Six_Ocaml\\zadanie.ml" 52 1421 1438
+type(
+  'a drzewo
+)
+"Lab_Six_Ocaml\\zadanie.ml" 52 1421 1442 "Lab_Six_Ocaml\\zadanie.ml" 52 1421 1446
+type(
+  'a drzewo -> 'a wybor list
+)
+ident(
+  int_ref zad3 "Lab_Six_Ocaml\\zadanie.ml" 51 1396 1404 "Lab_Six_Ocaml\\zadanie.ml" 51 1396 1408
+)
+"Lab_Six_Ocaml\\zadanie.ml" 52 1421 1447 "Lab_Six_Ocaml\\zadanie.ml" 52 1421 1449
+type(
+  'a drzewo
+)
+ident(
+  int_ref w1 "Lab_Six_Ocaml\\zadanie.ml" 52 1421 1432 "Lab_Six_Ocaml\\zadanie.ml" 52 1421 1434
+)
+"Lab_Six_Ocaml\\zadanie.ml" 52 1421 1441 "Lab_Six_Ocaml\\zadanie.ml" 52 1421 1450
+call(
+  stack
+)
+type(
+  'a wybor list
+)
+"Lab_Six_Ocaml\\zadanie.ml" 52 1421 1450 "Lab_Six_Ocaml\\zadanie.ml" 52 1421 1451
+type(
+  'a wybor list -> 'a wybor list -> 'a wybor list
+)
+ident(
+  ext_ref Pervasives.( @ )
+)
+"Lab_Six_Ocaml\\zadanie.ml" 52 1421 1452 "Lab_Six_Ocaml\\zadanie.ml" 52 1421 1456
+type(
+  'a drzewo -> 'a wybor list
+)
+ident(
+  int_ref zad3 "Lab_Six_Ocaml\\zadanie.ml" 51 1396 1404 "Lab_Six_Ocaml\\zadanie.ml" 51 1396 1408
+)
+"Lab_Six_Ocaml\\zadanie.ml" 52 1421 1457 "Lab_Six_Ocaml\\zadanie.ml" 52 1421 1459
+type(
+  'a drzewo
+)
+ident(
+  int_ref w2 "Lab_Six_Ocaml\\zadanie.ml" 52 1421 1435 "Lab_Six_Ocaml\\zadanie.ml" 52 1421 1437
+)
+"Lab_Six_Ocaml\\zadanie.ml" 52 1421 1451 "Lab_Six_Ocaml\\zadanie.ml" 52 1421 1460
+call(
+  stack
+)
+type(
+  'a wybor list
+)
+"Lab_Six_Ocaml\\zadanie.ml" 52 1421 1460 "Lab_Six_Ocaml\\zadanie.ml" 52 1421 1461
+type(
+  'a wybor list -> 'a wybor list -> 'a wybor list
+)
+ident(
+  ext_ref Pervasives.( @ )
+)
+"Lab_Six_Ocaml\\zadanie.ml" 52 1421 1462 "Lab_Six_Ocaml\\zadanie.ml" 52 1421 1466
+type(
+  'a wybor
+)
+"Lab_Six_Ocaml\\zadanie.ml" 52 1421 1461 "Lab_Six_Ocaml\\zadanie.ml" 52 1421 1467
+type(
+  'a wybor list
+)
+"Lab_Six_Ocaml\\zadanie.ml" 52 1421 1451 "Lab_Six_Ocaml\\zadanie.ml" 52 1421 1467
+call(
+  stack
+)
+type(
+  'a wybor list
+)
+"Lab_Six_Ocaml\\zadanie.ml" 52 1421 1441 "Lab_Six_Ocaml\\zadanie.ml" 52 1421 1467
+call(
+  tail
+)
+type(
+  'a wybor list
+)
+"Lab_Six_Ocaml\\zadanie.ml" 53 1469 1479 "Lab_Six_Ocaml\\zadanie.ml" 53 1469 1482
+ident(
+  def war "Lab_Six_Ocaml\\zadanie.ml" 53 1469 1487 "Lab_Six_Ocaml\\zadanie.ml" 53 1469 1501
+)
+"Lab_Six_Ocaml\\zadanie.ml" 53 1469 1478 "Lab_Six_Ocaml\\zadanie.ml" 53 1469 1483
+type(
+  'a
+)
+"Lab_Six_Ocaml\\zadanie.ml" 53 1469 1473 "Lab_Six_Ocaml\\zadanie.ml" 53 1469 1483
+type(
+  'a drzewo
+)
+"Lab_Six_Ocaml\\zadanie.ml" 53 1469 1495 "Lab_Six_Ocaml\\zadanie.ml" 53 1469 1500
+type(
+  'a
+)
+ident(
+  int_ref war "Lab_Six_Ocaml\\zadanie.ml" 53 1469 1478 "Lab_Six_Ocaml\\zadanie.ml" 53 1469 1483
+)
+"Lab_Six_Ocaml\\zadanie.ml" 53 1469 1488 "Lab_Six_Ocaml\\zadanie.ml" 53 1469 1500
+type(
+  'a wybor
+)
+"Lab_Six_Ocaml\\zadanie.ml" 53 1469 1487 "Lab_Six_Ocaml\\zadanie.ml" 53 1469 1501
+type(
+  'a wybor list
+)
+"Lab_Six_Ocaml\\zadanie.ml" 54 1503 1507 "Lab_Six_Ocaml\\zadanie.ml" 54 1503 1508
+type(
+  'a drzewo
+)
+"Lab_Six_Ocaml\\zadanie.ml" 54 1503 1512 "Lab_Six_Ocaml\\zadanie.ml" 54 1503 1517
+type(
+  exn -> 'a wybor list
+)
+ident(
+  ext_ref Pervasives.raise
+)
+"Lab_Six_Ocaml\\zadanie.ml" 54 1503 1526 "Lab_Six_Ocaml\\zadanie.ml" 54 1503 1533
+type(
+  string
+)
+"Lab_Six_Ocaml\\zadanie.ml" 54 1503 1517 "Lab_Six_Ocaml\\zadanie.ml" 54 1503 1534
+type(
+  exn
+)
+"Lab_Six_Ocaml\\zadanie.ml" 54 1503 1512 "Lab_Six_Ocaml\\zadanie.ml" 54 1503 1534
+type(
+  'a wybor list
+)
+"Lab_Six_Ocaml\\zadanie.ml" 51 1396 1411 "Lab_Six_Ocaml\\zadanie.ml" 54 1503 1534
+type(
+  'a drzewo -> 'a wybor list
+)
+"Lab_Six_Ocaml\\zadanie.ml" 56 1540 1540 "Lab_Six_Ocaml\\zadanie.ml" 56 1540 1544
+type(
+  int drzewo -> int wybor list
+)
+ident(
+  int_ref zad3 "Lab_Six_Ocaml\\zadanie.ml" 51 1396 1404 "Lab_Six_Ocaml\\zadanie.ml" 51 1396 1408
+)
+"Lab_Six_Ocaml\\zadanie.ml" 56 1540 1545 "Lab_Six_Ocaml\\zadanie.ml" 56 1540 1549
+type(
+  int drzewo
+)
+ident(
+  int_ref tree "Lab_Six_Ocaml\\zadanie.ml" 49 1327 1331 "Lab_Six_Ocaml\\zadanie.ml" 49 1327 1335
+)
+"Lab_Six_Ocaml\\zadanie.ml" 56 1540 1540 "Lab_Six_Ocaml\\zadanie.ml" 56 1540 1549
+call(
+  stack
+)
+type(
+  int wybor list
+)

@@ -1,0 +1,18 @@
+"LabFourOcaml\\zadanie2.ml" 1 0 4 "LabFourOcaml\\zadanie2.ml" 1 0 8
+type(
+  'a -> int
+)
+ident(
+  def zad3 "LabFourOcaml\\zadanie2.ml" 1 0 14 "LabFourOcaml\\zadanie2.ml" 1 0 -1
+)
+"LabFourOcaml\\zadanie2.ml" 1 0 9 "LabFourOcaml\\zadanie2.ml" 1 0 10
+type(
+  'a
+)
+ident(
+  def x "LabFourOcaml\\zadanie2.ml" 1 0 13 "LabFourOcaml\\zadanie2.ml" 1 0 14
+)
+"LabFourOcaml\\zadanie2.ml" 1 0 13 "LabFourOcaml\\zadanie2.ml" 1 0 14
+type(
+  int
+)
