@@ -1,0 +1,470 @@
+"Lab_8_Ocaml\\zadanie.ml" 7 144 148 "Lab_8_Ocaml\\zadanie.ml" 7 144 152
+type(
+  drzewo_osob
+)
+ident(
+  def tree "Lab_8_Ocaml\\zadanie.ml" 11 265 265 "Lab_8_Ocaml\\zadanie.ml" 1 0 -1
+)
+"Lab_8_Ocaml\\zadanie.ml" 7 144 161 "Lab_8_Ocaml\\zadanie.ml" 7 144 167
+type(
+  imie
+)
+"Lab_8_Ocaml\\zadanie.ml" 7 144 169 "Lab_8_Ocaml\\zadanie.ml" 7 144 175
+type(
+  nazwisko
+)
+"Lab_8_Ocaml\\zadanie.ml" 7 144 160 "Lab_8_Ocaml\\zadanie.ml" 7 144 176
+type(
+  osoba
+)
+"Lab_8_Ocaml\\zadanie.ml" 7 144 184 "Lab_8_Ocaml\\zadanie.ml" 7 144 191
+type(
+  imie
+)
+"Lab_8_Ocaml\\zadanie.ml" 7 144 193 "Lab_8_Ocaml\\zadanie.ml" 7 144 204
+type(
+  nazwisko
+)
+"Lab_8_Ocaml\\zadanie.ml" 7 144 183 "Lab_8_Ocaml\\zadanie.ml" 7 144 205
+type(
+  osoba
+)
+"Lab_8_Ocaml\\zadanie.ml" 7 144 214 "Lab_8_Ocaml\\zadanie.ml" 7 144 220
+type(
+  imie
+)
+"Lab_8_Ocaml\\zadanie.ml" 7 144 222 "Lab_8_Ocaml\\zadanie.ml" 7 144 227
+type(
+  nazwisko
+)
+"Lab_8_Ocaml\\zadanie.ml" 7 144 213 "Lab_8_Ocaml\\zadanie.ml" 7 144 228
+type(
+  osoba
+)
+"Lab_8_Ocaml\\zadanie.ml" 7 144 229 "Lab_8_Ocaml\\zadanie.ml" 7 144 234
+type(
+  drzewo_osob
+)
+"Lab_8_Ocaml\\zadanie.ml" 7 144 235 "Lab_8_Ocaml\\zadanie.ml" 7 144 240
+type(
+  drzewo_osob
+)
+"Lab_8_Ocaml\\zadanie.ml" 7 144 207 "Lab_8_Ocaml\\zadanie.ml" 7 144 241
+type(
+  drzewo_osob
+)
+"Lab_8_Ocaml\\zadanie.ml" 7 144 242 "Lab_8_Ocaml\\zadanie.ml" 7 144 247
+type(
+  drzewo_osob
+)
+"Lab_8_Ocaml\\zadanie.ml" 7 144 178 "Lab_8_Ocaml\\zadanie.ml" 7 144 248
+type(
+  drzewo_osob
+)
+"Lab_8_Ocaml\\zadanie.ml" 7 144 249 "Lab_8_Ocaml\\zadanie.ml" 7 144 254
+type(
+  drzewo_osob
+)
+"Lab_8_Ocaml\\zadanie.ml" 7 144 155 "Lab_8_Ocaml\\zadanie.ml" 7 144 255
+type(
+  drzewo_osob
+)
+"Lab_8_Ocaml\\zadanie.ml" 11 265 273 "Lab_8_Ocaml\\zadanie.ml" 11 265 277
+type(
+  drzewo_osob -> (osoba -> bool) -> osoba list
+)
+ident(
+  def zad1 "Lab_8_Ocaml\\zadanie.ml" 11 265 265 "Lab_8_Ocaml\\zadanie.ml" 1 0 -1
+)
+"Lab_8_Ocaml\\zadanie.ml" 11 265 278 "Lab_8_Ocaml\\zadanie.ml" 11 265 282
+type(
+  drzewo_osob
+)
+ident(
+  def tree "Lab_8_Ocaml\\zadanie.ml" 11 265 283 "Lab_8_Ocaml\\zadanie.ml" 14 329 429
+)
+"Lab_8_Ocaml\\zadanie.ml" 11 265 283 "Lab_8_Ocaml\\zadanie.ml" 11 265 287
+type(
+  osoba -> bool
+)
+ident(
+  def pred "Lab_8_Ocaml\\zadanie.ml" 12 292 294 "Lab_8_Ocaml\\zadanie.ml" 14 329 429
+)
+"Lab_8_Ocaml\\zadanie.ml" 12 292 300 "Lab_8_Ocaml\\zadanie.ml" 12 292 304
+type(
+  drzewo_osob
+)
+ident(
+  int_ref tree "Lab_8_Ocaml\\zadanie.ml" 11 265 278 "Lab_8_Ocaml\\zadanie.ml" 11 265 282
+)
+"Lab_8_Ocaml\\zadanie.ml" 13 312 315 "Lab_8_Ocaml\\zadanie.ml" 13 312 320
+type(
+  drzewo_osob
+)
+"Lab_8_Ocaml\\zadanie.ml" 13 312 324 "Lab_8_Ocaml\\zadanie.ml" 13 312 326
+type(
+  osoba list
+)
+"Lab_8_Ocaml\\zadanie.ml" 14 329 338 "Lab_8_Ocaml\\zadanie.ml" 14 329 339
+type(
+  osoba
+)
+ident(
+  def o "Lab_8_Ocaml\\zadanie.ml" 14 329 348 "Lab_8_Ocaml\\zadanie.ml" 14 329 429
+)
+"Lab_8_Ocaml\\zadanie.ml" 14 329 340 "Lab_8_Ocaml\\zadanie.ml" 14 329 341
+type(
+  drzewo_osob
+)
+ident(
+  def l "Lab_8_Ocaml\\zadanie.ml" 14 329 348 "Lab_8_Ocaml\\zadanie.ml" 14 329 429
+)
+"Lab_8_Ocaml\\zadanie.ml" 14 329 342 "Lab_8_Ocaml\\zadanie.ml" 14 329 343
+type(
+  drzewo_osob
+)
+ident(
+  def r "Lab_8_Ocaml\\zadanie.ml" 14 329 348 "Lab_8_Ocaml\\zadanie.ml" 14 329 429
+)
+"Lab_8_Ocaml\\zadanie.ml" 14 329 332 "Lab_8_Ocaml\\zadanie.ml" 14 329 344
+type(
+  drzewo_osob
+)
+"Lab_8_Ocaml\\zadanie.ml" 14 329 352 "Lab_8_Ocaml\\zadanie.ml" 14 329 356
+type(
+  osoba -> bool
+)
+ident(
+  int_ref pred "Lab_8_Ocaml\\zadanie.ml" 11 265 283 "Lab_8_Ocaml\\zadanie.ml" 11 265 287
+)
+"Lab_8_Ocaml\\zadanie.ml" 14 329 357 "Lab_8_Ocaml\\zadanie.ml" 14 329 358
+type(
+  osoba
+)
+ident(
+  int_ref o "Lab_8_Ocaml\\zadanie.ml" 14 329 338 "Lab_8_Ocaml\\zadanie.ml" 14 329 339
+)
+"Lab_8_Ocaml\\zadanie.ml" 14 329 351 "Lab_8_Ocaml\\zadanie.ml" 14 329 359
+type(
+  bool
+)
+"Lab_8_Ocaml\\zadanie.ml" 14 329 366 "Lab_8_Ocaml\\zadanie.ml" 14 329 367
+type(
+  osoba
+)
+ident(
+  int_ref o "Lab_8_Ocaml\\zadanie.ml" 14 329 338 "Lab_8_Ocaml\\zadanie.ml" 14 329 339
+)
+"Lab_8_Ocaml\\zadanie.ml" 14 329 365 "Lab_8_Ocaml\\zadanie.ml" 14 329 368
+type(
+  osoba list
+)
+"Lab_8_Ocaml\\zadanie.ml" 14 329 368 "Lab_8_Ocaml\\zadanie.ml" 14 329 369
+type(
+  osoba list -> osoba list -> osoba list
+)
+ident(
+  ext_ref Pervasives.( @ )
+)
+"Lab_8_Ocaml\\zadanie.ml" 14 329 370 "Lab_8_Ocaml\\zadanie.ml" 14 329 374
+type(
+  drzewo_osob -> (osoba -> bool) -> osoba list
+)
+ident(
+  int_ref zad1 "Lab_8_Ocaml\\zadanie.ml" 11 265 273 "Lab_8_Ocaml\\zadanie.ml" 11 265 277
+)
+"Lab_8_Ocaml\\zadanie.ml" 14 329 375 "Lab_8_Ocaml\\zadanie.ml" 14 329 376
+type(
+  drzewo_osob
+)
+ident(
+  int_ref l "Lab_8_Ocaml\\zadanie.ml" 14 329 340 "Lab_8_Ocaml\\zadanie.ml" 14 329 341
+)
+"Lab_8_Ocaml\\zadanie.ml" 14 329 377 "Lab_8_Ocaml\\zadanie.ml" 14 329 381
+type(
+  osoba -> bool
+)
+ident(
+  int_ref pred "Lab_8_Ocaml\\zadanie.ml" 11 265 283 "Lab_8_Ocaml\\zadanie.ml" 11 265 287
+)
+"Lab_8_Ocaml\\zadanie.ml" 14 329 369 "Lab_8_Ocaml\\zadanie.ml" 14 329 382
+type(
+  osoba list
+)
+"Lab_8_Ocaml\\zadanie.ml" 14 329 382 "Lab_8_Ocaml\\zadanie.ml" 14 329 383
+type(
+  osoba list -> osoba list -> osoba list
+)
+ident(
+  ext_ref Pervasives.( @ )
+)
+"Lab_8_Ocaml\\zadanie.ml" 14 329 384 "Lab_8_Ocaml\\zadanie.ml" 14 329 388
+type(
+  drzewo_osob -> (osoba -> bool) -> osoba list
+)
+ident(
+  int_ref zad1 "Lab_8_Ocaml\\zadanie.ml" 11 265 273 "Lab_8_Ocaml\\zadanie.ml" 11 265 277
+)
+"Lab_8_Ocaml\\zadanie.ml" 14 329 389 "Lab_8_Ocaml\\zadanie.ml" 14 329 390
+type(
+  drzewo_osob
+)
+ident(
+  int_ref r "Lab_8_Ocaml\\zadanie.ml" 14 329 342 "Lab_8_Ocaml\\zadanie.ml" 14 329 343
+)
+"Lab_8_Ocaml\\zadanie.ml" 14 329 391 "Lab_8_Ocaml\\zadanie.ml" 14 329 395
+type(
+  osoba -> bool
+)
+ident(
+  int_ref pred "Lab_8_Ocaml\\zadanie.ml" 11 265 283 "Lab_8_Ocaml\\zadanie.ml" 11 265 287
+)
+"Lab_8_Ocaml\\zadanie.ml" 14 329 383 "Lab_8_Ocaml\\zadanie.ml" 14 329 396
+type(
+  osoba list
+)
+"Lab_8_Ocaml\\zadanie.ml" 14 329 369 "Lab_8_Ocaml\\zadanie.ml" 14 329 396
+type(
+  osoba list
+)
+"Lab_8_Ocaml\\zadanie.ml" 14 329 365 "Lab_8_Ocaml\\zadanie.ml" 14 329 396
+type(
+  osoba list
+)
+"Lab_8_Ocaml\\zadanie.ml" 14 329 403 "Lab_8_Ocaml\\zadanie.ml" 14 329 407
+type(
+  drzewo_osob -> (osoba -> bool) -> osoba list
+)
+ident(
+  int_ref zad1 "Lab_8_Ocaml\\zadanie.ml" 11 265 273 "Lab_8_Ocaml\\zadanie.ml" 11 265 277
+)
+"Lab_8_Ocaml\\zadanie.ml" 14 329 408 "Lab_8_Ocaml\\zadanie.ml" 14 329 409
+type(
+  drzewo_osob
+)
+ident(
+  int_ref l "Lab_8_Ocaml\\zadanie.ml" 14 329 340 "Lab_8_Ocaml\\zadanie.ml" 14 329 341
+)
+"Lab_8_Ocaml\\zadanie.ml" 14 329 410 "Lab_8_Ocaml\\zadanie.ml" 14 329 414
+type(
+  osoba -> bool
+)
+ident(
+  int_ref pred "Lab_8_Ocaml\\zadanie.ml" 11 265 283 "Lab_8_Ocaml\\zadanie.ml" 11 265 287
+)
+"Lab_8_Ocaml\\zadanie.ml" 14 329 402 "Lab_8_Ocaml\\zadanie.ml" 14 329 415
+type(
+  osoba list
+)
+"Lab_8_Ocaml\\zadanie.ml" 14 329 415 "Lab_8_Ocaml\\zadanie.ml" 14 329 416
+type(
+  osoba list -> osoba list -> osoba list
+)
+ident(
+  ext_ref Pervasives.( @ )
+)
+"Lab_8_Ocaml\\zadanie.ml" 14 329 417 "Lab_8_Ocaml\\zadanie.ml" 14 329 421
+type(
+  drzewo_osob -> (osoba -> bool) -> osoba list
+)
+ident(
+  int_ref zad1 "Lab_8_Ocaml\\zadanie.ml" 11 265 273 "Lab_8_Ocaml\\zadanie.ml" 11 265 277
+)
+"Lab_8_Ocaml\\zadanie.ml" 14 329 422 "Lab_8_Ocaml\\zadanie.ml" 14 329 423
+type(
+  drzewo_osob
+)
+ident(
+  int_ref r "Lab_8_Ocaml\\zadanie.ml" 14 329 342 "Lab_8_Ocaml\\zadanie.ml" 14 329 343
+)
+"Lab_8_Ocaml\\zadanie.ml" 14 329 424 "Lab_8_Ocaml\\zadanie.ml" 14 329 428
+type(
+  osoba -> bool
+)
+ident(
+  int_ref pred "Lab_8_Ocaml\\zadanie.ml" 11 265 283 "Lab_8_Ocaml\\zadanie.ml" 11 265 287
+)
+"Lab_8_Ocaml\\zadanie.ml" 14 329 416 "Lab_8_Ocaml\\zadanie.ml" 14 329 429
+type(
+  osoba list
+)
+"Lab_8_Ocaml\\zadanie.ml" 14 329 402 "Lab_8_Ocaml\\zadanie.ml" 14 329 429
+type(
+  osoba list
+)
+"Lab_8_Ocaml\\zadanie.ml" 14 329 348 "Lab_8_Ocaml\\zadanie.ml" 14 329 429
+type(
+  osoba list
+)
+"Lab_8_Ocaml\\zadanie.ml" 12 292 294 "Lab_8_Ocaml\\zadanie.ml" 14 329 429
+type(
+  osoba list
+)
+"Lab_8_Ocaml\\zadanie.ml" 18 441 446 "Lab_8_Ocaml\\zadanie.ml" 18 441 452
+type(
+  string * 'a -> bool
+)
+ident(
+  def loking "Lab_8_Ocaml\\zadanie.ml" 23 523 524 "Lab_8_Ocaml\\zadanie.ml" 1 0 -1
+)
+"Lab_8_Ocaml\\zadanie.ml" 18 441 453 "Lab_8_Ocaml\\zadanie.ml" 18 441 457
+type(
+  string * 'a
+)
+ident(
+  def osob "Lab_8_Ocaml\\zadanie.ml" 19 463 464 "Lab_8_Ocaml\\zadanie.ml" 20 500 513
+)
+"Lab_8_Ocaml\\zadanie.ml" 19 463 468 "Lab_8_Ocaml\\zadanie.ml" 19 463 471
+type(
+  string * 'a -> string
+)
+ident(
+  ext_ref Pervasives.fst
+)
+"Lab_8_Ocaml\\zadanie.ml" 19 463 472 "Lab_8_Ocaml\\zadanie.ml" 19 463 476
+type(
+  string * 'a
+)
+ident(
+  int_ref osob "Lab_8_Ocaml\\zadanie.ml" 18 441 453 "Lab_8_Ocaml\\zadanie.ml" 18 441 457
+)
+"Lab_8_Ocaml\\zadanie.ml" 19 463 467 "Lab_8_Ocaml\\zadanie.ml" 19 463 477
+type(
+  string
+)
+"Lab_8_Ocaml\\zadanie.ml" 19 463 478 "Lab_8_Ocaml\\zadanie.ml" 19 463 479
+type(
+  string -> string -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Lab_8_Ocaml\\zadanie.ml" 19 463 480 "Lab_8_Ocaml\\zadanie.ml" 19 463 487
+type(
+  string
+)
+"Lab_8_Ocaml\\zadanie.ml" 19 463 467 "Lab_8_Ocaml\\zadanie.ml" 19 463 487
+type(
+  bool
+)
+"Lab_8_Ocaml\\zadanie.ml" 19 463 493 "Lab_8_Ocaml\\zadanie.ml" 19 463 497
+type(
+  bool
+)
+"Lab_8_Ocaml\\zadanie.ml" 20 500 508 "Lab_8_Ocaml\\zadanie.ml" 20 500 513
+type(
+  bool
+)
+"Lab_8_Ocaml\\zadanie.ml" 19 463 464 "Lab_8_Ocaml\\zadanie.ml" 20 500 513
+type(
+  bool
+)
+"Lab_8_Ocaml\\zadanie.ml" 23 523 528 "Lab_8_Ocaml\\zadanie.ml" 23 523 535
+type(
+  string * 'a -> bool
+)
+ident(
+  def loking2 "Lab_8_Ocaml\\zadanie.ml" 28 606 606 "Lab_8_Ocaml\\zadanie.ml" 1 0 -1
+)
+"Lab_8_Ocaml\\zadanie.ml" 23 523 536 "Lab_8_Ocaml\\zadanie.ml" 23 523 540
+type(
+  string * 'a
+)
+ident(
+  def osob "Lab_8_Ocaml\\zadanie.ml" 24 546 547 "Lab_8_Ocaml\\zadanie.ml" 25 583 596
+)
+"Lab_8_Ocaml\\zadanie.ml" 24 546 551 "Lab_8_Ocaml\\zadanie.ml" 24 546 554
+type(
+  string * 'a -> string
+)
+ident(
+  ext_ref Pervasives.fst
+)
+"Lab_8_Ocaml\\zadanie.ml" 24 546 555 "Lab_8_Ocaml\\zadanie.ml" 24 546 559
+type(
+  string * 'a
+)
+ident(
+  int_ref osob "Lab_8_Ocaml\\zadanie.ml" 23 523 536 "Lab_8_Ocaml\\zadanie.ml" 23 523 540
+)
+"Lab_8_Ocaml\\zadanie.ml" 24 546 550 "Lab_8_Ocaml\\zadanie.ml" 24 546 560
+type(
+  string
+)
+"Lab_8_Ocaml\\zadanie.ml" 24 546 561 "Lab_8_Ocaml\\zadanie.ml" 24 546 562
+type(
+  string -> string -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Lab_8_Ocaml\\zadanie.ml" 24 546 563 "Lab_8_Ocaml\\zadanie.ml" 24 546 570
+type(
+  string
+)
+"Lab_8_Ocaml\\zadanie.ml" 24 546 550 "Lab_8_Ocaml\\zadanie.ml" 24 546 570
+type(
+  bool
+)
+"Lab_8_Ocaml\\zadanie.ml" 24 546 576 "Lab_8_Ocaml\\zadanie.ml" 24 546 580
+type(
+  bool
+)
+"Lab_8_Ocaml\\zadanie.ml" 25 583 591 "Lab_8_Ocaml\\zadanie.ml" 25 583 596
+type(
+  bool
+)
+"Lab_8_Ocaml\\zadanie.ml" 24 546 547 "Lab_8_Ocaml\\zadanie.ml" 25 583 596
+type(
+  bool
+)
+"Lab_8_Ocaml\\zadanie.ml" 28 606 606 "Lab_8_Ocaml\\zadanie.ml" 28 606 610
+type(
+  drzewo_osob -> (osoba -> bool) -> osoba list
+)
+ident(
+  int_ref zad1 "Lab_8_Ocaml\\zadanie.ml" 11 265 273 "Lab_8_Ocaml\\zadanie.ml" 11 265 277
+)
+"Lab_8_Ocaml\\zadanie.ml" 28 606 611 "Lab_8_Ocaml\\zadanie.ml" 28 606 615
+type(
+  drzewo_osob
+)
+ident(
+  int_ref tree "Lab_8_Ocaml\\zadanie.ml" 7 144 148 "Lab_8_Ocaml\\zadanie.ml" 7 144 152
+)
+"Lab_8_Ocaml\\zadanie.ml" 28 606 616 "Lab_8_Ocaml\\zadanie.ml" 28 606 622
+type(
+  osoba -> bool
+)
+ident(
+  int_ref loking "Lab_8_Ocaml\\zadanie.ml" 18 441 446 "Lab_8_Ocaml\\zadanie.ml" 18 441 452
+)
+"Lab_8_Ocaml\\zadanie.ml" 28 606 606 "Lab_8_Ocaml\\zadanie.ml" 28 606 622
+type(
+  osoba list
+)
+"Lab_8_Ocaml\\zadanie.ml" 31 630 630 "Lab_8_Ocaml\\zadanie.ml" 31 630 634
+type(
+  drzewo_osob -> (osoba -> bool) -> osoba list
+)
+ident(
+  int_ref zad1 "Lab_8_Ocaml\\zadanie.ml" 11 265 273 "Lab_8_Ocaml\\zadanie.ml" 11 265 277
+)
+"Lab_8_Ocaml\\zadanie.ml" 31 630 635 "Lab_8_Ocaml\\zadanie.ml" 31 630 639
+type(
+  drzewo_osob
+)
+ident(
+  int_ref tree "Lab_8_Ocaml\\zadanie.ml" 7 144 148 "Lab_8_Ocaml\\zadanie.ml" 7 144 152
+)
+"Lab_8_Ocaml\\zadanie.ml" 31 630 640 "Lab_8_Ocaml\\zadanie.ml" 31 630 647
+type(
+  osoba -> bool
+)
+ident(
+  int_ref loking2 "Lab_8_Ocaml\\zadanie.ml" 23 523 528 "Lab_8_Ocaml\\zadanie.ml" 23 523 535
+)
+"Lab_8_Ocaml\\zadanie.ml" 31 630 630 "Lab_8_Ocaml\\zadanie.ml" 31 630 647
+type(
+  osoba list
+)
