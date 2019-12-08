@@ -1,0 +1,1174 @@
+"LabFiveOcaml\\zadO.ml" 2 2 6 "LabFiveOcaml\\zadO.ml" 2 2 10
+type(
+  'a list -> int list -> 'a list
+)
+ident(
+  def zad1 "LabFiveOcaml\\zadO.ml" 17 371 371 "LabFiveOcaml\\zadO.ml" 1 0 -1
+)
+"LabFiveOcaml\\zadO.ml" 2 2 11 "LabFiveOcaml\\zadO.ml" 2 2 13
+type(
+  'a list
+)
+ident(
+  def xs "LabFiveOcaml\\zadO.ml" 2 2 14 "LabFiveOcaml\\zadO.ml" 15 344 365
+)
+"LabFiveOcaml\\zadO.ml" 2 2 14 "LabFiveOcaml\\zadO.ml" 2 2 16
+type(
+  int list
+)
+ident(
+  def ys "LabFiveOcaml\\zadO.ml" 3 20 22 "LabFiveOcaml\\zadO.ml" 15 344 365
+)
+"LabFiveOcaml\\zadO.ml" 3 20 30 "LabFiveOcaml\\zadO.ml" 3 20 34
+type(
+  'b * int * 'b list -> 'b list
+)
+ident(
+  def temp "LabFiveOcaml\\zadO.ml" 3 20 22 "LabFiveOcaml\\zadO.ml" 15 344 365
+)
+"LabFiveOcaml\\zadO.ml" 3 20 35 "LabFiveOcaml\\zadO.ml" 3 20 37
+type(
+  'b
+)
+ident(
+  def el "LabFiveOcaml\\zadO.ml" 4 49 52 "LabFiveOcaml\\zadO.ml" 8 131 162
+)
+"LabFiveOcaml\\zadO.ml" 3 20 39 "LabFiveOcaml\\zadO.ml" 3 20 42
+type(
+  int
+)
+ident(
+  def pos "LabFiveOcaml\\zadO.ml" 4 49 52 "LabFiveOcaml\\zadO.ml" 8 131 162
+)
+"LabFiveOcaml\\zadO.ml" 3 20 43 "LabFiveOcaml\\zadO.ml" 3 20 45
+type(
+  'b list
+)
+ident(
+  def xs "LabFiveOcaml\\zadO.ml" 4 49 52 "LabFiveOcaml\\zadO.ml" 8 131 162
+)
+"LabFiveOcaml\\zadO.ml" 3 20 34 "LabFiveOcaml\\zadO.ml" 3 20 46
+type(
+  'b * int * 'b list
+)
+"LabFiveOcaml\\zadO.ml" 4 49 58 "LabFiveOcaml\\zadO.ml" 4 49 60
+type(
+  'b list
+)
+ident(
+  int_ref xs "LabFiveOcaml\\zadO.ml" 3 20 43 "LabFiveOcaml\\zadO.ml" 3 20 45
+)
+"LabFiveOcaml\\zadO.ml" 5 67 72 "LabFiveOcaml\\zadO.ml" 5 67 74
+type(
+  'b list
+)
+"LabFiveOcaml\\zadO.ml" 5 67 79 "LabFiveOcaml\\zadO.ml" 5 67 81
+type(
+  'b
+)
+ident(
+  int_ref el "LabFiveOcaml\\zadO.ml" 3 20 35 "LabFiveOcaml\\zadO.ml" 3 20 37
+)
+"LabFiveOcaml\\zadO.ml" 5 67 78 "LabFiveOcaml\\zadO.ml" 5 67 82
+type(
+  'b list
+)
+"LabFiveOcaml\\zadO.ml" 6 84 89 "LabFiveOcaml\\zadO.ml" 6 84 90
+type(
+  'b
+)
+ident(
+  def h "LabFiveOcaml\\zadO.ml" 7 99 105 "LabFiveOcaml\\zadO.ml" 8 131 162
+)
+"LabFiveOcaml\\zadO.ml" 6 84 92 "LabFiveOcaml\\zadO.ml" 6 84 93
+type(
+  'b list
+)
+ident(
+  def t "LabFiveOcaml\\zadO.ml" 7 99 105 "LabFiveOcaml\\zadO.ml" 8 131 162
+)
+"LabFiveOcaml\\zadO.ml" 6 84 89 "LabFiveOcaml\\zadO.ml" 6 84 93
+type(
+  'b list
+)
+"LabFiveOcaml\\zadO.ml" 7 99 108 "LabFiveOcaml\\zadO.ml" 7 99 111
+type(
+  int
+)
+ident(
+  int_ref pos "LabFiveOcaml\\zadO.ml" 3 20 39 "LabFiveOcaml\\zadO.ml" 3 20 42
+)
+"LabFiveOcaml\\zadO.ml" 7 99 111 "LabFiveOcaml\\zadO.ml" 7 99 112
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"LabFiveOcaml\\zadO.ml" 7 99 112 "LabFiveOcaml\\zadO.ml" 7 99 113
+type(
+  int
+)
+"LabFiveOcaml\\zadO.ml" 7 99 107 "LabFiveOcaml\\zadO.ml" 7 99 114
+type(
+  bool
+)
+"LabFiveOcaml\\zadO.ml" 7 99 120 "LabFiveOcaml\\zadO.ml" 7 99 122
+type(
+  'b
+)
+ident(
+  int_ref el "LabFiveOcaml\\zadO.ml" 3 20 35 "LabFiveOcaml\\zadO.ml" 3 20 37
+)
+"LabFiveOcaml\\zadO.ml" 7 99 124 "LabFiveOcaml\\zadO.ml" 7 99 125
+type(
+  'b
+)
+ident(
+  int_ref h "LabFiveOcaml\\zadO.ml" 6 84 89 "LabFiveOcaml\\zadO.ml" 6 84 90
+)
+"LabFiveOcaml\\zadO.ml" 7 99 127 "LabFiveOcaml\\zadO.ml" 7 99 128
+type(
+  'b list
+)
+ident(
+  int_ref t "LabFiveOcaml\\zadO.ml" 6 84 92 "LabFiveOcaml\\zadO.ml" 6 84 93
+)
+"LabFiveOcaml\\zadO.ml" 7 99 124 "LabFiveOcaml\\zadO.ml" 7 99 128
+type(
+  'b list
+)
+"LabFiveOcaml\\zadO.ml" 7 99 120 "LabFiveOcaml\\zadO.ml" 7 99 128
+type(
+  'b list
+)
+"LabFiveOcaml\\zadO.ml" 8 131 143 "LabFiveOcaml\\zadO.ml" 8 131 144
+type(
+  'b
+)
+ident(
+  int_ref h "LabFiveOcaml\\zadO.ml" 6 84 89 "LabFiveOcaml\\zadO.ml" 6 84 90
+)
+"LabFiveOcaml\\zadO.ml" 8 131 146 "LabFiveOcaml\\zadO.ml" 8 131 150
+type(
+  'b * int * 'b list -> 'b list
+)
+ident(
+  int_ref temp "LabFiveOcaml\\zadO.ml" 3 20 30 "LabFiveOcaml\\zadO.ml" 3 20 34
+)
+"LabFiveOcaml\\zadO.ml" 8 131 151 "LabFiveOcaml\\zadO.ml" 8 131 153
+type(
+  'b
+)
+ident(
+  int_ref el "LabFiveOcaml\\zadO.ml" 3 20 35 "LabFiveOcaml\\zadO.ml" 3 20 37
+)
+"LabFiveOcaml\\zadO.ml" 8 131 154 "LabFiveOcaml\\zadO.ml" 8 131 157
+type(
+  int
+)
+ident(
+  int_ref pos "LabFiveOcaml\\zadO.ml" 3 20 39 "LabFiveOcaml\\zadO.ml" 3 20 42
+)
+"LabFiveOcaml\\zadO.ml" 8 131 157 "LabFiveOcaml\\zadO.ml" 8 131 158
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"LabFiveOcaml\\zadO.ml" 8 131 158 "LabFiveOcaml\\zadO.ml" 8 131 159
+type(
+  int
+)
+"LabFiveOcaml\\zadO.ml" 8 131 154 "LabFiveOcaml\\zadO.ml" 8 131 159
+type(
+  int
+)
+"LabFiveOcaml\\zadO.ml" 8 131 160 "LabFiveOcaml\\zadO.ml" 8 131 161
+type(
+  'b list
+)
+ident(
+  int_ref t "LabFiveOcaml\\zadO.ml" 6 84 92 "LabFiveOcaml\\zadO.ml" 6 84 93
+)
+"LabFiveOcaml\\zadO.ml" 8 131 150 "LabFiveOcaml\\zadO.ml" 8 131 162
+type(
+  'b * int * 'b list
+)
+"LabFiveOcaml\\zadO.ml" 8 131 146 "LabFiveOcaml\\zadO.ml" 8 131 162
+type(
+  'b list
+)
+"LabFiveOcaml\\zadO.ml" 8 131 143 "LabFiveOcaml\\zadO.ml" 8 131 162
+type(
+  'b list
+)
+"LabFiveOcaml\\zadO.ml" 7 99 105 "LabFiveOcaml\\zadO.ml" 8 131 162
+type(
+  'b list
+)
+"LabFiveOcaml\\zadO.ml" 4 49 52 "LabFiveOcaml\\zadO.ml" 8 131 162
+type(
+  'b list
+)
+"LabFiveOcaml\\zadO.ml" 10 173 185 "LabFiveOcaml\\zadO.ml" 10 173 191
+type(
+  'c list * int list * 'c list -> 'c list
+)
+ident(
+  def set_bb "LabFiveOcaml\\zadO.ml" 10 173 177 "LabFiveOcaml\\zadO.ml" 15 344 365
+)
+"LabFiveOcaml\\zadO.ml" 10 173 192 "LabFiveOcaml\\zadO.ml" 10 173 194
+type(
+  'c list
+)
+ident(
+  def xs "LabFiveOcaml\\zadO.ml" 11 208 211 "LabFiveOcaml\\zadO.ml" 14 311 342
+)
+"LabFiveOcaml\\zadO.ml" 10 173 195 "LabFiveOcaml\\zadO.ml" 10 173 197
+type(
+  int list
+)
+ident(
+  def ys "LabFiveOcaml\\zadO.ml" 11 208 211 "LabFiveOcaml\\zadO.ml" 14 311 342
+)
+"LabFiveOcaml\\zadO.ml" 10 173 198 "LabFiveOcaml\\zadO.ml" 10 173 204
+type(
+  'c list
+)
+ident(
+  def result "LabFiveOcaml\\zadO.ml" 11 208 211 "LabFiveOcaml\\zadO.ml" 14 311 342
+)
+"LabFiveOcaml\\zadO.ml" 10 173 191 "LabFiveOcaml\\zadO.ml" 10 173 205
+type(
+  'c list * int list * 'c list
+)
+"LabFiveOcaml\\zadO.ml" 11 208 217 "LabFiveOcaml\\zadO.ml" 11 208 219
+type(
+  'c list
+)
+ident(
+  int_ref xs "LabFiveOcaml\\zadO.ml" 10 173 192 "LabFiveOcaml\\zadO.ml" 10 173 194
+)
+"LabFiveOcaml\\zadO.ml" 11 208 221 "LabFiveOcaml\\zadO.ml" 11 208 223
+type(
+  int list
+)
+ident(
+  int_ref ys "LabFiveOcaml\\zadO.ml" 10 173 195 "LabFiveOcaml\\zadO.ml" 10 173 197
+)
+"LabFiveOcaml\\zadO.ml" 11 208 216 "LabFiveOcaml\\zadO.ml" 11 208 224
+type(
+  'c list * int list
+)
+"LabFiveOcaml\\zadO.ml" 12 231 237 "LabFiveOcaml\\zadO.ml" 12 231 239
+type(
+  'c list
+)
+"LabFiveOcaml\\zadO.ml" 12 231 240 "LabFiveOcaml\\zadO.ml" 12 231 242
+type(
+  int list
+)
+"LabFiveOcaml\\zadO.ml" 12 231 236 "LabFiveOcaml\\zadO.ml" 12 231 243
+type(
+  'c list * int list
+)
+"LabFiveOcaml\\zadO.ml" 12 231 246 "LabFiveOcaml\\zadO.ml" 12 231 252
+type(
+  'c list
+)
+ident(
+  int_ref result "LabFiveOcaml\\zadO.ml" 10 173 198 "LabFiveOcaml\\zadO.ml" 10 173 204
+)
+"LabFiveOcaml\\zadO.ml" 13 254 260 "LabFiveOcaml\\zadO.ml" 13 254 262
+type(
+  'c
+)
+ident(
+  def h1 "LabFiveOcaml\\zadO.ml" 13 254 277 "LabFiveOcaml\\zadO.ml" 13 254 309
+)
+"LabFiveOcaml\\zadO.ml" 13 254 264 "LabFiveOcaml\\zadO.ml" 13 254 266
+type(
+  'c list
+)
+ident(
+  def t1 "LabFiveOcaml\\zadO.ml" 13 254 277 "LabFiveOcaml\\zadO.ml" 13 254 309
+)
+"LabFiveOcaml\\zadO.ml" 13 254 260 "LabFiveOcaml\\zadO.ml" 13 254 266
+type(
+  'c list
+)
+"LabFiveOcaml\\zadO.ml" 13 254 267 "LabFiveOcaml\\zadO.ml" 13 254 269
+type(
+  int
+)
+ident(
+  def h2 "LabFiveOcaml\\zadO.ml" 13 254 277 "LabFiveOcaml\\zadO.ml" 13 254 309
+)
+"LabFiveOcaml\\zadO.ml" 13 254 271 "LabFiveOcaml\\zadO.ml" 13 254 273
+type(
+  int list
+)
+ident(
+  def t2 "LabFiveOcaml\\zadO.ml" 13 254 277 "LabFiveOcaml\\zadO.ml" 13 254 309
+)
+"LabFiveOcaml\\zadO.ml" 13 254 267 "LabFiveOcaml\\zadO.ml" 13 254 273
+type(
+  int list
+)
+"LabFiveOcaml\\zadO.ml" 13 254 259 "LabFiveOcaml\\zadO.ml" 13 254 274
+type(
+  'c list * int list
+)
+"LabFiveOcaml\\zadO.ml" 13 254 277 "LabFiveOcaml\\zadO.ml" 13 254 283
+type(
+  'c list * int list * 'c list -> 'c list
+)
+ident(
+  int_ref set_bb "LabFiveOcaml\\zadO.ml" 10 173 185 "LabFiveOcaml\\zadO.ml" 10 173 191
+)
+"LabFiveOcaml\\zadO.ml" 13 254 284 "LabFiveOcaml\\zadO.ml" 13 254 286
+type(
+  'c list
+)
+ident(
+  int_ref t1 "LabFiveOcaml\\zadO.ml" 13 254 264 "LabFiveOcaml\\zadO.ml" 13 254 266
+)
+"LabFiveOcaml\\zadO.ml" 13 254 287 "LabFiveOcaml\\zadO.ml" 13 254 289
+type(
+  int list
+)
+ident(
+  int_ref t2 "LabFiveOcaml\\zadO.ml" 13 254 271 "LabFiveOcaml\\zadO.ml" 13 254 273
+)
+"LabFiveOcaml\\zadO.ml" 13 254 290 "LabFiveOcaml\\zadO.ml" 13 254 294
+type(
+  'c * int * 'c list -> 'c list
+)
+ident(
+  int_ref temp "LabFiveOcaml\\zadO.ml" 3 20 30 "LabFiveOcaml\\zadO.ml" 3 20 34
+)
+"LabFiveOcaml\\zadO.ml" 13 254 295 "LabFiveOcaml\\zadO.ml" 13 254 297
+type(
+  'c
+)
+ident(
+  int_ref h1 "LabFiveOcaml\\zadO.ml" 13 254 260 "LabFiveOcaml\\zadO.ml" 13 254 262
+)
+"LabFiveOcaml\\zadO.ml" 13 254 298 "LabFiveOcaml\\zadO.ml" 13 254 300
+type(
+  int
+)
+ident(
+  int_ref h2 "LabFiveOcaml\\zadO.ml" 13 254 267 "LabFiveOcaml\\zadO.ml" 13 254 269
+)
+"LabFiveOcaml\\zadO.ml" 13 254 301 "LabFiveOcaml\\zadO.ml" 13 254 307
+type(
+  'c list
+)
+ident(
+  int_ref result "LabFiveOcaml\\zadO.ml" 10 173 198 "LabFiveOcaml\\zadO.ml" 10 173 204
+)
+"LabFiveOcaml\\zadO.ml" 13 254 294 "LabFiveOcaml\\zadO.ml" 13 254 308
+type(
+  'c * int * 'c list
+)
+"LabFiveOcaml\\zadO.ml" 13 254 290 "LabFiveOcaml\\zadO.ml" 13 254 308
+type(
+  'c list
+)
+"LabFiveOcaml\\zadO.ml" 13 254 283 "LabFiveOcaml\\zadO.ml" 13 254 309
+type(
+  'c list * int list * 'c list
+)
+"LabFiveOcaml\\zadO.ml" 13 254 277 "LabFiveOcaml\\zadO.ml" 13 254 309
+type(
+  'c list
+)
+"LabFiveOcaml\\zadO.ml" 14 311 315 "LabFiveOcaml\\zadO.ml" 14 311 316
+type(
+  'c list * int list
+)
+"LabFiveOcaml\\zadO.ml" 14 311 320 "LabFiveOcaml\\zadO.ml" 14 311 325
+type(
+  exn -> 'c list
+)
+ident(
+  ext_ref Pervasives.raise
+)
+"LabFiveOcaml\\zadO.ml" 14 311 334 "LabFiveOcaml\\zadO.ml" 14 311 341
+type(
+  string
+)
+"LabFiveOcaml\\zadO.ml" 14 311 325 "LabFiveOcaml\\zadO.ml" 14 311 342
+type(
+  exn
+)
+"LabFiveOcaml\\zadO.ml" 14 311 320 "LabFiveOcaml\\zadO.ml" 14 311 342
+type(
+  'c list
+)
+"LabFiveOcaml\\zadO.ml" 11 208 211 "LabFiveOcaml\\zadO.ml" 14 311 342
+type(
+  'c list
+)
+"LabFiveOcaml\\zadO.ml" 15 344 349 "LabFiveOcaml\\zadO.ml" 15 344 355
+type(
+  'a list * int list * 'a list -> 'a list
+)
+ident(
+  int_ref set_bb "LabFiveOcaml\\zadO.ml" 10 173 185 "LabFiveOcaml\\zadO.ml" 10 173 191
+)
+"LabFiveOcaml\\zadO.ml" 15 344 356 "LabFiveOcaml\\zadO.ml" 15 344 358
+type(
+  'a list
+)
+ident(
+  int_ref xs "LabFiveOcaml\\zadO.ml" 2 2 11 "LabFiveOcaml\\zadO.ml" 2 2 13
+)
+"LabFiveOcaml\\zadO.ml" 15 344 359 "LabFiveOcaml\\zadO.ml" 15 344 361
+type(
+  int list
+)
+ident(
+  int_ref ys "LabFiveOcaml\\zadO.ml" 2 2 14 "LabFiveOcaml\\zadO.ml" 2 2 16
+)
+"LabFiveOcaml\\zadO.ml" 15 344 362 "LabFiveOcaml\\zadO.ml" 15 344 364
+type(
+  'a list
+)
+"LabFiveOcaml\\zadO.ml" 15 344 355 "LabFiveOcaml\\zadO.ml" 15 344 365
+type(
+  'a list * int list * 'a list
+)
+"LabFiveOcaml\\zadO.ml" 15 344 349 "LabFiveOcaml\\zadO.ml" 15 344 365
+type(
+  'a list
+)
+"LabFiveOcaml\\zadO.ml" 10 173 177 "LabFiveOcaml\\zadO.ml" 15 344 365
+type(
+  'a list
+)
+"LabFiveOcaml\\zadO.ml" 3 20 22 "LabFiveOcaml\\zadO.ml" 15 344 365
+type(
+  'a list
+)
+"LabFiveOcaml\\zadO.ml" 17 371 371 "LabFiveOcaml\\zadO.ml" 17 371 375
+type(
+  int list -> int list -> int list
+)
+ident(
+  int_ref zad1 "LabFiveOcaml\\zadO.ml" 2 2 6 "LabFiveOcaml\\zadO.ml" 2 2 10
+)
+"LabFiveOcaml\\zadO.ml" 17 371 377 "LabFiveOcaml\\zadO.ml" 17 371 378
+type(
+  int
+)
+"LabFiveOcaml\\zadO.ml" 17 371 379 "LabFiveOcaml\\zadO.ml" 17 371 380
+type(
+  int
+)
+"LabFiveOcaml\\zadO.ml" 17 371 381 "LabFiveOcaml\\zadO.ml" 17 371 382
+type(
+  int
+)
+"LabFiveOcaml\\zadO.ml" 17 371 383 "LabFiveOcaml\\zadO.ml" 17 371 385
+type(
+  int
+)
+"LabFiveOcaml\\zadO.ml" 17 371 376 "LabFiveOcaml\\zadO.ml" 17 371 386
+type(
+  int list
+)
+"LabFiveOcaml\\zadO.ml" 17 371 388 "LabFiveOcaml\\zadO.ml" 17 371 389
+type(
+  int
+)
+"LabFiveOcaml\\zadO.ml" 17 371 390 "LabFiveOcaml\\zadO.ml" 17 371 391
+type(
+  int
+)
+"LabFiveOcaml\\zadO.ml" 17 371 392 "LabFiveOcaml\\zadO.ml" 17 371 393
+type(
+  int
+)
+"LabFiveOcaml\\zadO.ml" 17 371 394 "LabFiveOcaml\\zadO.ml" 17 371 395
+type(
+  int
+)
+"LabFiveOcaml\\zadO.ml" 17 371 387 "LabFiveOcaml\\zadO.ml" 17 371 396
+type(
+  int list
+)
+"LabFiveOcaml\\zadO.ml" 17 371 371 "LabFiveOcaml\\zadO.ml" 17 371 396
+type(
+  int list
+)
+"LabFiveOcaml\\zadO.ml" 18 400 400 "LabFiveOcaml\\zadO.ml" 18 400 404
+type(
+  int list -> int list -> int list
+)
+ident(
+  int_ref zad1 "LabFiveOcaml\\zadO.ml" 2 2 6 "LabFiveOcaml\\zadO.ml" 2 2 10
+)
+"LabFiveOcaml\\zadO.ml" 18 400 406 "LabFiveOcaml\\zadO.ml" 18 400 407
+type(
+  int
+)
+"LabFiveOcaml\\zadO.ml" 18 400 408 "LabFiveOcaml\\zadO.ml" 18 400 409
+type(
+  int
+)
+"LabFiveOcaml\\zadO.ml" 18 400 410 "LabFiveOcaml\\zadO.ml" 18 400 411
+type(
+  int
+)
+"LabFiveOcaml\\zadO.ml" 18 400 405 "LabFiveOcaml\\zadO.ml" 18 400 412
+type(
+  int list
+)
+"LabFiveOcaml\\zadO.ml" 18 400 414 "LabFiveOcaml\\zadO.ml" 18 400 415
+type(
+  int
+)
+"LabFiveOcaml\\zadO.ml" 18 400 416 "LabFiveOcaml\\zadO.ml" 18 400 417
+type(
+  int
+)
+"LabFiveOcaml\\zadO.ml" 18 400 418 "LabFiveOcaml\\zadO.ml" 18 400 419
+type(
+  int
+)
+"LabFiveOcaml\\zadO.ml" 18 400 413 "LabFiveOcaml\\zadO.ml" 18 400 420
+type(
+  int list
+)
+"LabFiveOcaml\\zadO.ml" 18 400 400 "LabFiveOcaml\\zadO.ml" 18 400 420
+type(
+  int list
+)
+"LabFiveOcaml\\zadO.ml" 29 580 588 "LabFiveOcaml\\zadO.ml" 29 580 600
+type(
+  ('a * 'b) list -> ('a -> 'b -> 'c -> 'c) -> 'c -> 'c
+)
+ident(
+  def fcomposition "LabFiveOcaml\\zadO.ml" 29 580 580 "LabFiveOcaml\\zadO.ml" 1 0 -1
+)
+"LabFiveOcaml\\zadO.ml" 29 580 601 "LabFiveOcaml\\zadO.ml" 29 580 606
+type(
+  ('a * 'b) list
+)
+ident(
+  def flist "LabFiveOcaml\\zadO.ml" 29 580 607 "LabFiveOcaml\\zadO.ml" 37 867 897
+)
+"LabFiveOcaml\\zadO.ml" 29 580 608 "LabFiveOcaml\\zadO.ml" 29 580 616
+ident(
+  def operator "LabFiveOcaml\\zadO.ml" 30 621 622 "LabFiveOcaml\\zadO.ml" 37 867 897
+)
+"LabFiveOcaml\\zadO.ml" 29 580 607 "LabFiveOcaml\\zadO.ml" 29 580 617
+type(
+  'a -> 'b -> 'c -> 'c
+)
+"LabFiveOcaml\\zadO.ml" 30 621 626 "LabFiveOcaml\\zadO.ml" 30 621 631
+type(
+  ('d -> 'e) * ('f -> 'd) -> 'f -> 'e
+)
+ident(
+  def compo "LabFiveOcaml\\zadO.ml" 31 661 662 "LabFiveOcaml\\zadO.ml" 37 867 897
+)
+"LabFiveOcaml\\zadO.ml" 30 621 632 "LabFiveOcaml\\zadO.ml" 30 621 633
+type(
+  'd -> 'e
+)
+ident(
+  def f "LabFiveOcaml\\zadO.ml" 30 621 640 "LabFiveOcaml\\zadO.ml" 30 621 656
+)
+"LabFiveOcaml\\zadO.ml" 30 621 635 "LabFiveOcaml\\zadO.ml" 30 621 636
+type(
+  'f -> 'd
+)
+ident(
+  def g "LabFiveOcaml\\zadO.ml" 30 621 640 "LabFiveOcaml\\zadO.ml" 30 621 656
+)
+"LabFiveOcaml\\zadO.ml" 30 621 631 "LabFiveOcaml\\zadO.ml" 30 621 637
+type(
+  ('d -> 'e) * ('f -> 'd)
+)
+"LabFiveOcaml\\zadO.ml" 30 621 644 "LabFiveOcaml\\zadO.ml" 30 621 645
+type(
+  'f
+)
+ident(
+  def x "LabFiveOcaml\\zadO.ml" 30 621 649 "LabFiveOcaml\\zadO.ml" 30 621 656
+)
+"LabFiveOcaml\\zadO.ml" 30 621 649 "LabFiveOcaml\\zadO.ml" 30 621 650
+type(
+  'd -> 'e
+)
+ident(
+  int_ref f "LabFiveOcaml\\zadO.ml" 30 621 632 "LabFiveOcaml\\zadO.ml" 30 621 633
+)
+"LabFiveOcaml\\zadO.ml" 30 621 651 "LabFiveOcaml\\zadO.ml" 30 621 652
+type(
+  'f -> 'd
+)
+ident(
+  int_ref g "LabFiveOcaml\\zadO.ml" 30 621 635 "LabFiveOcaml\\zadO.ml" 30 621 636
+)
+"LabFiveOcaml\\zadO.ml" 30 621 652 "LabFiveOcaml\\zadO.ml" 30 621 655
+type(
+  'f
+)
+ident(
+  int_ref x "LabFiveOcaml\\zadO.ml" 30 621 644 "LabFiveOcaml\\zadO.ml" 30 621 645
+)
+"LabFiveOcaml\\zadO.ml" 30 621 650 "LabFiveOcaml\\zadO.ml" 30 621 656
+type(
+  'd
+)
+"LabFiveOcaml\\zadO.ml" 30 621 649 "LabFiveOcaml\\zadO.ml" 30 621 656
+type(
+  'e
+)
+"LabFiveOcaml\\zadO.ml" 30 621 640 "LabFiveOcaml\\zadO.ml" 30 621 656
+type(
+  'f -> 'e
+)
+"LabFiveOcaml\\zadO.ml" 31 661 670 "LabFiveOcaml\\zadO.ml" 31 661 675
+type(
+  ('a * 'b) list * ('c -> 'g) -> 'c -> 'g
+)
+ident(
+  def f_aux "LabFiveOcaml\\zadO.ml" 31 661 662 "LabFiveOcaml\\zadO.ml" 37 867 897
+)
+"LabFiveOcaml\\zadO.ml" 31 661 676 "LabFiveOcaml\\zadO.ml" 31 661 682
+type(
+  ('a * 'b) list
+)
+ident(
+  def f_list "LabFiveOcaml\\zadO.ml" 32 696 697 "LabFiveOcaml\\zadO.ml" 34 731 794
+)
+"LabFiveOcaml\\zadO.ml" 31 661 684 "LabFiveOcaml\\zadO.ml" 31 661 690
+type(
+  'c -> 'g
+)
+ident(
+  def result "LabFiveOcaml\\zadO.ml" 32 696 697 "LabFiveOcaml\\zadO.ml" 34 731 794
+)
+"LabFiveOcaml\\zadO.ml" 31 661 675 "LabFiveOcaml\\zadO.ml" 31 661 691
+type(
+  ('a * 'b) list * ('c -> 'g)
+)
+"LabFiveOcaml\\zadO.ml" 32 696 703 "LabFiveOcaml\\zadO.ml" 32 696 709
+type(
+  ('a * 'b) list
+)
+ident(
+  int_ref f_list "LabFiveOcaml\\zadO.ml" 31 661 676 "LabFiveOcaml\\zadO.ml" 31 661 682
+)
+"LabFiveOcaml\\zadO.ml" 33 716 717 "LabFiveOcaml\\zadO.ml" 33 716 719
+type(
+  ('a * 'b) list
+)
+"LabFiveOcaml\\zadO.ml" 33 716 723 "LabFiveOcaml\\zadO.ml" 33 716 729
+type(
+  'c -> 'g
+)
+ident(
+  int_ref result "LabFiveOcaml\\zadO.ml" 31 661 684 "LabFiveOcaml\\zadO.ml" 31 661 690
+)
+"LabFiveOcaml\\zadO.ml" 34 731 734 "LabFiveOcaml\\zadO.ml" 34 731 735
+type(
+  'a * 'b
+)
+ident(
+  def h "LabFiveOcaml\\zadO.ml" 34 731 742 "LabFiveOcaml\\zadO.ml" 34 731 794
+)
+"LabFiveOcaml\\zadO.ml" 34 731 737 "LabFiveOcaml\\zadO.ml" 34 731 738
+type(
+  ('a * 'b) list
+)
+ident(
+  def t "LabFiveOcaml\\zadO.ml" 34 731 742 "LabFiveOcaml\\zadO.ml" 34 731 794
+)
+"LabFiveOcaml\\zadO.ml" 34 731 734 "LabFiveOcaml\\zadO.ml" 34 731 738
+type(
+  ('a * 'b) list
+)
+"LabFiveOcaml\\zadO.ml" 34 731 742 "LabFiveOcaml\\zadO.ml" 34 731 747
+type(
+  ('a * 'b) list * ('c -> 'g) -> 'c -> 'g
+)
+ident(
+  int_ref f_aux "LabFiveOcaml\\zadO.ml" 31 661 670 "LabFiveOcaml\\zadO.ml" 31 661 675
+)
+"LabFiveOcaml\\zadO.ml" 34 731 748 "LabFiveOcaml\\zadO.ml" 34 731 749
+type(
+  ('a * 'b) list
+)
+ident(
+  int_ref t "LabFiveOcaml\\zadO.ml" 34 731 737 "LabFiveOcaml\\zadO.ml" 34 731 738
+)
+"LabFiveOcaml\\zadO.ml" 34 731 751 "LabFiveOcaml\\zadO.ml" 34 731 756
+type(
+  ('c -> 'g) * ('c -> 'c) -> 'c -> 'g
+)
+ident(
+  int_ref compo "LabFiveOcaml\\zadO.ml" 30 621 626 "LabFiveOcaml\\zadO.ml" 30 621 631
+)
+"LabFiveOcaml\\zadO.ml" 34 731 757 "LabFiveOcaml\\zadO.ml" 34 731 763
+type(
+  'c -> 'g
+)
+ident(
+  int_ref result "LabFiveOcaml\\zadO.ml" 31 661 684 "LabFiveOcaml\\zadO.ml" 31 661 690
+)
+"LabFiveOcaml\\zadO.ml" 34 731 765 "LabFiveOcaml\\zadO.ml" 34 731 775
+type(
+  'a -> 'b -> 'c -> 'c
+)
+ident(
+  int_ref operator "LabFiveOcaml\\zadO.ml" 29 580 607 "LabFiveOcaml\\zadO.ml" 29 580 617
+)
+"LabFiveOcaml\\zadO.ml" 34 731 777 "LabFiveOcaml\\zadO.ml" 34 731 780
+type(
+  'a * 'b -> 'a
+)
+ident(
+  ext_ref Pervasives.fst
+)
+"LabFiveOcaml\\zadO.ml" 34 731 781 "LabFiveOcaml\\zadO.ml" 34 731 782
+type(
+  'a * 'b
+)
+ident(
+  int_ref h "LabFiveOcaml\\zadO.ml" 34 731 734 "LabFiveOcaml\\zadO.ml" 34 731 735
+)
+"LabFiveOcaml\\zadO.ml" 34 731 776 "LabFiveOcaml\\zadO.ml" 34 731 783
+type(
+  'a
+)
+"LabFiveOcaml\\zadO.ml" 34 731 785 "LabFiveOcaml\\zadO.ml" 34 731 788
+type(
+  'a * 'b -> 'b
+)
+ident(
+  ext_ref Pervasives.snd
+)
+"LabFiveOcaml\\zadO.ml" 34 731 789 "LabFiveOcaml\\zadO.ml" 34 731 790
+type(
+  'a * 'b
+)
+ident(
+  int_ref h "LabFiveOcaml\\zadO.ml" 34 731 734 "LabFiveOcaml\\zadO.ml" 34 731 735
+)
+"LabFiveOcaml\\zadO.ml" 34 731 784 "LabFiveOcaml\\zadO.ml" 34 731 791
+type(
+  'b
+)
+"LabFiveOcaml\\zadO.ml" 34 731 764 "LabFiveOcaml\\zadO.ml" 34 731 792
+type(
+  'c -> 'c
+)
+"LabFiveOcaml\\zadO.ml" 34 731 756 "LabFiveOcaml\\zadO.ml" 34 731 793
+type(
+  ('c -> 'g) * ('c -> 'c)
+)
+"LabFiveOcaml\\zadO.ml" 34 731 751 "LabFiveOcaml\\zadO.ml" 34 731 793
+type(
+  'c -> 'g
+)
+"LabFiveOcaml\\zadO.ml" 34 731 747 "LabFiveOcaml\\zadO.ml" 34 731 794
+type(
+  ('a * 'b) list * ('c -> 'g)
+)
+"LabFiveOcaml\\zadO.ml" 34 731 742 "LabFiveOcaml\\zadO.ml" 34 731 794
+type(
+  'c -> 'g
+)
+"LabFiveOcaml\\zadO.ml" 32 696 697 "LabFiveOcaml\\zadO.ml" 34 731 794
+type(
+  'c -> 'g
+)
+"LabFiveOcaml\\zadO.ml" 35 799 805 "LabFiveOcaml\\zadO.ml" 35 799 810
+type(
+  ('a * 'b) list
+)
+ident(
+  int_ref flist "LabFiveOcaml\\zadO.ml" 29 580 601 "LabFiveOcaml\\zadO.ml" 29 580 606
+)
+"LabFiveOcaml\\zadO.ml" 36 817 819 "LabFiveOcaml\\zadO.ml" 36 817 820
+type(
+  'a * 'b
+)
+ident(
+  def h "LabFiveOcaml\\zadO.ml" 36 817 827 "LabFiveOcaml\\zadO.ml" 36 817 865
+)
+"LabFiveOcaml\\zadO.ml" 36 817 822 "LabFiveOcaml\\zadO.ml" 36 817 823
+type(
+  ('a * 'b) list
+)
+ident(
+  def t "LabFiveOcaml\\zadO.ml" 36 817 827 "LabFiveOcaml\\zadO.ml" 36 817 865
+)
+"LabFiveOcaml\\zadO.ml" 36 817 819 "LabFiveOcaml\\zadO.ml" 36 817 823
+type(
+  ('a * 'b) list
+)
+"LabFiveOcaml\\zadO.ml" 36 817 827 "LabFiveOcaml\\zadO.ml" 36 817 832
+type(
+  ('a * 'b) list * ('c -> 'c) -> 'c -> 'c
+)
+ident(
+  int_ref f_aux "LabFiveOcaml\\zadO.ml" 31 661 670 "LabFiveOcaml\\zadO.ml" 31 661 675
+)
+"LabFiveOcaml\\zadO.ml" 36 817 833 "LabFiveOcaml\\zadO.ml" 36 817 834
+type(
+  ('a * 'b) list
+)
+ident(
+  int_ref t "LabFiveOcaml\\zadO.ml" 36 817 822 "LabFiveOcaml\\zadO.ml" 36 817 823
+)
+"LabFiveOcaml\\zadO.ml" 36 817 837 "LabFiveOcaml\\zadO.ml" 36 817 847
+type(
+  'a -> 'b -> 'c -> 'c
+)
+ident(
+  int_ref operator "LabFiveOcaml\\zadO.ml" 29 580 607 "LabFiveOcaml\\zadO.ml" 29 580 617
+)
+"LabFiveOcaml\\zadO.ml" 36 817 849 "LabFiveOcaml\\zadO.ml" 36 817 852
+type(
+  'a * 'b -> 'a
+)
+ident(
+  ext_ref Pervasives.fst
+)
+"LabFiveOcaml\\zadO.ml" 36 817 853 "LabFiveOcaml\\zadO.ml" 36 817 854
+type(
+  'a * 'b
+)
+ident(
+  int_ref h "LabFiveOcaml\\zadO.ml" 36 817 819 "LabFiveOcaml\\zadO.ml" 36 817 820
+)
+"LabFiveOcaml\\zadO.ml" 36 817 848 "LabFiveOcaml\\zadO.ml" 36 817 855
+type(
+  'a
+)
+"LabFiveOcaml\\zadO.ml" 36 817 857 "LabFiveOcaml\\zadO.ml" 36 817 860
+type(
+  'a * 'b -> 'b
+)
+ident(
+  ext_ref Pervasives.snd
+)
+"LabFiveOcaml\\zadO.ml" 36 817 861 "LabFiveOcaml\\zadO.ml" 36 817 862
+type(
+  'a * 'b
+)
+ident(
+  int_ref h "LabFiveOcaml\\zadO.ml" 36 817 819 "LabFiveOcaml\\zadO.ml" 36 817 820
+)
+"LabFiveOcaml\\zadO.ml" 36 817 856 "LabFiveOcaml\\zadO.ml" 36 817 863
+type(
+  'b
+)
+"LabFiveOcaml\\zadO.ml" 36 817 836 "LabFiveOcaml\\zadO.ml" 36 817 864
+type(
+  'c -> 'c
+)
+"LabFiveOcaml\\zadO.ml" 36 817 832 "LabFiveOcaml\\zadO.ml" 36 817 865
+type(
+  ('a * 'b) list * ('c -> 'c)
+)
+"LabFiveOcaml\\zadO.ml" 36 817 827 "LabFiveOcaml\\zadO.ml" 36 817 865
+type(
+  'c -> 'c
+)
+"LabFiveOcaml\\zadO.ml" 37 867 869 "LabFiveOcaml\\zadO.ml" 37 867 870
+type(
+  ('a * 'b) list
+)
+"LabFiveOcaml\\zadO.ml" 37 867 874 "LabFiveOcaml\\zadO.ml" 37 867 879
+type(
+  exn -> 'c -> 'c
+)
+ident(
+  ext_ref Pervasives.raise
+)
+"LabFiveOcaml\\zadO.ml" 37 867 889 "LabFiveOcaml\\zadO.ml" 37 867 896
+type(
+  string
+)
+"LabFiveOcaml\\zadO.ml" 37 867 880 "LabFiveOcaml\\zadO.ml" 37 867 897
+type(
+  exn
+)
+"LabFiveOcaml\\zadO.ml" 37 867 874 "LabFiveOcaml\\zadO.ml" 37 867 897
+type(
+  'c -> 'c
+)
+"LabFiveOcaml\\zadO.ml" 35 799 799 "LabFiveOcaml\\zadO.ml" 37 867 897
+type(
+  'c -> 'c
+)
+"LabFiveOcaml\\zadO.ml" 31 661 662 "LabFiveOcaml\\zadO.ml" 37 867 897
+type(
+  'c -> 'c
+)
+"LabFiveOcaml\\zadO.ml" 30 621 622 "LabFiveOcaml\\zadO.ml" 37 867 897
+type(
+  'c -> 'c
+)
+"LabFiveOcaml\\zadO.ml" 39 903 907 "LabFiveOcaml\\zadO.ml" 39 903 911
+type(
+  ('a -> float) -> ('a -> float) -> 'a -> float
+)
+ident(
+  def ++ "LabFiveOcaml\\zadO.ml" 41 942 942 "LabFiveOcaml\\zadO.ml" 1 0 -1
+)
+"LabFiveOcaml\\zadO.ml" 39 903 913 "LabFiveOcaml\\zadO.ml" 39 903 914
+ident(
+  def f "LabFiveOcaml\\zadO.ml" 39 903 915 "LabFiveOcaml\\zadO.ml" 39 903 936
+)
+"LabFiveOcaml\\zadO.ml" 39 903 912 "LabFiveOcaml\\zadO.ml" 39 903 915
+type(
+  'a -> float
+)
+"LabFiveOcaml\\zadO.ml" 39 903 916 "LabFiveOcaml\\zadO.ml" 39 903 917
+ident(
+  def g "LabFiveOcaml\\zadO.ml" 39 903 918 "LabFiveOcaml\\zadO.ml" 39 903 936
+)
+"LabFiveOcaml\\zadO.ml" 39 903 915 "LabFiveOcaml\\zadO.ml" 39 903 918
+type(
+  'a -> float
+)
+"LabFiveOcaml\\zadO.ml" 39 903 919 "LabFiveOcaml\\zadO.ml" 39 903 920
+ident(
+  def x "LabFiveOcaml\\zadO.ml" 39 903 924 "LabFiveOcaml\\zadO.ml" 39 903 936
+)
+"LabFiveOcaml\\zadO.ml" 39 903 918 "LabFiveOcaml\\zadO.ml" 39 903 921
+type(
+  'a
+)
+"LabFiveOcaml\\zadO.ml" 39 903 924 "LabFiveOcaml\\zadO.ml" 39 903 925
+type(
+  'a -> float
+)
+ident(
+  int_ref f "LabFiveOcaml\\zadO.ml" 39 903 912 "LabFiveOcaml\\zadO.ml" 39 903 915
+)
+"LabFiveOcaml\\zadO.ml" 39 903 925 "LabFiveOcaml\\zadO.ml" 39 903 928
+type(
+  'a
+)
+ident(
+  int_ref x "LabFiveOcaml\\zadO.ml" 39 903 918 "LabFiveOcaml\\zadO.ml" 39 903 921
+)
+"LabFiveOcaml\\zadO.ml" 39 903 924 "LabFiveOcaml\\zadO.ml" 39 903 928
+type(
+  float
+)
+"LabFiveOcaml\\zadO.ml" 39 903 929 "LabFiveOcaml\\zadO.ml" 39 903 931
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( +. )
+)
+"LabFiveOcaml\\zadO.ml" 39 903 932 "LabFiveOcaml\\zadO.ml" 39 903 933
+type(
+  'a -> float
+)
+ident(
+  int_ref g "LabFiveOcaml\\zadO.ml" 39 903 915 "LabFiveOcaml\\zadO.ml" 39 903 918
+)
+"LabFiveOcaml\\zadO.ml" 39 903 933 "LabFiveOcaml\\zadO.ml" 39 903 936
+type(
+  'a
+)
+ident(
+  int_ref x "LabFiveOcaml\\zadO.ml" 39 903 918 "LabFiveOcaml\\zadO.ml" 39 903 921
+)
+"LabFiveOcaml\\zadO.ml" 39 903 932 "LabFiveOcaml\\zadO.ml" 39 903 936
+type(
+  float
+)
+"LabFiveOcaml\\zadO.ml" 39 903 924 "LabFiveOcaml\\zadO.ml" 39 903 936
+type(
+  float
+)
+"LabFiveOcaml\\zadO.ml" 41 942 946 "LabFiveOcaml\\zadO.ml" 41 942 949
+type(
+  'a -> float
+)
+ident(
+  def lin "LabFiveOcaml\\zadO.ml" 42 960 960 "LabFiveOcaml\\zadO.ml" 1 0 -1
+)
+"LabFiveOcaml\\zadO.ml" 41 942 950 "LabFiveOcaml\\zadO.ml" 41 942 951
+type(
+  'a
+)
+ident(
+  def x "LabFiveOcaml\\zadO.ml" 41 942 954 "LabFiveOcaml\\zadO.ml" 41 942 956
+)
+"LabFiveOcaml\\zadO.ml" 41 942 954 "LabFiveOcaml\\zadO.ml" 41 942 956
+type(
+  float
+)
+"LabFiveOcaml\\zadO.ml" 42 960 964 "LabFiveOcaml\\zadO.ml" 42 960 967
+type(
+  float -> float
+)
+ident(
+  def sqr "LabFiveOcaml\\zadO.ml" 43 980 980 "LabFiveOcaml\\zadO.ml" 1 0 -1
+)
+"LabFiveOcaml\\zadO.ml" 42 960 968 "LabFiveOcaml\\zadO.ml" 42 960 969
+type(
+  float
+)
+ident(
+  def x "LabFiveOcaml\\zadO.ml" 42 960 972 "LabFiveOcaml\\zadO.ml" 42 960 976
+)
+"LabFiveOcaml\\zadO.ml" 42 960 972 "LabFiveOcaml\\zadO.ml" 42 960 973
+type(
+  float
+)
+ident(
+  int_ref x "LabFiveOcaml\\zadO.ml" 42 960 968 "LabFiveOcaml\\zadO.ml" 42 960 969
+)
+"LabFiveOcaml\\zadO.ml" 42 960 973 "LabFiveOcaml\\zadO.ml" 42 960 975
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( *. )
+)
+"LabFiveOcaml\\zadO.ml" 42 960 975 "LabFiveOcaml\\zadO.ml" 42 960 976
+type(
+  float
+)
+ident(
+  int_ref x "LabFiveOcaml\\zadO.ml" 42 960 968 "LabFiveOcaml\\zadO.ml" 42 960 969
+)
+"LabFiveOcaml\\zadO.ml" 42 960 972 "LabFiveOcaml\\zadO.ml" 42 960 976
+type(
+  float
+)
+"LabFiveOcaml\\zadO.ml" 43 980 984 "LabFiveOcaml\\zadO.ml" 43 980 987
+type(
+  float -> float
+)
+ident(
+  def two "LabFiveOcaml\\zadO.ml" 45 1004 1004 "LabFiveOcaml\\zadO.ml" 1 0 -1
+)
+"LabFiveOcaml\\zadO.ml" 43 980 988 "LabFiveOcaml\\zadO.ml" 43 980 989
+type(
+  float
+)
+ident(
+  def x "LabFiveOcaml\\zadO.ml" 43 980 992 "LabFiveOcaml\\zadO.ml" 43 980 998
+)
+"LabFiveOcaml\\zadO.ml" 43 980 992 "LabFiveOcaml\\zadO.ml" 43 980 995
+type(
+  float
+)
+"LabFiveOcaml\\zadO.ml" 43 980 995 "LabFiveOcaml\\zadO.ml" 43 980 997
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( *. )
+)
+"LabFiveOcaml\\zadO.ml" 43 980 997 "LabFiveOcaml\\zadO.ml" 43 980 998
+type(
+  float
+)
+ident(
+  int_ref x "LabFiveOcaml\\zadO.ml" 43 980 988 "LabFiveOcaml\\zadO.ml" 43 980 989
+)
+"LabFiveOcaml\\zadO.ml" 43 980 992 "LabFiveOcaml\\zadO.ml" 43 980 998
+type(
+  float
+)
+"LabFiveOcaml\\zadO.ml" 45 1004 1004 "LabFiveOcaml\\zadO.ml" 45 1004 1016
+type(
+  ((float -> float) * (float -> float)) list ->
+  ((float -> float) -> (float -> float) -> float -> float) -> float -> float
+)
+ident(
+  int_ref fcomposition "LabFiveOcaml\\zadO.ml" 29 580 588 "LabFiveOcaml\\zadO.ml" 29 580 600
+)
+"LabFiveOcaml\\zadO.ml" 45 1004 1019 "LabFiveOcaml\\zadO.ml" 45 1004 1022
+type(
+  float -> float
+)
+ident(
+  int_ref sqr "LabFiveOcaml\\zadO.ml" 42 960 964 "LabFiveOcaml\\zadO.ml" 42 960 967
+)
+"LabFiveOcaml\\zadO.ml" 45 1004 1023 "LabFiveOcaml\\zadO.ml" 45 1004 1026
+type(
+  float -> float
+)
+ident(
+  int_ref lin "LabFiveOcaml\\zadO.ml" 41 942 946 "LabFiveOcaml\\zadO.ml" 41 942 949
+)
+"LabFiveOcaml\\zadO.ml" 45 1004 1018 "LabFiveOcaml\\zadO.ml" 45 1004 1027
+type(
+  (float -> float) * (float -> float)
+)
+"LabFiveOcaml\\zadO.ml" 45 1004 1029 "LabFiveOcaml\\zadO.ml" 45 1004 1032
+type(
+  float -> float
+)
+ident(
+  int_ref two "LabFiveOcaml\\zadO.ml" 43 980 984 "LabFiveOcaml\\zadO.ml" 43 980 987
+)
+"LabFiveOcaml\\zadO.ml" 45 1004 1033 "LabFiveOcaml\\zadO.ml" 45 1004 1036
+type(
+  float -> float
+)
+ident(
+  int_ref lin "LabFiveOcaml\\zadO.ml" 41 942 946 "LabFiveOcaml\\zadO.ml" 41 942 949
+)
+"LabFiveOcaml\\zadO.ml" 45 1004 1028 "LabFiveOcaml\\zadO.ml" 45 1004 1037
+type(
+  (float -> float) * (float -> float)
+)
+"LabFiveOcaml\\zadO.ml" 45 1004 1039 "LabFiveOcaml\\zadO.ml" 45 1004 1042
+type(
+  float -> float
+)
+ident(
+  int_ref sqr "LabFiveOcaml\\zadO.ml" 42 960 964 "LabFiveOcaml\\zadO.ml" 42 960 967
+)
+"LabFiveOcaml\\zadO.ml" 45 1004 1043 "LabFiveOcaml\\zadO.ml" 45 1004 1046
+type(
+  float -> float
+)
+ident(
+  int_ref lin "LabFiveOcaml\\zadO.ml" 41 942 946 "LabFiveOcaml\\zadO.ml" 41 942 949
+)
+"LabFiveOcaml\\zadO.ml" 45 1004 1038 "LabFiveOcaml\\zadO.ml" 45 1004 1047
+type(
+  (float -> float) * (float -> float)
+)
+"LabFiveOcaml\\zadO.ml" 45 1004 1017 "LabFiveOcaml\\zadO.ml" 45 1004 1048
+type(
+  ((float -> float) * (float -> float)) list
+)
+"LabFiveOcaml\\zadO.ml" 45 1004 1049 "LabFiveOcaml\\zadO.ml" 45 1004 1053
+type(
+  (float -> float) -> (float -> float) -> float -> float
+)
+ident(
+  int_ref ++ "LabFiveOcaml\\zadO.ml" 39 903 907 "LabFiveOcaml\\zadO.ml" 39 903 911
+)
+"LabFiveOcaml\\zadO.ml" 45 1004 1054 "LabFiveOcaml\\zadO.ml" 45 1004 1057
+type(
+  float
+)
+"LabFiveOcaml\\zadO.ml" 45 1004 1004 "LabFiveOcaml\\zadO.ml" 45 1004 1057
+type(
+  float
+)
